@@ -15,10 +15,10 @@ def rank_key(program, episodes, now):
     dates = [datetime.fromisoformat(e['date']).astimezone(JST) for e in episodes]
     dates = [d for d in dates if d <= now]
     if not dates:
-        return (1, 0, 0, program['id'])
+        return (1, 0, 0, program.get('default_order', program['id']))
     latest = max(dates)
     frequency = sum(now - timedelta(days=90) <= d <= now for d in dates)
-    return (0, -latest.date().toordinal(), -frequency, program['id'])
+    return (0, -latest.date().toordinal(), -frequency, program.get('default_order', program['id']))
 
 def fetch(program, now):
     req = Request(program['rss'], headers={'User-Agent': 'MitoyoOnAir/1.0 RSS reader'})
