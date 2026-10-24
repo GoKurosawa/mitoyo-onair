@@ -1,0 +1,904 @@
+{
+  "2": {
+    "rss": "https://anchor.fm/s/edbe9770/podcast/rss",
+    "episodes": [
+      {
+        "date": "2026-10-15T21:00:00+09:00",
+        "title": "#2-27_後編「国語が最強」ゲスト小玉祥平さん",
+        "link": "https://podcasters.spotify.com/pod/show/a7lsk4gucf/episodes/2-27_-e3q3gg6",
+        "guid": "891c8a0d-8449-4820-a64b-73748fd87b68",
+        "show": "おかわりラジオ🍚"
+      },
+      {
+        "date": "2026-10-11T21:00:00+09:00",
+        "title": "#2-26_中編「新コーナー発足！」ゲスト小玉祥平さん",
+        "link": "https://podcasters.spotify.com/pod/show/a7lsk4gucf/episodes/2-26_-e3q3f4a",
+        "guid": "37c01136-b3a8-46ed-92a9-ccaf88929e84",
+        "show": "おかわりラジオ🍚"
+      },
+      {
+        "date": "2026-10-08T01:12:17+09:00",
+        "title": "#2-25_前編 「ウケるを考察する」ゲスト小玉祥平さん",
+        "link": "https://podcasters.spotify.com/pod/show/a7lsk4gucf/episodes/2-25_-e3q3co7",
+        "guid": "7b000549-efe4-4522-8a76-852429e6734f",
+        "show": "おかわりラジオ🍚"
+      },
+      {
+        "date": "2026-09-29T22:00:00+09:00",
+        "title": "# 2-24 「焼鳥と日常」ゲスト西山杏奈さん",
+        "link": "https://podcasters.spotify.com/pod/show/a7lsk4gucf/episodes/2-24-e3p9nf1",
+        "guid": "d257f5df-bd89-41bf-be93-9632a84a7d1f",
+        "show": "おかわりラジオ🍚"
+      },
+      {
+        "date": "2026-09-24T22:00:00+09:00",
+        "title": "#2-23 「梅干しに救われて」ゲスト西山杏奈さん",
+        "link": "https://podcasters.spotify.com/pod/show/a7lsk4gucf/episodes/2-23-e3p9mec",
+        "guid": "010037f1-cb8a-4926-8e5f-b680277b928e",
+        "show": "おかわりラジオ🍚"
+      },
+      {
+        "date": "2026-09-11T04:22:00+09:00",
+        "title": "# 2-22「不器用な一杯を」ゲスト 高畑律玖さん",
+        "link": "https://podcasters.spotify.com/pod/show/a7lsk4gucf/episodes/2-22-e3ols53",
+        "guid": "4689619d-6590-45ca-990d-9d0c34bddd02",
+        "show": "おかわりラジオ🍚"
+      },
+      {
+        "date": "2026-09-03T22:00:00+09:00",
+        "title": "# 2-21 「バーテン・ドライバー」ゲスト 高畑律玖さん",
+        "link": "https://podcasters.spotify.com/pod/show/a7lsk4gucf/episodes/2-21-e3o9crl",
+        "guid": "1239c243-0a78-445b-b99d-555476b10e83",
+        "show": "おかわりラジオ🍚"
+      },
+      {
+        "date": "2026-08-25T22:30:00+09:00",
+        "title": "#2-20 「蝶を追い求めて」 ゲスト 大内正伸さん・一歌ちゃん",
+        "link": "https://podcasters.spotify.com/pod/show/a7lsk4gucf/episodes/2-20-e3nr387",
+        "guid": "bd9a7248-fa24-4cdc-abf3-651904786ed4",
+        "show": "おかわりラジオ🍚"
+      },
+      {
+        "date": "2026-08-25T22:00:01+09:00",
+        "title": "【アフタートーク】初めてのラジオCM",
+        "link": "https://podcasters.spotify.com/pod/show/a7lsk4gucf/episodes/CM-e3nruco",
+        "guid": "2fe5a420-db90-4063-886f-b57497a9bd4a",
+        "show": "おかわりラジオ🍚"
+      },
+      {
+        "date": "2026-08-19T11:23:19+09:00",
+        "title": "#2-19 「その空間がカシボニで、旅の途中で」ゲスト大河内 博子さん",
+        "link": "https://podcasters.spotify.com/pod/show/a7lsk4gucf/episodes/2-19-e3ni912",
+        "guid": "e3559f89-7763-4ac4-b9cb-bed97d033da8",
+        "show": "おかわりラジオ🍚"
+      },
+      {
+        "date": "2026-08-13T12:45:42+09:00",
+        "title": "#2-18「プライドを置き去りに」ゲスト 大河内 博子さん",
+        "link": "https://podcasters.spotify.com/pod/show/a7lsk4gucf/episodes/2-18-e3nbcqi",
+        "guid": "917b50a3-f1f1-4e89-b724-70ff159b3845",
+        "show": "おかわりラジオ🍚"
+      },
+      {
+        "date": "2026-08-10T20:00:00+09:00",
+        "title": "【アフタートーク】これからも一緒に遊んでいきたい",
+        "link": "https://podcasters.spotify.com/pod/show/a7lsk4gucf/episodes/ep-e3n1r0j",
+        "guid": "ab540557-7e18-4dc4-b6a5-8bd2a4292f0f",
+        "show": "おかわりラジオ🍚"
+      },
+      {
+        "date": "2026-08-04T21:00:00+09:00",
+        "title": "#2-17 「傷が価値になるように」ゲスト日比生 海欧さん",
+        "link": "https://podcasters.spotify.com/pod/show/a7lsk4gucf/episodes/2-17-e3mtpit",
+        "guid": "f89a58ce-5a48-4987-92e3-aa7060f967ed",
+        "show": "おかわりラジオ🍚"
+      },
+      {
+        "date": "2026-07-28T22:09:24+09:00",
+        "title": "＃2-16 「すべてはロン毛のせい」ゲスト日比生 海欧さん",
+        "link": "https://podcasters.spotify.com/pod/show/a7lsk4gucf/episodes/2-16-e3mio9c",
+        "guid": "faea34d1-6810-4d47-9bbe-c168259ed74a",
+        "show": "おかわりラジオ🍚"
+      },
+      {
+        "date": "2026-07-28T22:08:01+09:00",
+        "title": "【アフタートーク】 車ですれ違うと嬉しい",
+        "link": "https://podcasters.spotify.com/pod/show/a7lsk4gucf/episodes/ep-e3ml9b5",
+        "guid": "def23e7e-f0f1-42fe-87f2-bf88075f63a0",
+        "show": "おかわりラジオ🍚"
+      },
+      {
+        "date": "2026-07-21T01:42:00+09:00",
+        "title": "#2-15 「逆時短生活のすすめ」（ゲストたろちゃん）",
+        "link": "https://podcasters.spotify.com/pod/show/a7lsk4gucf/episodes/2-15-e3m0pvq",
+        "guid": "769e9488-7b7e-4c87-be2b-4b03ece34597",
+        "show": "おかわりラジオ🍚"
+      },
+      {
+        "date": "2026-07-13T09:46:39+09:00",
+        "title": "＃2-14「カードの限界値と骨折」ゲストたろちゃん",
+        "link": "https://podcasters.spotify.com/pod/show/a7lsk4gucf/episodes/2-14-e3lvebm",
+        "guid": "d19758fb-b33b-4327-8fd8-895482e147f0",
+        "show": "おかわりラジオ🍚"
+      },
+      {
+        "date": "2026-05-03T03:47:29+09:00",
+        "title": "#2-13 大地さんと「鮨酒場・南」について",
+        "link": "https://podcasters.spotify.com/pod/show/a7lsk4gucf/episodes/2-13-e3il7qk",
+        "guid": "fdf06881-7c5b-4067-a730-8596b672bd84",
+        "show": "おかわりラジオ🍚"
+      },
+      {
+        "date": "2026-04-23T09:56:03+09:00",
+        "title": "#2-12 青木陽平さんと、「ハレとケ」について",
+        "link": "https://podcasters.spotify.com/pod/show/a7lsk4gucf/episodes/2-12-e3i4f7g",
+        "guid": "1f08071c-9dbe-4007-b866-6773ee593eb5",
+        "show": "おかわりラジオ🍚"
+      },
+      {
+        "date": "2026-04-13T21:31:53+09:00",
+        "title": "＃2-11 ババちゃんとシューピーと「ラジオをするまでの話」",
+        "link": "https://podcasters.spotify.com/pod/show/a7lsk4gucf/episodes/2-11-e3hqg2u",
+        "guid": "ca357c35-0a19-44d9-9813-e72337a234c2",
+        "show": "おかわりラジオ🍚"
+      },
+      {
+        "date": "2026-04-06T19:00:00+09:00",
+        "title": "#2-10 隣にいる猫ちゃんの話【植本修子さん・白川直子さん】",
+        "link": "https://podcasters.spotify.com/pod/show/a7lsk4gucf/episodes/2-10-e3h940r",
+        "guid": "7006f51c-b488-4681-bc47-a24d473ee91b",
+        "show": "おかわりラジオ🍚"
+      },
+      {
+        "date": "2026-03-31T23:27:43+09:00",
+        "title": "＃2-9 福山さんと「塾を開いた想い」について",
+        "link": "https://podcasters.spotify.com/pod/show/a7lsk4gucf/episodes/2-9-e3h7d6a",
+        "guid": "83d7fdae-7bcf-4026-94d0-094eb4f6479c",
+        "show": "おかわりラジオ🍚"
+      },
+      {
+        "date": "2026-03-15T16:05:04+09:00",
+        "title": "＃2-8 バカ学ラジオの３人と話しました！",
+        "link": "https://podcasters.spotify.com/pod/show/a7lsk4gucf/episodes/2-8-e3ge4vj",
+        "guid": "b1fd415e-7d18-4ba6-b914-066718c50195",
+        "show": "おかわりラジオ🍚"
+      },
+      {
+        "date": "2026-03-13T15:25:24+09:00",
+        "title": "＃2-7 藤田 薫さんと「景色の作り方」の話",
+        "link": "https://podcasters.spotify.com/pod/show/a7lsk4gucf/episodes/2-7-e3gchi0",
+        "guid": "9f1fa794-7bc1-4173-ae03-4b05c8b5688d",
+        "show": "おかわりラジオ🍚"
+      },
+      {
+        "date": "2026-03-04T03:05:02+09:00",
+        "title": "#2-6 金丸 航大が帰ってきました！！",
+        "link": "https://podcasters.spotify.com/pod/show/a7lsk4gucf/episodes/2-6-e3fsrv7",
+        "guid": "4aa38979-07b7-4ab9-980a-fcd8302f50dd",
+        "show": "おかわりラジオ🍚"
+      },
+      {
+        "date": "2026-02-11T00:46:04+09:00",
+        "title": "# 2-5 健太さんと、「ベーグルに辿り着くまで」",
+        "link": "https://podcasters.spotify.com/pod/show/a7lsk4gucf/episodes/2-5-e3ero35",
+        "guid": "71783ab7-c408-44c9-a9af-2324f9292283",
+        "show": "おかわりラジオ🍚"
+      },
+      {
+        "date": "2026-02-09T15:30:13+09:00",
+        "title": "# 2-4 島崎さんと、「ケアの先にあるごはん」",
+        "link": "https://podcasters.spotify.com/pod/show/a7lsk4gucf/episodes/2-4-e3er3ei",
+        "guid": "df091c92-a191-4e7e-b588-aeb70b7a2464",
+        "show": "おかわりラジオ🍚"
+      },
+      {
+        "date": "2026-01-25T16:14:22+09:00",
+        "title": "# 2-3 ひでひでと、「その場を彩る先に見たいもの」",
+        "link": "https://podcasters.spotify.com/pod/show/a7lsk4gucf/episodes/2-3-e3e52iu",
+        "guid": "6da63db9-605e-4028-a894-f134a61d8ca2",
+        "show": "おかわりラジオ🍚"
+      },
+      {
+        "date": "2026-01-17T16:16:50+09:00",
+        "title": "＃2-2 辻ひとみさんと、「役割を脱げる場」について",
+        "link": "https://podcasters.spotify.com/pod/show/a7lsk4gucf/episodes/2-2-e3dof3v",
+        "guid": "a05c9376-0607-4779-9f05-158fdd6a9897",
+        "show": "おかわりラジオ🍚"
+      },
+      {
+        "date": "2026-01-03T10:40:56+09:00",
+        "title": "＃2-1 おかわりラジオも明けました🍚",
+        "link": "https://podcasters.spotify.com/pod/show/a7lsk4gucf/episodes/2-1-e3d3uef",
+        "guid": "f6a2ae01-735d-448d-b210-0177d240e150",
+        "show": "おかわりラジオ🍚"
+      },
+      {
+        "date": "2025-12-14T09:39:02+09:00",
+        "title": "＃1-29 ひでひでと「町医者として人とまちを診る」ということ",
+        "link": "https://podcasters.spotify.com/pod/show/a7lsk4gucf/episodes/1-29-e3cam1m",
+        "guid": "b64d6a36-8550-485e-b686-6b11383d1074",
+        "show": "おかわりラジオ🍚"
+      },
+      {
+        "date": "2025-11-28T10:38:58+09:00",
+        "title": "＃1-28 島崎さんと ”暮らしの現在地” について",
+        "link": "https://podcasters.spotify.com/pod/show/a7lsk4gucf/episodes/1-28-e3bhq1u",
+        "guid": "c9002fac-3d20-4b48-bb9a-23fa7f2a085d",
+        "show": "おかわりラジオ🍚"
+      },
+      {
+        "date": "2025-11-19T22:31:36+09:00",
+        "title": "# 1-27 D [島田真吾] さんと ”出会い” について",
+        "link": "https://podcasters.spotify.com/pod/show/a7lsk4gucf/episodes/1-27-D-e3b6b0u",
+        "guid": "367fcdd7-3e59-4f5c-97e6-225f94224325",
+        "show": "おかわりラジオ🍚"
+      },
+      {
+        "date": "2025-11-14T00:00:28+09:00",
+        "title": "#1-26 【分娩台からこんにちは！】ゲスト：まなちゃん",
+        "link": "https://podcasters.spotify.com/pod/show/a7lsk4gucf/episodes/1-26-e3ats0m",
+        "guid": "dd19dfb5-83b5-45cf-be47-9e130fa2fb7c",
+        "show": "おかわりラジオ🍚"
+      },
+      {
+        "date": "2025-11-08T11:46:42+09:00",
+        "title": "# 1−25　慎梧さんの家族とクラファン",
+        "link": "https://podcasters.spotify.com/pod/show/a7lsk4gucf/episodes/125-e3akmrb",
+        "guid": "0109e603-3add-4752-a9f0-0346c529563e",
+        "show": "おかわりラジオ🍚"
+      },
+      {
+        "date": "2025-11-07T15:47:22+09:00",
+        "title": "【おかえり1-4】おばあちゃんとパーソナライズ（お便りコーナー）",
+        "link": "https://podcasters.spotify.com/pod/show/a7lsk4gucf/episodes/1-4-e3akls3",
+        "guid": "3cc06f22-8784-4386-ab05-0d666fdc9981",
+        "show": "おかわりラジオ🍚"
+      },
+      {
+        "date": "2025-11-06T23:20:12+09:00",
+        "title": "# 1-24 【分娩台からこんにちは！】ゲスト：まなちゃん",
+        "link": "https://podcasters.spotify.com/pod/show/a7lsk4gucf/episodes/1-24-e3aj59t",
+        "guid": "2a3d1184-d68d-4bd1-ad9e-27c280696ea1",
+        "show": "おかわりラジオ🍚"
+      },
+      {
+        "date": "2025-10-21T21:45:15+09:00",
+        "title": "＃1-23 裕一さんと ”嫌われる勇気”",
+        "link": "https://podcasters.spotify.com/pod/show/a7lsk4gucf/episodes/1-23-e39r6e3",
+        "guid": "8f5762e3-1b15-45a1-b641-440308c01605",
+        "show": "おかわりラジオ🍚"
+      },
+      {
+        "date": "2025-10-17T09:54:12+09:00",
+        "title": "# 1-22 颯さんと、次の季節に持っていきたいもの",
+        "link": "https://podcasters.spotify.com/pod/show/a7lsk4gucf/episodes/1-22-e39l3i7",
+        "guid": "94d87c11-fcc8-4778-8ebc-4feba63048a3",
+        "show": "おかわりラジオ🍚"
+      },
+      {
+        "date": "2025-10-01T23:55:01+09:00",
+        "title": "# 1-21 颯さんと「夏」について",
+        "link": "https://podcasters.spotify.com/pod/show/a7lsk4gucf/episodes/1-21-e38inhp",
+        "guid": "86f36e07-3ef1-4ca1-9066-ed5c23722dfa",
+        "show": "おかわりラジオ🍚"
+      },
+      {
+        "date": "2025-09-30T09:55:26+09:00",
+        "title": "【おかえり1-3】　まきこさんと小さい頃の思い出の話",
+        "link": "https://podcasters.spotify.com/pod/show/a7lsk4gucf/episodes/1-3-e38sngu",
+        "guid": "0685ed50-4bb2-4b24-bec4-b68cc0cba974",
+        "show": "おかわりラジオ🍚"
+      },
+      {
+        "date": "2025-09-23T05:17:38+09:00",
+        "title": "＃ひとくち1-30 ケーキを食べて夜を引き伸ばそう【お便り回】",
+        "link": "https://podcasters.spotify.com/pod/show/a7lsk4gucf/episodes/1-30-e38ir5j",
+        "guid": "9201c38d-bd16-4b2a-ba47-4625ef077d4b",
+        "show": "おかわりラジオ🍚"
+      },
+      {
+        "date": "2025-09-19T09:47:40+09:00",
+        "title": "# 1-20 美容室からメイクとラジオの話",
+        "link": "https://podcasters.spotify.com/pod/show/a7lsk4gucf/episodes/1-20-e38duni",
+        "guid": "deb8f36c-875c-4680-ab94-b5abf0f89c98",
+        "show": "おかわりラジオ🍚"
+      },
+      {
+        "date": "2025-08-31T09:55:51+09:00",
+        "title": "# 1-19 宗一郎さんと \"青春\" について",
+        "link": "https://podcasters.spotify.com/pod/show/a7lsk4gucf/episodes/1-19-e37hp3f",
+        "guid": "ebeabf7c-bdc8-44fe-94dd-678799e20d26",
+        "show": "おかわりラジオ🍚"
+      },
+      {
+        "date": "2025-08-20T03:04:00+09:00",
+        "title": "＃ひとくち1-29 小さいかますとキスが似ていた",
+        "link": "https://podcasters.spotify.com/pod/show/a7lsk4gucf/episodes/1-29-e37252n",
+        "guid": "3b6dda52-c5ed-4e21-a7d1-5065626ccf96",
+        "show": "おかわりラジオ🍚"
+      },
+      {
+        "date": "2025-08-18T21:42:13+09:00",
+        "title": "＃ひとくち 1-28 ラジオを発信する方法は何がいいだろか",
+        "link": "https://podcasters.spotify.com/pod/show/a7lsk4gucf/episodes/1-28-e3708bq",
+        "guid": "bfcb5617-6846-45ca-afab-d4327075f53d",
+        "show": "おかわりラジオ🍚"
+      },
+      {
+        "date": "2025-08-17T19:01:30+09:00",
+        "title": "＃ひとくち1-27　フレッシュ感を出しにいく",
+        "link": "https://podcasters.spotify.com/pod/show/a7lsk4gucf/episodes/1-27-e36uskr",
+        "guid": "06dd2907-cbbc-4656-8852-3cc83c52f534",
+        "show": "おかわりラジオ🍚"
+      },
+      {
+        "date": "2025-08-17T09:45:47+09:00",
+        "title": "【おかえり1-2 】すみさんと昔の恋の話",
+        "link": "https://podcasters.spotify.com/pod/show/a7lsk4gucf/episodes/1-2-e36ujnq",
+        "guid": "7f41e0bf-d507-4a0b-aaf4-c2e7896f7e4f",
+        "show": "おかわりラジオ🍚"
+      },
+      {
+        "date": "2025-08-15T19:22:26+09:00",
+        "title": "#ひとくち 1-26　たんすのおばあちゃんと喫茶店に行きました",
+        "link": "https://podcasters.spotify.com/pod/show/a7lsk4gucf/episodes/1-26-e36srse",
+        "guid": "57dcd52e-b5dc-410c-9dd0-0e426c1068e7",
+        "show": "おかわりラジオ🍚"
+      },
+      {
+        "date": "2025-08-15T09:26:55+09:00",
+        "title": "# 1-18 また行きたくなる場所",
+        "link": "https://podcasters.spotify.com/pod/show/a7lsk4gucf/episodes/1-18-e36scus",
+        "guid": "c90ffd2a-9111-4fcf-9f6a-309212110b97",
+        "show": "おかわりラジオ🍚"
+      },
+      {
+        "date": "2025-08-15T09:26:15+09:00",
+        "title": "＃ひとくち1-25 ラジオを始めたきっかけの人がラジオを聴いてくれてなかった",
+        "link": "https://podcasters.spotify.com/pod/show/a7lsk4gucf/episodes/1-25-e36sdcb",
+        "guid": "c7b6b381-89e1-4ed2-b3e6-f6c9384e27db",
+        "show": "おかわりラジオ🍚"
+      },
+      {
+        "date": "2025-08-15T09:22:27+09:00",
+        "title": "ひとくち1-24 タンスのおばあちゃんがカフェに来てくれました",
+        "link": "https://podcasters.spotify.com/pod/show/a7lsk4gucf/episodes/1-24-e36sd9k",
+        "guid": "381f917a-8010-421b-88d3-a63b5128daf4",
+        "show": "おかわりラジオ🍚"
+      },
+      {
+        "date": "2025-08-09T09:15:12+09:00",
+        "title": "【おかえり 1-1 】みちこさんと料理の話",
+        "link": "https://podcasters.spotify.com/pod/show/a7lsk4gucf/episodes/1-1-e36ko2m",
+        "guid": "44005dae-8267-450e-a667-afe337efaec9",
+        "show": "おかわりラジオ🍚"
+      },
+      {
+        "date": "2025-08-04T10:04:45+09:00",
+        "title": "ひとくち1-23 座禅会に行ってきました!",
+        "link": "https://podcasters.spotify.com/pod/show/a7lsk4gucf/episodes/1-23-e36df1f",
+        "guid": "692c82cb-ca5e-42e9-be0f-248c02fcccf2",
+        "show": "おかわりラジオ🍚"
+      },
+      {
+        "date": "2025-08-01T10:12:12+09:00",
+        "title": "ひとくち1-23 ケアする人をケアする団欒やります！",
+        "link": "https://podcasters.spotify.com/pod/show/a7lsk4gucf/episodes/1-23-e36a3m9",
+        "guid": "397333c1-fb3c-46ff-98b9-50ece417f58f",
+        "show": "おかわりラジオ🍚"
+      },
+      {
+        "date": "2025-07-29T07:37:36+09:00",
+        "title": "ひとくち1-22 他己紹介もプレゼン",
+        "link": "https://podcasters.spotify.com/pod/show/a7lsk4gucf/episodes/1-22-e365fn1",
+        "guid": "73f7ffb0-eb95-4cee-acb4-ecf163ac5652",
+        "show": "おかわりラジオ🍚"
+      },
+      {
+        "date": "2025-07-28T03:34:57+09:00",
+        "title": "# 1-17 チェリさんとバーの行き方の話",
+        "link": "https://podcasters.spotify.com/pod/show/a7lsk4gucf/episodes/1-17-e362rvv",
+        "guid": "1d4dff6d-3176-43df-9cd2-3d0db0e04071",
+        "show": "おかわりラジオ🍚"
+      },
+      {
+        "date": "2025-07-25T12:33:45+09:00",
+        "title": "ひとくち　1-21 本音の団欒を終えて",
+        "link": "https://podcasters.spotify.com/pod/show/a7lsk4gucf/episodes/1-21-e360928",
+        "guid": "3ed1b752-5db4-45ab-9996-0a01c96a77a2",
+        "show": "おかわりラジオ🍚"
+      },
+      {
+        "date": "2025-07-23T10:25:30+09:00",
+        "title": "ひとくち1-20 助けられてきた人たちの団欒を終えて",
+        "link": "https://podcasters.spotify.com/pod/show/a7lsk4gucf/episodes/1-20-e35t789",
+        "guid": "e273e5c8-1877-4842-95c4-08a44a06f81e",
+        "show": "おかわりラジオ🍚"
+      },
+      {
+        "date": "2025-07-21T10:04:16+09:00",
+        "title": "ひとくち1-19 友達と焼き鳥を食べました",
+        "link": "https://podcasters.spotify.com/pod/show/a7lsk4gucf/episodes/1-19-e35q50p",
+        "guid": "362f313b-59fc-42e5-929d-90f4784c4e7c",
+        "show": "おかわりラジオ🍚"
+      },
+      {
+        "date": "2025-07-20T10:02:31+09:00",
+        "title": "ひとくち 1-17 全てをキャンセルしたくなる朝に",
+        "link": "https://podcasters.spotify.com/pod/show/a7lsk4gucf/episodes/1-17-e35p2ch",
+        "guid": "b6022186-3bd2-43f0-9835-31b75fae17d9",
+        "show": "おかわりラジオ🍚"
+      },
+      {
+        "date": "2025-07-19T08:57:11+09:00",
+        "title": "ひとくち1-17 花火とじいちゃんと",
+        "link": "https://podcasters.spotify.com/pod/show/a7lsk4gucf/episodes/1-17-e35o5ei",
+        "guid": "c1b7fe7f-4bd2-4036-b351-2fbfe91c2441",
+        "show": "おかわりラジオ🍚"
+      },
+      {
+        "date": "2025-07-16T07:27:30+09:00",
+        "title": "ひとくち1-14 信号待ちと三枚おろしに人生が出る話",
+        "link": "https://podcasters.spotify.com/pod/show/a7lsk4gucf/episodes/1-14-e35jq70",
+        "guid": "032039e3-79b0-4985-9608-42daf6b863e6",
+        "show": "おかわりラジオ🍚"
+      },
+      {
+        "date": "2025-07-16T00:02:23+09:00",
+        "title": "# 1-16 優さんと\"仲間\"について",
+        "link": "https://podcasters.spotify.com/pod/show/a7lsk4gucf/episodes/1-16-e352jj7",
+        "guid": "f191cb38-c7e7-481c-b3f9-09f5f2deeb55",
+        "show": "おかわりラジオ🍚"
+      },
+      {
+        "date": "2025-07-14T02:14:38+09:00",
+        "title": "# 1-15 しんごさん大全②　その人がその人らしくあれるように",
+        "link": "https://podcasters.spotify.com/pod/show/a7lsk4gucf/episodes/1-15-e35g4pt",
+        "guid": "49e4c648-7fc0-4d7d-a8ad-8b4087d9513c",
+        "show": "おかわりラジオ🍚"
+      },
+      {
+        "date": "2025-07-14T00:54:28+09:00",
+        "title": "# 1-14 しんごさん大全① 沖縄時代のもがき編",
+        "link": "https://podcasters.spotify.com/pod/show/a7lsk4gucf/episodes/1-14-e35g29r",
+        "guid": "af21cbb4-b72f-4b48-bf7a-81ea8d6e58ff",
+        "show": "おかわりラジオ🍚"
+      },
+      {
+        "date": "2025-07-13T09:37:05+09:00",
+        "title": "ひとくち1-15 ラジオを遠くから聞いてくれる人がいることについて",
+        "link": "https://podcasters.spotify.com/pod/show/a7lsk4gucf/episodes/1-15-e35fhc6",
+        "guid": "06d68de1-8340-4593-a754-d49f9a74e6e0",
+        "show": "おかわりラジオ🍚"
+      },
+      {
+        "date": "2025-07-12T09:43:10+09:00",
+        "title": "ひとくち1-14 夫婦を超えてゆけ〜♩",
+        "link": "https://podcasters.spotify.com/pod/show/a7lsk4gucf/episodes/1-14-e35ek5o",
+        "guid": "ca84c4f9-6335-45ca-8c94-7c35cc3d4f7d",
+        "show": "おかわりラジオ🍚"
+      },
+      {
+        "date": "2025-07-11T07:48:55+09:00",
+        "title": "ひとくち1-13 あもんくんとアップルパイ",
+        "link": "https://podcasters.spotify.com/pod/show/a7lsk4gucf/episodes/1-13-e35d7d4",
+        "guid": "c1d8c06e-191c-4964-a56f-77099b6dbe56",
+        "show": "おかわりラジオ🍚"
+      },
+      {
+        "date": "2025-07-11T07:32:23+09:00",
+        "title": "# 1-13 パートナーシップと暮らしについて",
+        "link": "https://podcasters.spotify.com/pod/show/a7lsk4gucf/episodes/1-13-e35d6sp",
+        "guid": "2fc4848d-4b3b-4644-aaa9-ddd78dbd81db",
+        "show": "おかわりラジオ🍚"
+      },
+      {
+        "date": "2025-07-09T00:32:32+09:00",
+        "title": "ひとくち 1-12 堂々と真夏の果実を歌いたい話",
+        "link": "https://podcasters.spotify.com/pod/show/a7lsk4gucf/episodes/1-12-e359683",
+        "guid": "1267b114-56c1-4e24-b431-29f782827287",
+        "show": "おかわりラジオ🍚"
+      },
+      {
+        "date": "2025-07-07T07:30:44+09:00",
+        "title": "ひとくち 1-11 自己紹介と言語化しない美学について",
+        "link": "https://podcasters.spotify.com/pod/show/a7lsk4gucf/episodes/1-11-e356bi2",
+        "guid": "c3a817ad-4127-4dcd-afb6-298640eb38ed",
+        "show": "おかわりラジオ🍚"
+      },
+      {
+        "date": "2025-07-07T07:28:25+09:00",
+        "title": "# 1-12 移住と定住のあいだから",
+        "link": "https://podcasters.spotify.com/pod/show/a7lsk4gucf/episodes/1-12-e356b6a",
+        "guid": "cf618428-5102-40e6-8d63-ef6b5e9efa81",
+        "show": "おかわりラジオ🍚"
+      },
+      {
+        "date": "2025-07-06T09:06:51+09:00",
+        "title": "ひとくち 1-10 裕一さんがこうだいに聞くこれからの働き方",
+        "link": "https://podcasters.spotify.com/pod/show/a7lsk4gucf/episodes/1-10-e355abp",
+        "guid": "3d1da35e-df5a-457f-a723-d2fe730cf65b",
+        "show": "おかわりラジオ🍚"
+      },
+      {
+        "date": "2025-07-05T09:08:05+09:00",
+        "title": "ひとくち1-9 呪文のような言葉の意味がわかった話",
+        "link": "https://podcasters.spotify.com/pod/show/a7lsk4gucf/episodes/1-9-e354dkp",
+        "guid": "fb43229f-e0c6-483c-8bf3-6e4994724dfa",
+        "show": "おかわりラジオ🍚"
+      },
+      {
+        "date": "2025-07-04T02:27:36+09:00",
+        "title": "ひとくち1-8 野菜作り的まちづくりの話",
+        "link": "https://podcasters.spotify.com/pod/show/a7lsk4gucf/episodes/1-8-e352oo0",
+        "guid": "f3e2f919-7a16-4cfc-8a12-e74c58caed99",
+        "show": "おかわりラジオ🍚"
+      },
+      {
+        "date": "2025-07-03T00:23:06+09:00",
+        "title": "ひとくち1-7 試着室まで行ったら服を買わなければ出られなくなる話",
+        "link": "https://podcasters.spotify.com/pod/show/a7lsk4gucf/episodes/1-7-e3511l7",
+        "guid": "3eadd56e-869b-44fa-b041-587c5b9fe77c",
+        "show": "おかわりラジオ🍚"
+      },
+      {
+        "date": "2025-07-02T02:13:25+09:00",
+        "title": "ひとくち1-6 「おこられてきた人たちの団欒」を終えて",
+        "link": "https://podcasters.spotify.com/pod/show/a7lsk4gucf/episodes/1-6-e34vl7d",
+        "guid": "f89c8a14-0266-4bd9-9e87-84e604a61d6d",
+        "show": "おかわりラジオ🍚"
+      },
+      {
+        "date": "2025-07-01T08:03:00+09:00",
+        "title": "ひとくち 1-5 鮮魚コーナーでウロコを散らかしている話",
+        "link": "https://podcasters.spotify.com/pod/show/a7lsk4gucf/episodes/1-5-e34u4lc",
+        "guid": "8ca822f8-b63c-40d3-a32e-e781b267b39d",
+        "show": "おかわりラジオ🍚"
+      },
+      {
+        "date": "2025-07-01T08:01:40+09:00",
+        "title": "# 1-11 居心地の良さをもたらすもの",
+        "link": "https://podcasters.spotify.com/pod/show/a7lsk4gucf/episodes/1-11-e34u36e",
+        "guid": "718ab0cf-47b8-46b1-a37d-a670040ade9a",
+        "show": "おかわりラジオ🍚"
+      },
+      {
+        "date": "2025-07-01T07:25:09+09:00",
+        "title": "# 1-9 住職の一日と \"煩悩\" について",
+        "link": "https://podcasters.spotify.com/pod/show/a7lsk4gucf/episodes/1-9-e34u1ip",
+        "guid": "f4da11b0-7cc6-4e86-bda7-8664b442c8d1",
+        "show": "おかわりラジオ🍚"
+      },
+      {
+        "date": "2025-06-30T00:03:22+09:00",
+        "title": "ひとくちラジオ1-4 おばあちゃんが毎回タンスをくれようとしてくれる話",
+        "link": "https://podcasters.spotify.com/pod/show/a7lsk4gucf/episodes/1-4-e34sdi9",
+        "guid": "4e016840-8a78-4989-9945-e3985d29bd13",
+        "show": "おかわりラジオ🍚"
+      },
+      {
+        "date": "2025-06-26T13:28:18+09:00",
+        "title": "ひとくちラジオ 1-3 スーパーの一言やりとりを上手くなりたい話",
+        "link": "https://podcasters.spotify.com/pod/show/a7lsk4gucf/episodes/1-3-e34obu4",
+        "guid": "19e3e931-d905-43dd-9597-ba04c48027e9",
+        "show": "おかわりラジオ🍚"
+      },
+      {
+        "date": "2025-06-24T02:09:31+09:00",
+        "title": "ひとくちラジオ 1-2 ニュー新橋に誘われて嬉しかった話",
+        "link": "https://podcasters.spotify.com/pod/show/a7lsk4gucf/episodes/1-2-e34kfb3",
+        "guid": "a404837e-a654-4d23-9945-8e28cee0b897",
+        "show": "おかわりラジオ🍚"
+      },
+      {
+        "date": "2025-06-23T07:50:25+09:00",
+        "title": "ひとくち　1-1　ひとくちラジオはじめます",
+        "link": "https://podcasters.spotify.com/pod/show/a7lsk4gucf/episodes/1-1-e34jc5l",
+        "guid": "e59ec4c4-4f1f-4480-a837-db5e212a481e",
+        "show": "おかわりラジオ🍚"
+      },
+      {
+        "date": "2025-06-23T07:41:56+09:00",
+        "title": "おかわりラジオ 1-0 自分の話",
+        "link": "https://podcasters.spotify.com/pod/show/a7lsk4gucf/episodes/1-0-e34jbum",
+        "guid": "33865ff8-a2df-4062-b183-a128fb86bf5e",
+        "show": "おかわりラジオ🍚"
+      },
+      {
+        "date": "2025-06-22T08:56:22+09:00",
+        "title": "# 1-8 パルミエの \"いま\" に至るまで",
+        "link": "https://podcasters.spotify.com/pod/show/a7lsk4gucf/episodes/1-8-e34icfp",
+        "guid": "79ff9633-6118-4441-bb8b-01cf72079bb3",
+        "show": "おかわりラジオ🍚"
+      },
+      {
+        "date": "2025-06-14T01:18:03+09:00",
+        "title": "# 1-7 おかわりのおかわり （アフタートーク）",
+        "link": "https://podcasters.spotify.com/pod/show/a7lsk4gucf/episodes/1-7-e346uht",
+        "guid": "8be101f9-4a3f-460a-87f9-e9ce7932231f",
+        "show": "おかわりラジオ🍚"
+      },
+      {
+        "date": "2025-06-14T01:14:11+09:00",
+        "title": "# 1-7 2人が作る ”まち” のおいしさの話",
+        "link": "https://podcasters.spotify.com/pod/show/a7lsk4gucf/episodes/1-7-2-e33v4r7",
+        "guid": "731fd39b-f200-42d0-a501-56f0a803dbcb",
+        "show": "おかわりラジオ🍚"
+      },
+      {
+        "date": "2025-06-08T09:33:37+09:00",
+        "title": "# 1-6 人と土地を耕す建築の話",
+        "link": "https://podcasters.spotify.com/pod/show/a7lsk4gucf/episodes/1-6-e33ugqk",
+        "guid": "ac7366c0-19e0-400b-9cac-aa5d2b6334a3",
+        "show": "おかわりラジオ🍚"
+      },
+      {
+        "date": "2025-05-27T03:29:05+09:00",
+        "title": "# 1-5 宗一郎さんとサピエンス全史の関連性",
+        "link": "https://podcasters.spotify.com/pod/show/a7lsk4gucf/episodes/1-5-e33a2ib",
+        "guid": "f8126d11-264c-4f3e-8140-12d452218ae8",
+        "show": "おかわりラジオ🍚"
+      },
+      {
+        "date": "2025-05-24T09:37:54+09:00",
+        "title": "# 1-4 いつだって移動することはできる",
+        "link": "https://podcasters.spotify.com/pod/show/a7lsk4gucf/episodes/1-4-e339j3d",
+        "guid": "231f13d5-1c91-4afa-ac36-e561803d9dc6",
+        "show": "おかわりラジオ🍚"
+      },
+      {
+        "date": "2025-05-19T01:00:44+09:00",
+        "title": "# 1-3 旅する看護師が見た景色",
+        "link": "https://podcasters.spotify.com/pod/show/a7lsk4gucf/episodes/1-3-e330m8o",
+        "guid": "b2a63eb9-1501-4abc-8b1d-f1c34bd6e110",
+        "show": "おかわりラジオ🍚"
+      },
+      {
+        "date": "2025-05-16T23:03:52+09:00",
+        "title": "# 1-2 愛するサカナと無理のないGIVEの話",
+        "link": "https://podcasters.spotify.com/pod/show/a7lsk4gucf/episodes/1-2-GIVE-e32uen8",
+        "guid": "eddb124c-c3d7-42a3-85a0-7b7f4eba5294",
+        "show": "おかわりラジオ🍚"
+      },
+      {
+        "date": "2025-05-09T02:19:33+09:00",
+        "title": "# 1-1 人と商品のあいだに、\"僕フィルター\"を。",
+        "link": "https://podcasters.spotify.com/pod/show/a7lsk4gucf/episodes/1-1-e32iri3",
+        "guid": "88b97d4e-542f-4648-b633-496f0bbd47c5",
+        "show": "おかわりラジオ🍚"
+      }
+    ]
+  },
+  "10": {
+    "rss": "https://anchor.fm/s/110de22fc/podcast/rss",
+    "episodes": [
+      {
+        "date": "2026-10-22T10:00:00+09:00",
+        "title": "#23 暮らしの大学は、何を提供できているのか｜能力の話②",
+        "link": "https://podcasters.spotify.com/pod/show/fvpkbq5p1a8/episodes/23-e3qs4su",
+        "guid": "40b14222-7e86-47cf-a8b6-cbb7e3155f3e",
+        "show": "瀬戸内暮らしの大学 校内放送"
+      },
+      {
+        "date": "2026-10-15T10:00:00+09:00",
+        "title": "#22 知識と技術は、いつ「能力」になるのか｜能力の話①",
+        "link": "https://podcasters.spotify.com/pod/show/fvpkbq5p1a8/episodes/22-e3qgge2",
+        "guid": "c58e7cac-f911-4cb8-8de5-983c50dd401e",
+        "show": "瀬戸内暮らしの大学 校内放送"
+      },
+      {
+        "date": "2026-10-08T10:00:00+09:00",
+        "title": "#21 暮らしの大学 図書室｜越境学習入門と、歌人の初エッセイ",
+        "link": "https://podcasters.spotify.com/pod/show/fvpkbq5p1a8/episodes/21-e3p1eeq",
+        "guid": "7cabf4e4-52b9-4d47-9862-10c180da3442",
+        "show": "瀬戸内暮らしの大学 校内放送"
+      },
+      {
+        "date": "2026-10-01T10:00:00+09:00",
+        "title": "#20 効率化したら、やりたくない仕事だけが残った｜AIと業務整理の話",
+        "link": "https://podcasters.spotify.com/pod/show/fvpkbq5p1a8/episodes/20-AI-e3p1ed9",
+        "guid": "20ee3ef5-34ef-4d0f-a0af-3e3f88c889c6",
+        "show": "瀬戸内暮らしの大学 校内放送"
+      },
+      {
+        "date": "2026-09-24T10:00:00+09:00",
+        "title": "#19 公開企画会議｜noteを始めました、次はXをどうするか",
+        "link": "https://podcasters.spotify.com/pod/show/fvpkbq5p1a8/episodes/19-noteX-e3p1ear",
+        "guid": "e769d8af-3c0c-4e33-9297-c7a9696090e3",
+        "show": "瀬戸内暮らしの大学 校内放送"
+      },
+      {
+        "date": "2026-09-17T10:00:00+09:00",
+        "title": "#18 暮らしの大学のこれから｜アーカイブは売らない、ビジョンは掲げない",
+        "link": "https://podcasters.spotify.com/pod/show/fvpkbq5p1a8/episodes/18-e3nu2a4",
+        "guid": "fa13ea4e-6555-400a-baf5-c25a1e595b31",
+        "show": "瀬戸内暮らしの大学 校内放送"
+      },
+      {
+        "date": "2026-09-10T10:00:00+09:00",
+        "title": "#17 まちに学校をつくる｜「魚は捌けるけど、捌き方を教えたことはない」",
+        "link": "https://podcasters.spotify.com/pod/show/fvpkbq5p1a8/episodes/17-e3nu275",
+        "guid": "2232ac34-5f36-420a-a000-9e0cdf5576c5",
+        "show": "瀬戸内暮らしの大学 校内放送"
+      },
+      {
+        "date": "2026-09-03T10:00:00+09:00",
+        "title": "#16 スマホ1台でラジオは始められる｜ローカルラジオクラス第2期",
+        "link": "https://podcasters.spotify.com/pod/show/fvpkbq5p1a8/episodes/16-12-e3nu240",
+        "guid": "c0d16960-825e-461f-804d-369fc5e87699",
+        "show": "瀬戸内暮らしの大学 校内放送"
+      },
+      {
+        "date": "2026-08-27T10:00:00+09:00",
+        "title": "#15 暮らしの大学 図書室｜暇と退屈の倫理学を読んだら、怒らなくなった",
+        "link": "https://podcasters.spotify.com/pod/show/fvpkbq5p1a8/episodes/15-e3ngf98",
+        "guid": "1813271e-e38d-4ca8-a228-ae8d719d49af",
+        "show": "瀬戸内暮らしの大学 校内放送"
+      },
+      {
+        "date": "2026-08-20T10:00:00+09:00",
+        "title": "#14大人の勉強法、みんなどうしてる？｜ノートを一個も取らない人の話",
+        "link": "https://podcasters.spotify.com/pod/show/fvpkbq5p1a8/episodes/14-e3nbkgi",
+        "guid": "97d043a4-ded2-4463-bd29-69f814a6f4dc",
+        "show": "瀬戸内暮らしの大学 校内放送"
+      },
+      {
+        "date": "2026-08-13T10:00:00+09:00",
+        "title": "#13 月給20ドルの新入社員を雇いました｜AIを1ヶ月使い込んでみた",
+        "link": "https://podcasters.spotify.com/pod/show/fvpkbq5p1a8/episodes/13-20AI1-e3n3cgg",
+        "guid": "90295c3e-2e75-40fd-877c-8d2a502317d8",
+        "show": "瀬戸内暮らしの大学 校内放送"
+      },
+      {
+        "date": "2026-08-06T10:00:00+09:00",
+        "title": "#12 仁尾で空き家を買いました｜はじめての空き家活用クラスが8月開講",
+        "link": "https://podcasters.spotify.com/pod/show/fvpkbq5p1a8/episodes/12-8-e3n0oc8",
+        "guid": "fcc23189-3b79-4291-adb6-ac253a5788b6",
+        "show": "瀬戸内暮らしの大学 校内放送"
+      },
+      {
+        "date": "2026-07-30T10:00:00+09:00",
+        "title": "#11 三豊市のプレゼン文化とは？｜プレゼンクラスが10期続く理由",
+        "link": "https://podcasters.spotify.com/pod/show/fvpkbq5p1a8/episodes/11-10-e3mmjvi",
+        "guid": "90a03f3b-da7e-4f5f-85dd-96edb8cc3fd3",
+        "show": "瀬戸内暮らしの大学 校内放送"
+      },
+      {
+        "date": "2026-07-23T10:30:00+09:00",
+        "title": "#10 2026年下半期どうする？｜今年の目標は「怪我をしない」",
+        "link": "https://podcasters.spotify.com/pod/show/fvpkbq5p1a8/episodes/10-2026-e3mdcn2",
+        "guid": "7e68db02-601d-491a-a02d-e2b93ec5310b",
+        "show": "瀬戸内暮らしの大学 校内放送"
+      },
+      {
+        "date": "2026-07-16T10:00:01+09:00",
+        "title": "#9 地域で友達ってどうつくる？｜移住しても、通っていても",
+        "link": "https://podcasters.spotify.com/pod/show/fvpkbq5p1a8/episodes/9-e3m4jmd",
+        "guid": "8ef3e4ca-2a55-429b-9983-c04bc4a83517",
+        "show": "瀬戸内暮らしの大学 校内放送"
+      },
+      {
+        "date": "2026-07-09T10:00:00+09:00",
+        "title": "#8 暮らしの大学 図書室｜感情リテラシーの本と、まちに本屋をつくる話",
+        "link": "https://podcasters.spotify.com/pod/show/fvpkbq5p1a8/episodes/8-e3lq7mb",
+        "guid": "41953072-fe67-44b0-a689-8be8e02850ea",
+        "show": "瀬戸内暮らしの大学 校内放送"
+      },
+      {
+        "date": "2026-07-02T10:00:00+09:00",
+        "title": "#7 40過ぎて「やりたいこと」がない｜「好きなことで、生きていく」から11年",
+        "link": "https://podcasters.spotify.com/pod/show/fvpkbq5p1a8/episodes/7-4011-e3lh4u6",
+        "guid": "d2f0d9bf-7321-4d21-abb1-3aac3e3a9729",
+        "show": "瀬戸内暮らしの大学 校内放送"
+      },
+      {
+        "date": "2026-06-25T10:00:00+09:00",
+        "title": "#6 仁尾町ってどんなところ？｜世界初の太陽熱発電をやった町のいま",
+        "link": "https://podcasters.spotify.com/pod/show/fvpkbq5p1a8/episodes/6-e3k7ka6",
+        "guid": "92212c17-0704-4b28-a0b6-c6df67f26d26",
+        "show": "瀬戸内暮らしの大学 校内放送"
+      },
+      {
+        "date": "2026-06-18T10:00:00+09:00",
+        "title": "#5 大人の学び直しってどうなの？｜瀬戸内暮らしの大学のクラスの中身",
+        "link": "https://podcasters.spotify.com/pod/show/fvpkbq5p1a8/episodes/5-e3k7k8k",
+        "guid": "87fb2941-e3bd-411a-b480-1b5b785c9045",
+        "show": "瀬戸内暮らしの大学 校内放送"
+      },
+      {
+        "date": "2026-06-11T10:00:00+09:00",
+        "title": "#4 暮らしの大学の株主22社ってどんな会社？後編｜東邦レオ・モクラスほか",
+        "link": "https://podcasters.spotify.com/pod/show/fvpkbq5p1a8/episodes/4-22-e3k7k5k",
+        "guid": "0dc798c7-ab88-4d6e-97f2-e5d0ba12f7c1",
+        "show": "瀬戸内暮らしの大学 校内放送"
+      },
+      {
+        "date": "2026-06-04T10:00:00+09:00",
+        "title": "#3 暮らしの大学の株主22社ってどんな会社？前編｜喜田建材・菅組ほか",
+        "link": "https://podcasters.spotify.com/pod/show/fvpkbq5p1a8/episodes/3-22-e3k7k2j",
+        "guid": "51769d7f-a80e-42d9-a89d-15503f0d4756",
+        "show": "瀬戸内暮らしの大学 校内放送"
+      },
+      {
+        "date": "2026-05-28T10:00:00+09:00",
+        "title": "#2 市民大学とビジネススクールの間｜瀬戸内暮らしの大学のクラスと値段",
+        "link": "https://podcasters.spotify.com/pod/show/fvpkbq5p1a8/episodes/2-e3jur1i",
+        "guid": "ab696b59-e51d-44b4-9809-e541faa193d8",
+        "show": "瀬戸内暮らしの大学 校内放送"
+      },
+      {
+        "date": "2026-03-31T16:20:47+09:00",
+        "title": "#1 瀬戸内暮らしの大学ってなに？｜香川県三豊市の市民大学と「ゆる会員」の話",
+        "link": "https://podcasters.spotify.com/pod/show/fvpkbq5p1a8/episodes/1-e3h7ahu",
+        "guid": "31f591aa-e0a2-4446-a0be-d06ae45633fc",
+        "show": "瀬戸内暮らしの大学 校内放送"
+      }
+    ]
+  },
+  "12": {
+    "rss": "https://stand.fm/rss/67f52a6a87fe90ae1783b82b",
+    "episodes": [
+      {
+        "date": "2026-07-14T22:00:13+09:00",
+        "title": "日本NFT情報局をご利用いただき、ありがとうございました。",
+        "link": "https://stand.fm/episodes/6874fa513ab7dcd8bd2cacbb",
+        "guid": "https://stand.fm/episodes/6874fa513ab7dcd8bd2cacbb",
+        "show": "AIとDAOで琴平を町おこし｜あっきーの思考ラジオ"
+      },
+      {
+        "date": "2025-06-01T06:00:46+09:00",
+        "title": "あっきーから見た琴平町",
+        "link": "https://stand.fm/episodes/683ae467d29fa393f5c867b9",
+        "guid": "https://stand.fm/episodes/683ae467d29fa393f5c867b9",
+        "show": "AIとDAOで琴平を町おこし｜あっきーの思考ラジオ"
+      },
+      {
+        "date": "2025-04-17T23:44:28+09:00",
+        "title": "なぜ第二の脳を作るのか（詳細版）",
+        "link": "https://stand.fm/episodes/680113b0b13e8889bca93b4d",
+        "guid": "https://stand.fm/episodes/680113b0b13e8889bca93b4d",
+        "show": "AIとDAOで琴平を町おこし｜あっきーの思考ラジオ"
+      },
+      {
+        "date": "2025-04-17T20:03:13+09:00",
+        "title": "四国こんぴら歌舞伎大芝居を観てきました 2",
+        "link": "https://stand.fm/episodes/6800dfd1b7e53f4c73a34bc3",
+        "guid": "https://stand.fm/episodes/6800dfd1b7e53f4c73a34bc3",
+        "show": "AIとDAOで琴平を町おこし｜あっきーの思考ラジオ"
+      },
+      {
+        "date": "2025-04-16T01:00:58+09:00",
+        "title": "自己紹介とラジオの内容について",
+        "link": "https://stand.fm/episodes/67fe82a73e2cca0f380cd971",
+        "guid": "https://stand.fm/episodes/67fe82a73e2cca0f380cd971",
+        "show": "AIとDAOで琴平を町おこし｜あっきーの思考ラジオ"
+      }
+    ]
+  },
+  "13": {
+    "rss": "https://anchor.fm/s/118cebd14/podcast/rss",
+    "episodes": [
+      {
+        "date": "2026-10-23T20:28:17+09:00",
+        "title": "#3 あなたが活躍するのはどこ？キャリアの「プロスポーツ選手理論」",
+        "link": "https://podcasters.spotify.com/pod/show/5mn90j92mi/episodes/3-e3qv60b",
+        "guid": "92c325e9-db04-429f-be15-abdfdfc1eaa9",
+        "show": "わたあめ職人が語るには"
+      },
+      {
+        "date": "2026-10-22T16:59:56+09:00",
+        "title": "#2 元・企業法務マンが新規事業を作るときに見ていたポイント",
+        "link": "https://podcasters.spotify.com/pod/show/5mn90j92mi/episodes/2-e3qt2nd",
+        "guid": "ef3dd2ee-1228-45ed-b766-8b2f4a0af0ae",
+        "show": "わたあめ職人が語るには"
+      },
+      {
+        "date": "2026-10-21T13:46:58+09:00",
+        "title": "#1 イベント出店での「4つの型」",
+        "link": "https://podcasters.spotify.com/pod/show/5mn90j92mi/episodes/1-4-e3qr5ue",
+        "guid": "6a2ecb12-1a42-446b-89d0-e467750e56d8",
+        "show": "わたあめ職人が語るには"
+      }
+    ]
+  }
+}
