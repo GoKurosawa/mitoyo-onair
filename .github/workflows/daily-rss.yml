@@ -1,45 +1,66 @@
 name: Daily RSS update and publish
+
 on:
   schedule:
+    # 毎日、日本時間6:17ごろ
     - cron: '17 21 * * *'
   workflow_dispatch:
-  push:
-    branches: [main]
+
 permissions:
   contents: write
-  pages: write
-  id-token: write
+
 concurrency:
-  group: mitoyo-site-update
+  group: mitoyo-daily-update
   cancel-in-progress: false
+
 jobs:
   update-and-publish:
     runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
+    timeout-minutes: 15
+
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
+      - name: Check out site files
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-      - run: python -m unittest test_daily_update.py
-      - run: python daily_update.py
+
+      - name: Check Cloudflare settings
+        env:
+          CF_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CF_ACCOUNT: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+        run: |
+          if [ -z "$CF_TOKEN" ] || [ -z "$CF_ACCOUNT" ]; then
+            echo "::error::Cloudflare secrets are not configured."
+            exit 1
+          fi
+
+      - name: Test ordering rules
+        run: python -m unittest test_daily_update.py
+
+      - name: Fetch RSS and update site
+        run: python daily_update.py
+
+      - name: Prepare public files
+        run: |
+          mkdir -p public
+          cp index.html public/index.html
+
+      - name: Publish to Cloudflare Workers
+        uses: cloudflare/wrangler-action@v3
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          command: deploy --name mitoyo-onair --assets ./public --compatibility-date 2026-10-24
+
       - name: Save updated site and RSS cache
         run: |
           git add index.html rss_cache.json
           if ! git diff --cached --quiet; then
-            git -c user.name='github-actions[bot]' -c user.email='41898282+github-actions[bot]@users.noreply.github.com' commit -m "Update podcast episodes and ordering"
+            git -c user.name='github-actions[bot]' \
+                -c user.email='41898282+github-actions[bot]@users.noreply.github.com' \
+                commit -m "Update podcast episodes and ordering"
             git push
           fi
-      - uses: actions/configure-pages@v5
-      - name: Prepare public files
-        run: |
-          mkdir -p _site
-          cp index.html _site/index.html
-      - uses: actions/upload-pages-artifact@v3
-        with:
-          path: _site
-      - name: Publish
-        id: deployment
-        uses: actions/deploy-pages@v4
