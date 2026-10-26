@@ -367,6 +367,30 @@
   .rss-method-toggle[open] .rss-hint-closed{display:none;}
   .rss-method-toggle[open]>.rss-method-content{padding-top:18px;}
   @media(hover:hover){.rss-method-toggle>summary:hover{background:#dce3d3;border-color:var(--sea);}}
+
+  /* Touch devices navigate on tap without sticky hover styling. */
+  @media(hover:none){
+    .card:hover,.card:has(.card-primary:hover){transform:none;box-shadow:none;background:var(--white);border-color:#d6d6c9;}
+    .card:has(.card-primary:hover) .thumb img{filter:none;}
+    .card .pf:hover{background:transparent;color:var(--ink);border-color:#b8c2af;}
+    .ep.rss-episode:hover{border-color:#c7cfbe;}
+    .chip:hover{background:var(--white);color:var(--ink);}
+    .chip.active:hover,.chip.pf-chip.active:hover{background:var(--ink);border-color:var(--ink);color:var(--sand);}
+    .ep .play:hover{text-decoration:none;}
+    .card:focus-within,.ep.rss-episode:focus-within{outline:none;}
+    .card:has(.card-primary:focus-visible){outline:3px solid var(--accent);outline-offset:3px;}
+  }
+
+  @media(max-width:640px){
+    .publisher-notice .rss-guide-box>p,.maker-info>p{
+      text-wrap:wrap;white-space:normal;word-break:normal;overflow-wrap:normal;line-break:strict;
+      text-align:left;letter-spacing:0;line-height:1.95;width:100%;max-width:none;
+    }
+    .publisher-notice .rss-guide-box>p{font-size:.83rem;}
+    .maker-info>p{font-size:.83rem;}
+    .mobile-phrase{white-space:nowrap;}
+    .maker-info{min-width:0;width:100%;}
+  }
 </style>
 </head>
 <body>
@@ -590,7 +614,7 @@
       </div>
     </details>
 
-    <p>定期確認を待たずに掲載・連携をご希望の方や、「自動検索で見落とされているかも」と思われた方は、【番組URL】や【有効化したRSSのURL】を、運営者の<a href="https://www.instagram.com/go_krsw" target="_blank" rel="noopener noreferrer">Instagram</a>のDMまでお送りください。随時、確認・登録します。</p>
+    <p>定期確認を待たずに掲載・連携をご希望の方や、「自動検索で見落とされているかも」と思われた方は、<span class="mobile-phrase">【番組URL】</span>や<span class="mobile-phrase">【有効化したRSSのURL】</span>を、運営者の<a href="https://www.instagram.com/go_krsw" target="_blank" rel="noopener noreferrer">Instagram</a>のDMまでお送りください。随時、確認・登録します。</p>
     <p>RSS連携後は毎日エピソードを取得し、新着欄と番組一覧の並び順に反映します。</p>
     <p class="publisher-note">※サイトの趣旨等より、掲載が難しい場合もございます。あらかじめご了承ください。</p>
   </div>
@@ -604,7 +628,7 @@
     <div class="maker-info">
       <h2>つくった人</h2>
       <div class="maker-name">わたあめ職人ごう</div>
-      <p>北海道生まれ・香川県三豊市在住。東京での会社員生活を経て、夫婦で移住・起業。なぜか「わたあめ職人」になりました。Podcast「わたあめ職人が語るには」を配信中</p>
+      <p>北海道生まれ・香川県三豊市在住。東京での会社員生活を経て、夫婦で移住・起業。なぜか「わたあめ職人」になりました。Podcast<span class="mobile-phrase">「わたあめ職人が語るには」</span>を配信中</p>
       <p>「こんなサイトあったらいいな」と思い、趣味の個人サイトとして「三豊オンエア」を作りました。</p>
     </div>
   </div>
