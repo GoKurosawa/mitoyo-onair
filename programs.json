@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "なみさんの焚べるラジオ",
-    "rss": null,
+    "rss": "https://anchor.fm/s/1082bfa80/podcast/rss",
     "default_order": 0,
     "spotify_url": "https://open.spotify.com/show/4y2RlzzRoGRpToN1J4g4O7",
     "spotify_id": "4y2RlzzRoGRpToN1J4g4O7",
