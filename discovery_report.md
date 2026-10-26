@@ -1,11 +1,11 @@
 # 公開ポッドキャスト探索
 
-日時: 2026-10-26T14:32:23.401697+09:00
+日時: 2026-10-26T18:13:51.198934+09:00
 
 月次は件数を制限したAppleのみの検索です。地域との関係は未確認。新規番組は自動掲載しません。
 未発見は配信停止・RSS無効を意味しません。候補は運営者が確認してください。
 
-Apple呼出: 22 / 週次対象: 11 / エラー: 0
+Apple呼出: 0 / 週次対象: 0 / エラー: 0
 
 |種別|番組名|公開著者表記|Apple ID|状態|
 |---|---|---|---|---|
@@ -38,28 +38,6 @@ Apple呼出: 22 / 週次対象: 11 / エラー: 0
 
 ## 処理結果
 
-{&quot;program_id&quot;: 1, &quot;status&quot;: &quot;spotify_public_links_only&quot;}  
-{&quot;program_id&quot;: 1, &quot;status&quot;: &quot;unfound_or_review_required&quot;}  
-{&quot;program_id&quot;: 3, &quot;status&quot;: &quot;spotify_public_links_only&quot;}  
-{&quot;program_id&quot;: 3, &quot;status&quot;: &quot;unfound_or_review_required&quot;}  
-{&quot;program_id&quot;: 11, &quot;status&quot;: &quot;spotify_public_links_only&quot;}  
-{&quot;program_id&quot;: 11, &quot;status&quot;: &quot;unfound_or_review_required&quot;}  
-{&quot;program_id&quot;: 15, &quot;status&quot;: &quot;spotify_public_links_only&quot;}  
-{&quot;program_id&quot;: 15, &quot;status&quot;: &quot;unfound_or_review_required&quot;}  
-{&quot;program_id&quot;: 14, &quot;status&quot;: &quot;spotify_public_links_only&quot;}  
-{&quot;program_id&quot;: 14, &quot;status&quot;: &quot;unfound_or_review_required&quot;}  
-{&quot;program_id&quot;: 6, &quot;status&quot;: &quot;spotify_public_links_only&quot;}  
-{&quot;program_id&quot;: 6, &quot;status&quot;: &quot;unfound_or_review_required&quot;}  
-{&quot;program_id&quot;: 7, &quot;status&quot;: &quot;spotify_public_links_only&quot;}  
-{&quot;program_id&quot;: 7, &quot;status&quot;: &quot;unfound_or_review_required&quot;}  
-{&quot;program_id&quot;: 16, &quot;status&quot;: &quot;spotify_public_links_only&quot;}  
-{&quot;program_id&quot;: 16, &quot;status&quot;: &quot;unfound_or_review_required&quot;}  
-{&quot;program_id&quot;: 9, &quot;status&quot;: &quot;spotify_public_links_only&quot;}  
-{&quot;program_id&quot;: 9, &quot;status&quot;: &quot;unfound_or_review_required&quot;}  
-{&quot;program_id&quot;: 8, &quot;status&quot;: &quot;spotify_public_links_only&quot;}  
-{&quot;program_id&quot;: 8, &quot;status&quot;: &quot;unfound_or_review_required&quot;}  
-{&quot;program_id&quot;: 5, &quot;status&quot;: &quot;spotify_public_links_only&quot;}  
-{&quot;program_id&quot;: 5, &quot;status&quot;: &quot;unfound_or_review_required&quot;}  
 
 ## エラー（機密情報・本文は記録しません）
 
