@@ -5,6 +5,11 @@ on:
     # 毎日、日本時間6:17ごろ
     - cron: '17 21 * * *'
   workflow_dispatch:
+    inputs:
+      force_discovery:
+        description: '月次・週次の期限を無視して再確認'
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -38,7 +43,27 @@ jobs:
           fi
 
       - name: Test ordering rules
-        run: python -m unittest test_daily_update.py
+        run: python -m unittest discover -v
+
+      - name: Discover public podcast candidates and missing RSS
+        continue-on-error: true
+        env:
+          FORCE_DISCOVERY: ${{ inputs.force_discovery == true && '1' || '0' }}
+        run: |
+          if [ "$FORCE_DISCOVERY" = "1" ]; then
+            python discovery.py --force
+          else
+            python discovery.py
+          fi
+
+      - name: Discovery summary
+        if: always()
+        run: |
+          if [ -f discovery_report.md ]; then
+            cat discovery_report.md >> "$GITHUB_STEP_SUMMARY"
+          else
+            echo '探索レポート未生成。日次RSS更新は独立して実行します。' >> "$GITHUB_STEP_SUMMARY"
+          fi
 
       - name: Fetch RSS and update site
         run: python daily_update.py
@@ -58,6 +83,9 @@ jobs:
       - name: Save updated site and RSS cache
         run: |
           git add index.html rss_cache.json
+          for file in programs.json discovery_state.json discovery_candidates.json discovery_report.md; do
+            if [ -f "$file" ]; then git add -- "$file"; fi
+          done
           if ! git diff --cached --quiet; then
             git -c user.name='github-actions[bot]' \
                 -c user.email='41898282+github-actions[bot]@users.noreply.github.com' \
