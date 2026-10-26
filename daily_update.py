@@ -82,7 +82,7 @@ def main():
     episodes.sort(key=lambda e: datetime.fromisoformat(e['date']), reverse=True)
     escape = lambda value: html.escape(value, quote=True)
     items = []
-    for e in episodes[:12]:
+    for e in episodes[:10]:
         items.append('<article class="ep rss-episode"><div class="ep-copy"><p class="from">' + escape(e['show']) + '</p><h3 class="ttl">' + escape(e['title']) + '</h3></div><a class="play" href="' + escape(e['link']) + '" target="_blank" rel="noopener noreferrer">聴く →</a></article>')
     pattern = r'(<section class="feed-section" id="new">.*?<div class="feed">).*?(</div>\s*</div>\s*</section>)'
     source, count = re.subn(pattern, lambda m: m[1] + '\n' + '\n'.join(items) + '\n' + m[2], source, flags=re.S)
