@@ -49,6 +49,13 @@ def fetch(program, now):
         raise ValueError('No usable public episodes; retain previous data')
     return result
 
+def mark_rss_card(card, linked):
+    card = re.sub(r'<span class="rss-status"[^>]*>.*?</span>', '', card, flags=re.S)
+    if linked:
+        card, count = re.subn(r'(<div class="thumb artwork">.*?)(</div>)', lambda m: m[1] + '<span class="rss-status">RSS連携済</span>' + m[2], card, count=1, flags=re.S)
+        assert count == 1
+    return card
+
 def main():
     now = datetime.now(JST)
     programs = json.loads((BASE / 'programs.json').read_text())
@@ -75,6 +82,8 @@ def main():
     assert match
     cards = {int(re.search(r'data-program-id="(\d+)"', c)[1]): c for c in re.findall(r'<article class="card".*?</article>', match[2], re.S)}
     assert set(cards) == {p['id'] for p in programs}
+    for p in programs:
+        cards[p['id']] = mark_rss_card(cards[p['id']], bool(p.get('rss')))
     source = source[:match.start()] + match[1] + '\n' + '\n\n'.join(cards[p['id']] for p in ordered) + '\n' + match[3] + source[match.end():]
     episodes = [e for p in programs for e in entries(p) if datetime.fromisoformat(e['date']) <= now]
     episodes.sort(key=lambda e: datetime.fromisoformat(e['date']), reverse=True)
