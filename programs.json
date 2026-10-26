@@ -3,84 +3,171 @@
     "id": 1,
     "name": "なみさんの焚べるラジオ",
     "rss": null,
-    "default_order": 0
+    "default_order": 0,
+    "spotify_url": "https://open.spotify.com/show/4y2RlzzRoGRpToN1J4g4O7",
+    "spotify_id": "4y2RlzzRoGRpToN1J4g4O7",
+    "host": "浪越弘行",
+    "aliases": [],
+    "official_urls": [],
+    "metadata_source": "existing index.html card"
   },
   {
     "id": 3,
     "name": "バカ学ラジオ - ふざけの皮を被った知の冒険 -",
     "rss": null,
-    "default_order": 1
+    "default_order": 1,
+    "spotify_url": "https://open.spotify.com/show/404QnDQ4k0LEdaJuro1awh",
+    "spotify_id": "404QnDQ4k0LEdaJuro1awh",
+    "host": "男子3人組",
+    "aliases": [],
+    "official_urls": [],
+    "metadata_source": "existing index.html card"
   },
   {
     "id": 13,
     "name": "わたあめ職人が語るには",
     "rss": "https://anchor.fm/s/118cebd14/podcast/rss",
-    "default_order": 2
+    "default_order": 2,
+    "spotify_url": "https://open.spotify.com/show/0pkKacW4UhfnmcYDpV3Lmh",
+    "spotify_id": "0pkKacW4UhfnmcYDpV3Lmh",
+    "host": "わたあめ職人ごう",
+    "aliases": [],
+    "official_urls": [],
+    "metadata_source": "existing index.html card",
+    "apple_id": "6825189200"
   },
   {
     "id": 10,
     "name": "瀬戸内暮らしの大学 校内放送",
     "rss": "https://anchor.fm/s/110de22fc/podcast/rss",
-    "default_order": 3
+    "default_order": 3,
+    "spotify_url": "https://open.spotify.com/show/7io0sLtr6dztSdGzMiCjgq",
+    "spotify_id": "7io0sLtr6dztSdGzMiCjgq",
+    "host": "瀬戸内暮らしの大学",
+    "aliases": [],
+    "official_urls": [],
+    "metadata_source": "existing index.html card",
+    "apple_id": "6802178108"
   },
   {
     "id": 11,
     "name": "ひでひでのひとりごとラジオ",
     "rss": null,
-    "default_order": 4
+    "default_order": 4,
+    "spotify_url": "https://open.spotify.com/show/4eCHk6kpYyfn87C8ZgdSzU",
+    "spotify_id": "4eCHk6kpYyfn87C8ZgdSzU",
+    "host": "HideHide",
+    "aliases": [],
+    "official_urls": [],
+    "metadata_source": "existing index.html card"
   },
   {
     "id": 2,
     "name": "おかわりラジオ🍚",
     "rss": "https://anchor.fm/s/edbe9770/podcast/rss",
-    "default_order": 5
+    "default_order": 5,
+    "spotify_url": "https://open.spotify.com/show/6kzR2KEFFv9KPznajdxZ0F",
+    "spotify_id": "6kzR2KEFFv9KPznajdxZ0F",
+    "host": "阿部裕紀(阿部ゆうき)",
+    "aliases": [],
+    "official_urls": [],
+    "metadata_source": "existing index.html card",
+    "apple_id": "1813203790"
   },
   {
     "id": 15,
     "name": "BABANOBA RADIO",
     "rss": null,
-    "default_order": 6
+    "default_order": 6,
+    "spotify_url": "https://open.spotify.com/show/5byINwcnVi32QcNAphwmgB",
+    "spotify_id": "5byINwcnVi32QcNAphwmgB",
+    "host": "ゲストハウス「ババノバ」",
+    "aliases": [],
+    "official_urls": [],
+    "metadata_source": "existing index.html card"
   },
   {
     "id": 14,
     "name": "ランディ＆Dの「話それるけど、」",
     "rss": null,
-    "default_order": 7
+    "default_order": 7,
+    "spotify_url": "https://open.spotify.com/show/10JLXhNyE7vZ2Xlq5RZyzC",
+    "spotify_id": "10JLXhNyE7vZ2Xlq5RZyzC",
+    "host": "AIのランディとD（番組説明より）",
+    "aliases": [],
+    "official_urls": [],
+    "metadata_source": "existing index.html card"
   },
   {
     "id": 6,
     "name": "YUKURU RADIO",
     "rss": null,
-    "default_order": 8
+    "default_order": 8,
+    "spotify_url": "https://open.spotify.com/show/4rpD53ipWFw50p9qWSHVC2",
+    "spotify_id": "4rpD53ipWFw50p9qWSHVC2",
+    "host": "宮城慎梧(CoCRE Inc.)",
+    "aliases": [],
+    "official_urls": [],
+    "metadata_source": "existing index.html card"
   },
   {
     "id": 7,
     "name": "ニュー新橋のパープルな夜🌙",
     "rss": null,
-    "default_order": 9
+    "default_order": 9,
+    "spotify_url": "https://open.spotify.com/show/0ZBTUd4zccCE12CP4MMUGo",
+    "spotify_id": "0ZBTUd4zccCE12CP4MMUGo",
+    "host": "藤岡優・今川宗一郎",
+    "aliases": [],
+    "official_urls": [],
+    "metadata_source": "existing index.html card"
   },
   {
     "id": 16,
     "name": "新米母の修行道",
     "rss": null,
-    "default_order": 10
+    "default_order": 10,
+    "spotify_url": "https://open.spotify.com/show/5p4fTWkQJxg5iehyyBwX6F",
+    "spotify_id": "5p4fTWkQJxg5iehyyBwX6F",
+    "host": "マナティ",
+    "aliases": [],
+    "official_urls": [],
+    "metadata_source": "existing index.html card"
   },
   {
     "id": 9,
     "name": "ノーサイド経営のすゝめ",
     "rss": null,
-    "default_order": 11
+    "default_order": 11,
+    "spotify_url": "https://open.spotify.com/show/0vRN0D3UJyLbXKOkOpvmSe",
+    "spotify_id": "0vRN0D3UJyLbXKOkOpvmSe",
+    "host": "こーき",
+    "aliases": [],
+    "official_urls": [],
+    "metadata_source": "existing index.html card"
   },
   {
     "id": 8,
     "name": "Neoでbeat奏でます。",
     "rss": null,
-    "default_order": 12
+    "default_order": 12,
+    "spotify_url": "https://open.spotify.com/show/4Yokn4GfvYAQccsSg8UmGc",
+    "spotify_id": "4Yokn4GfvYAQccsSg8UmGc",
+    "host": "金丸航大(KDちゃん)",
+    "aliases": [],
+    "official_urls": [],
+    "metadata_source": "existing index.html card"
   },
   {
     "id": 5,
     "name": "みなとFM ゆるゆるラジオ",
     "rss": null,
-    "default_order": 13
+    "default_order": 13,
+    "spotify_url": "https://open.spotify.com/show/7D4ZsrCacxVlU2jOGvLtGi",
+    "spotify_id": "7D4ZsrCacxVlU2jOGvLtGi",
+    "host": "みよっさん(みなと美容室)",
+    "aliases": [],
+    "official_urls": [],
+    "metadata_source": "existing index.html card"
   }
 ]

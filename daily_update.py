@@ -5,6 +5,7 @@ from zoneinfo import ZoneInfo
 from email.utils import parsedate_to_datetime
 from urllib.request import Request, urlopen
 from urllib.parse import urlparse
+from discovery import Network, parse_feed
 import xml.etree.ElementTree as ET
 import json, re, html
 
@@ -21,13 +22,10 @@ def rank_key(program, episodes, now):
     return (0, -latest.date().toordinal(), -frequency, program.get('default_order', program['id']))
 
 def fetch(program, now):
-    req = Request(program['rss'], headers={'User-Agent': 'MitoyoOnAir/1.0 RSS reader'})
-    with urlopen(req, timeout=40) as response:
-        payload = response.read(12 * 1024 * 1024 + 1)
-    if len(payload) > 12 * 1024 * 1024:
-        raise ValueError('RSS size limit exceeded')
+    payload, _ = Network().get(program['rss'], 12 * 1024 * 1024)
+    parse_feed(payload)  # Reject DTD/entities before parsing episodes.
     channel = ET.fromstring(payload).find('channel')
-    if channel is None or channel.findtext('title', '').strip() != program['name']:
+    if channel is None or channel.findtext('title', '').strip() != program.get('rss_title', program['name']):
         raise ValueError('RSS title mismatch')
     result = []; seen = set()
     for item in channel.findall('item'):
