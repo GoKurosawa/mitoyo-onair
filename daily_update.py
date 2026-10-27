@@ -5,6 +5,7 @@ from zoneinfo import ZoneInfo
 from email.utils import parsedate_to_datetime
 from urllib.request import Request, urlopen
 from urllib.parse import urlparse
+from html.parser import HTMLParser
 from discovery import Network, parse_feed
 import xml.etree.ElementTree as ET
 import json, re, html
@@ -56,6 +57,50 @@ def mark_rss_card(card, linked):
         assert count == 1
     return card
 
+class ArtworkParser(HTMLParser):
+    """Read the existing program artwork without copying card-only styling."""
+    def __init__(self):
+        super().__init__()
+        self.src = ''
+
+    def handle_starttag(self, tag, attrs):
+        if tag == 'img' and not self.src:
+            self.src = dict(attrs).get('src', '')
+
+def render_episode(episode, card):
+    escape = lambda value: html.escape(value, quote=True)
+    artwork = ArtworkParser()
+    artwork.feed(card)
+    image = ''
+    if artwork.src:
+        image = ('<img class="ep-artwork" src="' + escape(artwork.src) +
+                 '" alt="" width="72" height="72" decoding="async">')
+    else:
+        image = '<span class="ep-artwork ep-artwork-missing" aria-hidden="true"></span>'
+    date = datetime.fromisoformat(episode['date']).astimezone(JST)
+    return ('<article class="ep rss-episode">' + image +
+            '<div class="ep-copy"><p class="from">' + escape(episode['show']) +
+            '</p><h3 class="ttl">' + escape(episode['title']) +
+            '</h3><div class="ep-meta"><time class="ep-date" datetime="' + date.isoformat() + '">' +
+            date.strftime('%Y.%m.%d') + '</time><a class="play" href="' +
+            escape(episode['link']) +
+            '" target="_blank" rel="noopener noreferrer">▶ この回を聴く</a></div></div></article>')
+
+def select_episodes(episodes, limit=10):
+    """Newest first; only program 13 is capped at four entries."""
+    ordered = sorted(episodes, key=lambda e: datetime.fromisoformat(e['date']), reverse=True)
+    selected = []
+    wataame_count = 0
+    for episode in ordered:
+        if len(selected) >= limit:
+            break
+        if episode['program_id'] == 13:
+            if wataame_count >= 4:
+                continue
+            wataame_count += 1
+        selected.append(episode)
+    return selected
+
 def main():
     now = datetime.now(JST)
     programs = json.loads((BASE / 'programs.json').read_text())
@@ -85,12 +130,12 @@ def main():
     for p in programs:
         cards[p['id']] = mark_rss_card(cards[p['id']], bool(p.get('rss')))
     source = source[:match.start()] + match[1] + '\n' + '\n\n'.join(cards[p['id']] for p in ordered) + '\n' + match[3] + source[match.end():]
-    episodes = [e for p in programs for e in entries(p) if datetime.fromisoformat(e['date']) <= now]
+    episodes = [dict(e, program_id=p['id']) for p in programs for e in entries(p) if datetime.fromisoformat(e['date']) <= now]
     episodes.sort(key=lambda e: datetime.fromisoformat(e['date']), reverse=True)
     escape = lambda value: html.escape(value, quote=True)
     items = []
-    for e in episodes[:10]:
-        items.append('<article class="ep rss-episode"><div class="ep-copy"><p class="from">' + escape(e['show']) + '</p><h3 class="ttl">' + escape(e['title']) + '</h3></div><a class="play" href="' + escape(e['link']) + '" target="_blank" rel="noopener noreferrer">聴く →</a></article>')
+    for e in select_episodes(episodes):
+        items.append(render_episode(e, cards[e['program_id']]))
     pattern = r'(<section class="feed-section" id="new">.*?<div class="feed">).*?(</div>\s*</div>\s*</section>)'
     source, count = re.subn(pattern, lambda m: m[1] + '\n' + '\n'.join(items) + '\n' + m[2], source, flags=re.S)
     assert count == 1 and len(items) > 0
