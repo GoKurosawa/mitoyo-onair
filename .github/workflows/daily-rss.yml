@@ -21,7 +21,7 @@ concurrency:
 jobs:
   update-and-publish:
     runs-on: ubuntu-latest
-    timeout-minutes: 15
+    timeout-minutes: 25
 
     steps:
       - name: Check out site files
@@ -31,6 +31,16 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: '3.12'
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Install pinned Playwright and Chromium
+        run: |
+          npm install --no-save --package-lock=false playwright@1.64.1
+          npx --no-install playwright install --with-deps chromium
 
       - name: Check Cloudflare settings
         env:
@@ -68,6 +78,29 @@ jobs:
       - name: Fetch RSS and update site
         run: python daily_update.py
 
+      - name: Fetch verified Pody articles and update site
+        run: python pody_update.py --output index.html
+
+      - name: Pody verification summary
+        if: always()
+        run: |
+          if [ -f pody_report.json ]; then
+            python - <<'PY'
+          import json, os
+          from pathlib import Path
+          report = json.loads(Path('pody_report.json').read_text())
+          with open(os.environ['GITHUB_STEP_SUMMARY'], 'a') as summary:
+              print('### Pody verification report', file=summary)
+              print('Displayed: ' + str(report.get('displayed', 0)), file=summary)
+              for program in report.get('programs', []):
+                  print('- Program {program_id}: {status}; verified={verified}; issues={issues}'.format(
+                      program_id=program.get('program_id'), status=program.get('status'),
+                      verified=program.get('verified', 0), issues=len(program.get('issues', []))), file=summary)
+              if report.get('render_error'):
+                  print('Render error: ' + str(report['render_error']), file=summary)
+          PY
+          fi
+
       - name: Prepare public files
         run: |
           mkdir -p public
@@ -82,7 +115,7 @@ jobs:
 
       - name: Save updated site and RSS cache
         run: |
-          git add index.html rss_cache.json
+          git add index.html rss_cache.json pody_cache.json pody_report.json
           for file in programs.json discovery_state.json discovery_candidates.json discovery_report.md; do
             if [ -f "$file" ]; then git add -- "$file"; fi
           done
