@@ -1,0 +1,850 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-10-30T11:16:47.536564+00:00",
+  "programs": [
+    {
+      "program_id": 13,
+      "status": "updated",
+      "issues": [],
+      "observed": 10,
+      "audio_matched": 10,
+      "verified": 10,
+      "matches": [
+        {
+          "href": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/oftn5i5VMGRuWkYUEDYq",
+          "rss_guid": "c2653c25-44a9-48d0-9609-c72c0df86a6e",
+          "rss_enclosure": "https://anchor.fm/s/118cebd14/podcast/play/128416122/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-30%2F0d67efff-d501-e2f3-13fd-036c479b8598.mp3",
+          "article_audio_urls": [
+            "https://anchor.fm/s/118cebd14/podcast/play/128416122/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-30%2F0d67efff-d501-e2f3-13fd-036c479b8598.mp3"
+          ],
+          "body_dom": {
+            "selector": ".article-content",
+            "paragraph_count": 81,
+            "text_length": 5823,
+            "text_excerpt": "ごうさんがこの回のテーマに掲げたのは「AI時代はPodcastの文字起こしで勝負が決まる」です。きっかけは、ごうさん自身が最近Podcastを始めて、あれこれ考える中で腑に落ちた気づきでした。\nごうさんはまず、Googleマップに載っていないお店は、今ではほとんど存在しないのと同じだという話から入ります。お店を営む人にとって、Googleマップへの登録はもう当たり前になっています。\nこれからのAI時代、このGoogleマップ登録に当たるものが、このポッドキャストアンド文字起こ",
+            "heading": "AI検索時代はPodcastの文字起こしが鍵になる。Googleマップ登録に並ぶ情報発信",
+            "canonical": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/oftn5i5VMGRuWkYUEDYq",
+            "visible": true,
+            "checked_at": "2026-10-30T11:17:33.177Z",
+            "status": "ok",
+            "final_url": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/oftn5i5VMGRuWkYUEDYq",
+            "http_status": 200
+          },
+          "canonical": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/oftn5i5VMGRuWkYUEDYq",
+          "article_jsonld": true
+        },
+        {
+          "href": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/Zg7ffjdcySrlSRQ1WfME",
+          "rss_guid": "49ca2c7b-bd32-4288-be9c-831a36d0d74b",
+          "rss_enclosure": "https://anchor.fm/s/118cebd14/podcast/play/128337847/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-29%2F2a21c102-f9d5-56c7-2e33-bf5a6bf9700a.mp3",
+          "article_audio_urls": [
+            "https://anchor.fm/s/118cebd14/podcast/play/128337847/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-29%2F2a21c102-f9d5-56c7-2e33-bf5a6bf9700a.mp3"
+          ],
+          "body_dom": {
+            "selector": ".article-content",
+            "paragraph_count": 77,
+            "text_length": 5497,
+            "text_excerpt": "わたあめ職人が語るには第9回のテーマは、「キャリアは時代の波と時の試練のバランスで考えよう」です。ごうさんは、香川県三豊市に住んでわたあめ職人になった立場から、キャリアの考え方を話します。\nごうさんがこのテーマを選んだのは、今の仕事をこのまま続けていいのか悩む人や、自分の仕事がAIに奪われるのではと不安になる人が多いと感じているからです。そうした場面で使える、考えの物差しやコンパスのような話をしたいといいます。\n今の仕事をこのまま続けていいかっていう風に悩む人、そもそもこの仕",
+            "heading": "キャリアは「時代の波」と「時の試練」で考える。成長産業・リンディ効果・パレートの法則",
+            "canonical": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/Zg7ffjdcySrlSRQ1WfME",
+            "visible": true,
+            "checked_at": "2026-10-30T11:17:35.257Z",
+            "status": "ok",
+            "final_url": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/Zg7ffjdcySrlSRQ1WfME",
+            "http_status": 200
+          },
+          "canonical": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/Zg7ffjdcySrlSRQ1WfME",
+          "article_jsonld": true
+        },
+        {
+          "href": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/KudE8tWm3oD4CC6FiLk2",
+          "rss_guid": "12637c9a-dc50-453a-9c9d-dd7b052964cf",
+          "rss_enclosure": "https://anchor.fm/s/118cebd14/podcast/play/128239616/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-28%2Fc8ee9415-8df3-b7e8-7193-5eec5c3adb12.mp3",
+          "article_audio_urls": [
+            "https://anchor.fm/s/118cebd14/podcast/play/128239616/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-28%2Fc8ee9415-8df3-b7e8-7193-5eec5c3adb12.mp3"
+          ],
+          "body_dom": {
+            "selector": ".article-content",
+            "paragraph_count": 82,
+            "text_length": 5721,
+            "text_excerpt": "『わたあめ職人が語るには』第8回で、ごうさんは「自分の欠点は直さずに扱う」というテーマを取り上げました。きっかけは、前回の配信で三豊のポッドキャストをまとめたサイト「MitoyoOnAir」を作った理由を「三豊の未来のため」と説明したことです。\nごうさんは、その話を聞いた人に自分が利他的で素晴らしい人間だと誤解されるかもしれないと考えました。そこでこの回は、自分は全然そんな人間ではないという話から始まります。\n僕の場合、たくさんある欠点のうちの一つが利己的であるみたいなところ",
+            "heading": "自分の欠点は直さずに扱う。自己中を利他につなげる『7つの習慣』の応用",
+            "canonical": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/KudE8tWm3oD4CC6FiLk2",
+            "visible": true,
+            "checked_at": "2026-10-30T11:17:36.696Z",
+            "status": "ok",
+            "final_url": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/KudE8tWm3oD4CC6FiLk2",
+            "http_status": 200
+          },
+          "canonical": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/KudE8tWm3oD4CC6FiLk2",
+          "article_jsonld": true
+        },
+        {
+          "href": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/Dwvjr1k7ZUpKwvxuN6NP",
+          "rss_guid": "2d7f8995-56c7-4c94-bc9f-8b0209c29c5e",
+          "rss_enclosure": "https://anchor.fm/s/118cebd14/podcast/play/128181963/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-27%2F7ed6acd0-4a80-2dd9-6b97-13f2483bfd78.mp3",
+          "article_audio_urls": [
+            "https://anchor.fm/s/118cebd14/podcast/play/128181963/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-27%2F7ed6acd0-4a80-2dd9-6b97-13f2483bfd78.mp3"
+          ],
+          "body_dom": {
+            "selector": ".article-content",
+            "paragraph_count": 102,
+            "text_length": 6242,
+            "text_excerpt": "「三豊オンエア」は、ごうさんが作ったウェブサイトです。香川県三豊市で配信されているポッドキャスト番組をまとめて見られるようにしたもので、今回はそのサイトを作った理由が語られます。\nごうさんによると、2025年ごろから三豊でポッドキャスト番組を始める人がぽつぽつ増えたといいます。その流れの中で、ごうさん自身も2026年にこの番組を始めました。\n周りで「三豊はポッドキャストで盛り上がっている」という話を聞くことは増えたものの、ごうさんは番組が全部でどれくらいあるのかがわかりにくい",
+            "heading": "三豊のポッドキャストをまとめる「三豊オンエア」を作った理由。AIと人口減少から考える地域発信",
+            "canonical": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/Dwvjr1k7ZUpKwvxuN6NP",
+            "visible": true,
+            "checked_at": "2026-10-30T11:17:38.147Z",
+            "status": "ok",
+            "final_url": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/Dwvjr1k7ZUpKwvxuN6NP",
+            "http_status": 200
+          },
+          "canonical": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/Dwvjr1k7ZUpKwvxuN6NP",
+          "article_jsonld": true
+        },
+        {
+          "href": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/JjpB7FL4jcSs85cJSJcG",
+          "rss_guid": "abf6af75-e300-499c-843f-3f980a57f059",
+          "rss_enclosure": "https://anchor.fm/s/118cebd14/podcast/play/128111782/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-26%2Fed623c6e-f4bb-fbe2-8b35-2ae2677cf14c.mp3",
+          "article_audio_urls": [
+            "https://anchor.fm/s/118cebd14/podcast/play/128111782/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-26%2Fed623c6e-f4bb-fbe2-8b35-2ae2677cf14c.mp3"
+          ],
+          "body_dom": {
+            "selector": ".article-content",
+            "paragraph_count": 78,
+            "text_length": 5225,
+            "text_excerpt": "瀬戸内わたあめ研究所モコラボのごうさんは、この回のテーマに「自分のペースの落とし穴」を選びました。番組は本編のあとにお便りに答える構成で、質問の多くはAIが作り、匿名質問サービス「マシュマロ」に届いた人間の質問も混ぜているそうです。\n「自分のペースでいいんだよ」という言葉は、多くの人にとって優しくて嬉しいものです。ごうさん自身も、締め切りに追われるより、やりたいときにやりたい速さで取り組めるほうがストレスがないと考える人間だといいます。\n今日はあえて言わせてもらうとですね、そ",
+            "heading": "「自分のペース」の落とし穴。ゴールと期限から必要な速さを逆算する",
+            "canonical": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/JjpB7FL4jcSs85cJSJcG",
+            "visible": true,
+            "checked_at": "2026-10-30T11:17:39.993Z",
+            "status": "ok",
+            "final_url": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/JjpB7FL4jcSs85cJSJcG",
+            "http_status": 200
+          },
+          "canonical": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/JjpB7FL4jcSs85cJSJcG",
+          "article_jsonld": true
+        },
+        {
+          "href": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/q6ehhZgx5EpBnmTgfUGb",
+          "rss_guid": "13eb5e45-1c04-4a97-8313-c0917f7eca9a",
+          "rss_enclosure": "https://anchor.fm/s/118cebd14/podcast/play/128025218/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-25%2F4cc5a580-5fc0-8722-041c-19ee99be62c4.mp3",
+          "article_audio_urls": [
+            "https://anchor.fm/s/118cebd14/podcast/play/128025218/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-25%2F4cc5a580-5fc0-8722-041c-19ee99be62c4.mp3"
+          ],
+          "body_dom": {
+            "selector": ".article-content",
+            "paragraph_count": 65,
+            "text_length": 4673,
+            "text_excerpt": "この番組は、香川県三豊市に移住してわたあめ職人になったごうさんが、テーマについて語ったり質問に答えたりするラジオです。第5回のテーマは「やりたいことと楽なことは違うよね」という話です。\nごうさんはまず、「あなたの好きなこと、やりたいことは何ですか？」と聞かれたときによくあるパターンを挙げます。それは、やりたいことの代わりに「楽なこと」を答えてしまうというものです。\nごうさんは、「楽」という字が「楽しい」と同じ漢字であることにも触れています。見た目は似ているのに中身は違う、とい",
+            "heading": "やりたいことと楽なことは違う。わたあめ職人が語る基礎練とゴールの関係",
+            "canonical": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/q6ehhZgx5EpBnmTgfUGb",
+            "visible": true,
+            "checked_at": "2026-10-30T11:17:41.781Z",
+            "status": "ok",
+            "final_url": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/q6ehhZgx5EpBnmTgfUGb",
+            "http_status": 200
+          },
+          "canonical": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/q6ehhZgx5EpBnmTgfUGb",
+          "article_jsonld": true
+        },
+        {
+          "href": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/Yo8nc3PWKje8Am0PkWro",
+          "rss_guid": "35c629fe-02d8-4dca-8e4d-f02a4d274107",
+          "rss_enclosure": "https://anchor.fm/s/118cebd14/podcast/play/128003315/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-24%2F8c351be4-562d-b25c-737a-8c17dafa6d69.mp3",
+          "article_audio_urls": [
+            "https://anchor.fm/s/118cebd14/podcast/play/128003315/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-24%2F8c351be4-562d-b25c-737a-8c17dafa6d69.mp3"
+          ],
+          "body_dom": {
+            "selector": ".article-content",
+            "paragraph_count": 88,
+            "text_length": 5689,
+            "text_excerpt": "「わたあめ職人が語るには」は、瀬戸内わたあめ研究所モコラボのごうさんが、本編のテーマトークとお便りへの回答を一人で話す番組です。第4回のテーマは「パレートの法則で考えよう」です。\nパレートの法則は「2対8の法則」や「80対20の法則」とも呼ばれ、ビジネス書によく登場します。ごうさんは、名前だけ知っている人も多いこの法則を、考えるときの物差しとして使おうと提案します。わたあめの仕事でも実際に使っているそうです。\nごうさんは冒頭で、ひとつの前置きもしています。\nこの法則、当てはま",
+            "heading": "パレートの法則で考える。大事な2割の見つけ方とわたあめ仕事での使い方",
+            "canonical": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/Yo8nc3PWKje8Am0PkWro",
+            "visible": true,
+            "checked_at": "2026-10-30T11:17:43.114Z",
+            "status": "ok",
+            "final_url": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/Yo8nc3PWKje8Am0PkWro",
+            "http_status": 200
+          },
+          "canonical": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/Yo8nc3PWKje8Am0PkWro",
+          "article_jsonld": true
+        },
+        {
+          "href": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/w9bu99JVJFuPnqrzrxZq",
+          "rss_guid": "92c325e9-db04-429f-be15-abdfdfc1eaa9",
+          "rss_enclosure": "https://anchor.fm/s/118cebd14/podcast/play/127948235/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-23%2F8047261c-7ceb-5c2d-c918-73c83e5f8da1.mp3",
+          "article_audio_urls": [
+            "https://anchor.fm/s/118cebd14/podcast/play/127948235/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-23%2F8047261c-7ceb-5c2d-c918-73c83e5f8da1.mp3"
+          ],
+          "body_dom": {
+            "selector": ".article-content",
+            "paragraph_count": 69,
+            "text_length": 4897,
+            "text_excerpt": "「都会と地方、どっちがいいの？」というネット記事はよく見かけます。ごうさんは今回、この問いに対して自分なりの見方を示したいと話を始めます。\n東京へ行くことは「上京」と呼ばれ、地方へ移ると「都落ち」と言われることもあります。言葉からして、なんとなく東京が上で地方が下という空気感がある、とごうさんは指摘します。\n僕の場合も、東京から香川に行くよって言った時には、ちょっと、あ、そっちに逃げるみたいな、そういう空気感の話をされたことも、なくはない。\nしかし実際に地方へ来たごうさんの実",
+            "heading": "都会と地方は上下ではない。移住したわたあめ職人のキャリア「プロスポーツ選手理論」",
+            "canonical": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/w9bu99JVJFuPnqrzrxZq",
+            "visible": true,
+            "checked_at": "2026-10-30T11:17:44.521Z",
+            "status": "ok",
+            "final_url": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/w9bu99JVJFuPnqrzrxZq",
+            "http_status": 200
+          },
+          "canonical": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/w9bu99JVJFuPnqrzrxZq",
+          "article_jsonld": true
+        },
+        {
+          "href": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/CWyyjxWtSKOtqpp8YoJV",
+          "rss_guid": "ef3dd2ee-1228-45ed-b766-8b2f4a0af0ae",
+          "rss_enclosure": "https://anchor.fm/s/118cebd14/podcast/play/127879341/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-22%2Fbfc3d83a-713c-4bfe-8f5c-6de0e4cac108.mp3",
+          "article_audio_urls": [
+            "https://anchor.fm/s/118cebd14/podcast/play/127879341/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-22%2Fbfc3d83a-713c-4bfe-8f5c-6de0e4cac108.mp3"
+          ],
+          "body_dom": {
+            "selector": ".article-content",
+            "paragraph_count": 79,
+            "text_length": 5203,
+            "text_excerpt": "わたあめ職人のごうさんは、わたあめ職人になる前、東京で10年ほど企業法務の仕事をしていました。契約書の作成や利用規約のチェックに加え、新規事業の利用規約づくりやリスク分析も担当していたといいます。\nごうさんは現在、わたあめという切り口で自ら新規事業をつくる側にいます。法務時代の経験が今も活きていると感じたことから、この回では新規事業をつくるときのポイントを紹介しています。\n会社の新規事業には、営業、マーケティング、製造、経理、法務など、さまざまな部署がそれぞれの観点で関わりま",
+            "heading": "企業法務の視点で新規事業のリスクを見抜く。人・物・金・情報と撤退線の考え方",
+            "canonical": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/CWyyjxWtSKOtqpp8YoJV",
+            "visible": true,
+            "checked_at": "2026-10-30T11:17:45.818Z",
+            "status": "ok",
+            "final_url": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/CWyyjxWtSKOtqpp8YoJV",
+            "http_status": 200
+          },
+          "canonical": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/CWyyjxWtSKOtqpp8YoJV",
+          "article_jsonld": true
+        },
+        {
+          "href": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/Ctmr3iGAAMTQVA5kQzov",
+          "rss_guid": "6a2ecb12-1a42-446b-89d0-e467750e56d8",
+          "rss_enclosure": "https://anchor.fm/s/118cebd14/podcast/play/127817102/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-21%2Ff6f9e3ca-3ea7-7165-1d53-71da859ee34b.mp3",
+          "article_audio_urls": [
+            "https://anchor.fm/s/118cebd14/podcast/play/127817102/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-21%2Ff6f9e3ca-3ea7-7165-1d53-71da859ee34b.mp3"
+          ],
+          "body_dom": {
+            "selector": ".article-content",
+            "paragraph_count": 68,
+            "text_length": 5270,
+            "text_excerpt": "「わたあめ職人が語るには」は、香川県三豊市に移住してわたあめ職人になったごうさんが、テーマトークと質問への回答をする番組です。初回は、質問がすべてAIによるものだと確定している回だと説明されています。\n本編のテーマは、わたあめ職人の仕事の一つであるイベント出店です。キッチンカーなどが並ぶマルシェのようなイベント出店は、自分のお店を始める第一歩としておすすめだと、ごうさんは話します。\nマルシェなどのイベント出店っていうのは、自分のお店を始める第一歩として結構おすすめだったりしま",
+            "heading": "イベント出店の4つの型。キッチンカーとテント、物販と調理を中世の兵士にたとえる",
+            "canonical": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/Ctmr3iGAAMTQVA5kQzov",
+            "visible": true,
+            "checked_at": "2026-10-30T11:17:47.227Z",
+            "status": "ok",
+            "final_url": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/Ctmr3iGAAMTQVA5kQzov",
+            "http_status": 200
+          },
+          "canonical": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/Ctmr3iGAAMTQVA5kQzov",
+          "article_jsonld": true
+        }
+      ],
+      "pagination": {
+        "complete": true,
+        "reason": "advertised_count_matched_and_stable_after_scroll_no_enabled_next",
+        "expected_count": 10,
+        "pages": [
+          {
+            "number": 1,
+            "url": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW?kind=article",
+            "dom_count": 10,
+            "unique_count": 10,
+            "scroll_samples": [
+              {
+                "round": 0,
+                "count": 10,
+                "unique_count": 10,
+                "height": 3142
+              },
+              {
+                "round": 1,
+                "count": 10,
+                "unique_count": 10,
+                "height": 2316
+              },
+              {
+                "round": 2,
+                "count": 10,
+                "unique_count": 10,
+                "height": 2316
+              },
+              {
+                "round": 3,
+                "count": 10,
+                "unique_count": 10,
+                "height": 2316
+              }
+            ],
+            "controls": [
+              {
+                "tag": "A",
+                "text": "",
+                "label": null,
+                "title": null,
+                "rel": null,
+                "href": "https://pody.jp/",
+                "disabled": false
+              },
+              {
+                "tag": "A",
+                "text": "",
+                "label": "番組やエピソードを検索",
+                "title": "番組やエピソードを検索",
+                "rel": null,
+                "href": "https://pody.jp/search",
+                "disabled": false
+              },
+              {
+                "tag": "BUTTON",
+                "text": "🌞",
+                "label": null,
+                "title": "ダークモードに切り替え",
+                "rel": null,
+                "href": null,
+                "disabled": false
+              },
+              {
+                "tag": "A",
+                "text": "ログイン",
+                "label": null,
+                "title": null,
+                "rel": null,
+                "href": "https://pody.jp/login",
+                "disabled": false
+              },
+              {
+                "tag": "BUTTON",
+                "text": "続きを読む",
+                "label": null,
+                "title": null,
+                "rel": null,
+                "href": null,
+                "disabled": false
+              },
+              {
+                "tag": "BUTTON",
+                "text": "フォロー",
+                "label": "フォロー",
+                "title": "ログインしてフォロー",
+                "rel": null,
+                "href": null,
+                "disabled": true
+              },
+              {
+                "tag": "BUTTON",
+                "text": "",
+                "label": "リンクをコピー",
+                "title": "リンクをコピー",
+                "rel": null,
+                "href": null,
+                "disabled": false
+              },
+              {
+                "tag": "A",
+                "text": "エピソード一覧",
+                "label": null,
+                "title": null,
+                "rel": null,
+                "href": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW?kind=article",
+                "disabled": false
+              },
+              {
+                "tag": "A",
+                "text": "発見",
+                "label": null,
+                "title": null,
+                "rel": null,
+                "href": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW?tab=discovery",
+                "disabled": false
+              },
+              {
+                "tag": "A",
+                "text": "コミュニティ",
+                "label": null,
+                "title": null,
+                "rel": null,
+                "href": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW?tab=community",
+                "disabled": false
+              },
+              {
+                "tag": "A",
+                "text": "視聴統計",
+                "label": null,
+                "title": null,
+                "rel": null,
+                "href": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW?tab=stats",
+                "disabled": false
+              },
+              {
+                "tag": "BUTTON",
+                "text": "すべて",
+                "label": null,
+                "title": null,
+                "rel": null,
+                "href": null,
+                "disabled": false
+              },
+              {
+                "tag": "BUTTON",
+                "text": "シリーズ別",
+                "label": null,
+                "title": null,
+                "rel": null,
+                "href": null,
+                "disabled": false
+              },
+              {
+                "tag": "BUTTON",
+                "text": "リンクをコピー",
+                "label": null,
+                "title": null,
+                "rel": null,
+                "href": null,
+                "disabled": false
+              },
+              {
+                "tag": "A",
+                "text": "すべて",
+                "label": null,
+                "title": null,
+                "rel": null,
+                "href": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW",
+                "disabled": false
+              },
+              {
+                "tag": "A",
+                "text": "記事で読める\n10",
+                "label": null,
+                "title": null,
+                "rel": null,
+                "href": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW?kind=article",
+                "disabled": false
+              },
+              {
+                "tag": "A",
+                "text": "",
+                "label": null,
+                "title": null,
+                "rel": null,
+                "href": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/oftn5i5VMGRuWkYUEDYq",
+                "disabled": false
+              },
+              {
+                "tag": "A",
+                "text": "#10 AI時代は「Podcastの文字起こし」で勝負が決まる\n\n記事あり\n公開日 2026/10/30 20:04",
+                "label": null,
+                "title": null,
+                "rel": null,
+                "href": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/oftn5i5VMGRuWkYUEDYq",
+                "disabled": false
+              },
+              {
+                "tag": "BUTTON",
+                "text": "",
+                "label": "再生",
+                "title": null,
+                "rel": null,
+                "href": null,
+                "disabled": false
+              },
+              {
+                "tag": "BUTTON",
+                "text": "",
+                "label": "オフライン用にダウンロード",
+                "title": null,
+                "rel": null,
+                "href": null,
+                "disabled": false
+              },
+              {
+                "tag": "A",
+                "text": "",
+                "label": null,
+                "title": null,
+                "rel": null,
+                "href": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/Zg7ffjdcySrlSRQ1WfME",
+                "disabled": false
+              },
+              {
+                "tag": "A",
+                "text": "#9 キャリアは「時代の波」と「時の試練」のバランスで考えよう\n\n記事あり\n公開日 2026/10/29 15:54",
+                "label": null,
+                "title": null,
+                "rel": null,
+                "href": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/Zg7ffjdcySrlSRQ1WfME",
+                "disabled": false
+              },
+              {
+                "tag": "BUTTON",
+                "text": "",
+                "label": "再生",
+                "title": null,
+                "rel": null,
+                "href": null,
+                "disabled": false
+              },
+              {
+                "tag": "BUTTON",
+                "text": "",
+                "label": "オフライン用にダウンロード",
+                "title": null,
+                "rel": null,
+                "href": null,
+                "disabled": false
+              },
+              {
+                "tag": "A",
+                "text": "",
+                "label": null,
+                "title": null,
+                "rel": null,
+                "href": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/KudE8tWm3oD4CC6FiLk2",
+                "disabled": false
+              },
+              {
+                "tag": "A",
+                "text": "#8 自分の欠点は、直さずに「扱う」という向き合い方もある\n\n記事あり\n公開日 2026/10/28 13:25",
+                "label": null,
+                "title": null,
+                "rel": null,
+                "href": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/KudE8tWm3oD4CC6FiLk2",
+                "disabled": false
+              },
+              {
+                "tag": "BUTTON",
+                "text": "",
+                "label": "再生",
+                "title": null,
+                "rel": null,
+                "href": null,
+                "disabled": false
+              },
+              {
+                "tag": "BUTTON",
+                "text": "",
+                "label": "オフライン用にダウンロード",
+                "title": null,
+                "rel": null,
+                "href": null,
+                "disabled": false
+              },
+              {
+                "tag": "A",
+                "text": "",
+                "label": null,
+                "title": null,
+                "rel": null,
+                "href": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/Dwvjr1k7ZUpKwvxuN6NP",
+                "disabled": false
+              },
+              {
+                "tag": "A",
+                "text": "#7 僕が「三豊オンエア」を作った理由\n\n記事あり\n公開日 2026/10/27 22:11",
+                "label": null,
+                "title": null,
+                "rel": null,
+                "href": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/Dwvjr1k7ZUpKwvxuN6NP",
+                "disabled": false
+              },
+              {
+                "tag": "BUTTON",
+                "text": "",
+                "label": "再生",
+                "title": null,
+                "rel": null,
+                "href": null,
+                "disabled": false
+              },
+              {
+                "tag": "BUTTON",
+                "text": "",
+                "label": "オフライン用にダウンロード",
+                "title": null,
+                "rel": null,
+                "href": null,
+                "disabled": false
+              },
+              {
+                "tag": "A",
+                "text": "",
+                "label": null,
+                "title": null,
+                "rel": null,
+                "href": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/JjpB7FL4jcSs85cJSJcG",
+                "disabled": false
+              },
+              {
+                "tag": "A",
+                "text": "#6 「自分のペース」の落とし穴\n\n記事あり\n公開日 2026/10/26 22:37",
+                "label": null,
+                "title": null,
+                "rel": null,
+                "href": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/JjpB7FL4jcSs85cJSJcG",
+                "disabled": false
+              },
+              {
+                "tag": "BUTTON",
+                "text": "",
+                "label": "再生",
+                "title": null,
+                "rel": null,
+                "href": null,
+                "disabled": false
+              },
+              {
+                "tag": "BUTTON",
+                "text": "",
+                "label": "オフライン用にダウンロード",
+                "title": null,
+                "rel": null,
+                "href": null,
+                "disabled": false
+              },
+              {
+                "tag": "A",
+                "text": "",
+                "label": null,
+                "title": null,
+                "rel": null,
+                "href": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/q6ehhZgx5EpBnmTgfUGb",
+                "disabled": false
+              },
+              {
+                "tag": "A",
+                "text": "#5 「やりたいこと」と「ラクなこと」は違うよね\n\n記事あり\n公開日 2026/10/25 10:45",
+                "label": null,
+                "title": null,
+                "rel": null,
+                "href": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/q6ehhZgx5EpBnmTgfUGb",
+                "disabled": false
+              },
+              {
+                "tag": "BUTTON",
+                "text": "",
+                "label": "再生",
+                "title": null,
+                "rel": null,
+                "href": null,
+                "disabled": false
+              },
+              {
+                "tag": "BUTTON",
+                "text": "",
+                "label": "オフライン用にダウンロード",
+                "title": null,
+                "rel": null,
+                "href": null,
+                "disabled": false
+              },
+              {
+                "tag": "A",
+                "text": "",
+                "label": null,
+                "title": null,
+                "rel": null,
+                "href": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/Yo8nc3PWKje8Am0PkWro",
+                "disabled": false
+              },
+              {
+                "tag": "A",
+                "text": "#4 「パレートの法則」で考えよう\n\n記事あり\n公開日 2026/10/24 22:21",
+                "label": null,
+                "title": null,
+                "rel": null,
+                "href": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/Yo8nc3PWKje8Am0PkWro",
+                "disabled": false
+              },
+              {
+                "tag": "BUTTON",
+                "text": "",
+                "label": "再生",
+                "title": null,
+                "rel": null,
+                "href": null,
+                "disabled": false
+              },
+              {
+                "tag": "BUTTON",
+                "text": "",
+                "label": "オフライン用にダウンロード",
+                "title": null,
+                "rel": null,
+                "href": null,
+                "disabled": false
+              },
+              {
+                "tag": "A",
+                "text": "",
+                "label": null,
+                "title": null,
+                "rel": null,
+                "href": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/w9bu99JVJFuPnqrzrxZq",
+                "disabled": false
+              },
+              {
+                "tag": "A",
+                "text": "#3 あなたが活躍するのはどこ？キャリアの「プロスポーツ選手理論」\n\n記事あり\n公開日 2026/10/23 20:28",
+                "label": null,
+                "title": null,
+                "rel": null,
+                "href": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/w9bu99JVJFuPnqrzrxZq",
+                "disabled": false
+              },
+              {
+                "tag": "BUTTON",
+                "text": "",
+                "label": "再生",
+                "title": null,
+                "rel": null,
+                "href": null,
+                "disabled": false
+              },
+              {
+                "tag": "BUTTON",
+                "text": "",
+                "label": "オフライン用にダウンロード",
+                "title": null,
+                "rel": null,
+                "href": null,
+                "disabled": false
+              },
+              {
+                "tag": "A",
+                "text": "",
+                "label": null,
+                "title": null,
+                "rel": null,
+                "href": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/CWyyjxWtSKOtqpp8YoJV",
+                "disabled": false
+              },
+              {
+                "tag": "A",
+                "text": "#2 元・企業法務マンが新規事業を作るときに見ていたポイント\n\n記事あり\n公開日 2026/10/22 16:59",
+                "label": null,
+                "title": null,
+                "rel": null,
+                "href": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/CWyyjxWtSKOtqpp8YoJV",
+                "disabled": false
+              },
+              {
+                "tag": "BUTTON",
+                "text": "",
+                "label": "再生",
+                "title": null,
+                "rel": null,
+                "href": null,
+                "disabled": false
+              },
+              {
+                "tag": "BUTTON",
+                "text": "",
+                "label": "オフライン用にダウンロード",
+                "title": null,
+                "rel": null,
+                "href": null,
+                "disabled": false
+              },
+              {
+                "tag": "A",
+                "text": "",
+                "label": null,
+                "title": null,
+                "rel": null,
+                "href": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/Ctmr3iGAAMTQVA5kQzov",
+                "disabled": false
+              },
+              {
+                "tag": "A",
+                "text": "#1 イベント出店での「4つの型」\n\n記事あり\n公開日 2026/10/21 13:46",
+                "label": null,
+                "title": null,
+                "rel": null,
+                "href": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/Ctmr3iGAAMTQVA5kQzov",
+                "disabled": false
+              },
+              {
+                "tag": "BUTTON",
+                "text": "",
+                "label": "再生",
+                "title": null,
+                "rel": null,
+                "href": null,
+                "disabled": false
+              },
+              {
+                "tag": "BUTTON",
+                "text": "",
+                "label": "オフライン用にダウンロード",
+                "title": null,
+                "rel": null,
+                "href": null,
+                "disabled": false
+              },
+              {
+                "tag": "A",
+                "text": "",
+                "label": null,
+                "title": null,
+                "rel": null,
+                "href": "https://pody.jp/",
+                "disabled": false
+              },
+              {
+                "tag": "A",
+                "text": "利用規約",
+                "label": null,
+                "title": null,
+                "rel": null,
+                "href": "https://pody.jp/terms",
+                "disabled": false
+              },
+              {
+                "tag": "A",
+                "text": "プライバシーポリシー",
+                "label": null,
+                "title": null,
+                "rel": "noopener noreferrer",
+                "href": "https://alu.co.jp/privacypolicy",
+                "disabled": false
+              },
+              {
+                "tag": "A",
+                "text": "特定商取引法に基づく表記",
+                "label": null,
+                "title": null,
+                "rel": null,
+                "href": "https://pody.jp/legal/tokushoho",
+                "disabled": false
+              },
+              {
+                "tag": "A",
+                "text": "",
+                "label": "ElevenLabs Grants",
+                "title": null,
+                "rel": "noopener noreferrer nofollow sponsored",
+                "href": "https://elevenlabs.io/startup-grants",
+                "disabled": false
+              }
+            ],
+            "forward_controls": [],
+            "pagination_regions": [],
+            "footer_present": true
+          }
+        ],
+        "limits": {
+          "limit": 100,
+          "max_pages": 10,
+          "timeout_ms": 60000
+        }
+      },
+      "collector_exit_code": 0,
+      "total": 10,
+      "observation_mode": "live_browser_with_body_dom",
+      "observation_at": "2026-10-30T11:16:47.678Z"
+    }
+  ],
+  "displayed": 4,
+  "output": "index.html"
+}
