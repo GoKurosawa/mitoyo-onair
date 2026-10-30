@@ -22,6 +22,12 @@ def rank_key(program, episodes, now):
     frequency = sum(now - timedelta(days=90) <= d <= now for d in dates)
     return (0, -latest.date().toordinal(), -frequency, program.get('default_order', program['id']))
 
+def program_rank_key(program, episodes, now):
+    """RSS programs first; program 13 stays last within that group only."""
+    linked = bool(program.get('rss'))
+    pinned_last = linked and program['id'] == 13
+    return (0 if linked else 1, 1 if pinned_last else 0, rank_key(program, episodes, now))
+
 def fetch(program, now):
     payload, _ = Network().get(program['rss'], 12 * 1024 * 1024)
     parse_feed(payload)  # Reject DTD/entities before parsing episodes.
@@ -121,7 +127,7 @@ def main():
     def entries(p):
         saved = cache.get(str(p['id']), {})
         return saved.get('episodes', []) if saved.get('rss') == p.get('rss') else []
-    ordered = sorted(programs, key=lambda p: rank_key(p, entries(p), now))
+    ordered = sorted(programs, key=lambda p: program_rank_key(p, entries(p), now))
     path = BASE / 'index.html'; source = path.read_text()
     match = re.search(r'(<main class="grid" id="grid">)(.*?)(</main>)', source, re.S)
     assert match

@@ -1,6 +1,6 @@
 import unittest
 from datetime import datetime,timedelta
-from daily_update import rank_key,JST
+from daily_update import rank_key,program_rank_key,JST
 
 class RankTests(unittest.TestCase):
     def setUp(self):
@@ -18,5 +18,12 @@ class RankTests(unittest.TestCase):
         self.assertEqual(rank_key({'id':1},self.eps('2027-01-01T00:00:00+09:00'),self.now),(1,0,0,1))
     def test_old_frequency_excluded(self):
         self.assertEqual(rank_key({'id':1},self.eps('2026-01-01T00:00:00+09:00'),self.now)[2],0)
+    def test_wataame_last_among_rss_even_when_newest(self):
+        newest=self.eps('2026-10-24T01:00:00+09:00')
+        self.assertGreater(program_rank_key({'id':13,'rss':'https://example.org/a'},newest,self.now),program_rank_key({'id':2,'rss':'https://example.org/b'},[],self.now))
+    def test_wataame_before_unlinked(self):
+        self.assertLess(program_rank_key({'id':13,'rss':'https://example.org/a'},[],self.now),program_rank_key({'id':2},[],self.now))
+    def test_other_rss_still_updated_order(self):
+        self.assertLess(program_rank_key({'id':2,'rss':'https://example.org/b'},self.eps('2026-10-24T01:00:00+09:00'),self.now),program_rank_key({'id':3,'rss':'https://example.org/c'},self.eps('2026-10-23T01:00:00+09:00'),self.now))
 
 if __name__=='__main__':unittest.main()

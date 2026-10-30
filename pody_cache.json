@@ -1,0 +1,121 @@
+{
+  "schema_version": 1,
+  "programs": {
+    "13": {
+      "source": {
+        "program_id": 13,
+        "pody_program_id": "lfT9M8syTrRnbeinQJFW",
+        "rss": "https://anchor.fm/s/118cebd14/podcast/rss",
+        "rss_title": "わたあめ職人が語るには",
+        "manually_verified": true,
+        "verification_basis": "既存pody_program_map.jsonの手動確認済み番組・登録RSS対応。記事は毎回音声完全URLと公開DOMで別途照合。",
+        "listing_url": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW?kind=article"
+      },
+      "total": 9,
+      "confirmed_at": "2026-10-30T08:17:41.048293+00:00",
+      "active_hrefs": [
+        "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/Zg7ffjdcySrlSRQ1WfME",
+        "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/KudE8tWm3oD4CC6FiLk2",
+        "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/Dwvjr1k7ZUpKwvxuN6NP",
+        "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/JjpB7FL4jcSs85cJSJcG",
+        "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/q6ehhZgx5EpBnmTgfUGb",
+        "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/Yo8nc3PWKje8Am0PkWro",
+        "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/w9bu99JVJFuPnqrzrxZq",
+        "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/CWyyjxWtSKOtqpp8YoJV",
+        "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/Ctmr3iGAAMTQVA5kQzov"
+      ],
+      "articles": [
+        {
+          "href": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/Zg7ffjdcySrlSRQ1WfME",
+          "title": "#9 キャリアは「時代の波」と「時の試練」のバランスで考えよう",
+          "guid": "49ca2c7b-bd32-4288-be9c-831a36d0d74b",
+          "audio_url": "https://anchor.fm/s/118cebd14/podcast/play/128337847/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-29%2F2a21c102-f9d5-56c7-2e33-bf5a6bf9700a.mp3",
+          "rss_date": "2026-10-29T06:54:07+00:00",
+          "rss_order": 0,
+          "first_seen": "2026-10-30T08:15:05.839186+00:00",
+          "program_id": 13
+        },
+        {
+          "href": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/KudE8tWm3oD4CC6FiLk2",
+          "title": "#8 自分の欠点は、直さずに「扱う」という向き合い方もある",
+          "guid": "12637c9a-dc50-453a-9c9d-dd7b052964cf",
+          "audio_url": "https://anchor.fm/s/118cebd14/podcast/play/128239616/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-28%2Fc8ee9415-8df3-b7e8-7193-5eec5c3adb12.mp3",
+          "rss_date": "2026-10-28T04:25:35+00:00",
+          "rss_order": 1,
+          "first_seen": "2026-10-30T08:15:05.839186+00:00",
+          "program_id": 13
+        },
+        {
+          "href": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/Dwvjr1k7ZUpKwvxuN6NP",
+          "title": "#7 僕が「三豊オンエア」を作った理由",
+          "guid": "2d7f8995-56c7-4c94-bc9f-8b0209c29c5e",
+          "audio_url": "https://anchor.fm/s/118cebd14/podcast/play/128181963/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-27%2F7ed6acd0-4a80-2dd9-6b97-13f2483bfd78.mp3",
+          "rss_date": "2026-10-27T13:11:33+00:00",
+          "rss_order": 2,
+          "first_seen": "2026-10-30T08:15:05.839186+00:00",
+          "program_id": 13
+        },
+        {
+          "href": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/JjpB7FL4jcSs85cJSJcG",
+          "title": "#6 「自分のペース」の落とし穴",
+          "guid": "abf6af75-e300-499c-843f-3f980a57f059",
+          "audio_url": "https://anchor.fm/s/118cebd14/podcast/play/128111782/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-26%2Fed623c6e-f4bb-fbe2-8b35-2ae2677cf14c.mp3",
+          "rss_date": "2026-10-26T13:37:23+00:00",
+          "rss_order": 3,
+          "first_seen": "2026-10-30T08:15:05.839186+00:00",
+          "program_id": 13
+        },
+        {
+          "href": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/q6ehhZgx5EpBnmTgfUGb",
+          "title": "#5 「やりたいこと」と「ラクなこと」は違うよね",
+          "guid": "13eb5e45-1c04-4a97-8313-c0917f7eca9a",
+          "audio_url": "https://anchor.fm/s/118cebd14/podcast/play/128025218/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-25%2F4cc5a580-5fc0-8722-041c-19ee99be62c4.mp3",
+          "rss_date": "2026-10-25T01:45:09+00:00",
+          "rss_order": 4,
+          "first_seen": "2026-10-30T08:15:05.839186+00:00",
+          "program_id": 13
+        },
+        {
+          "href": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/Yo8nc3PWKje8Am0PkWro",
+          "title": "#4 「パレートの法則」で考えよう",
+          "guid": "35c629fe-02d8-4dca-8e4d-f02a4d274107",
+          "audio_url": "https://anchor.fm/s/118cebd14/podcast/play/128003315/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-24%2F8c351be4-562d-b25c-737a-8c17dafa6d69.mp3",
+          "rss_date": "2026-10-24T13:21:16+00:00",
+          "rss_order": 5,
+          "first_seen": "2026-10-30T08:15:05.839186+00:00",
+          "program_id": 13
+        },
+        {
+          "href": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/w9bu99JVJFuPnqrzrxZq",
+          "title": "#3 あなたが活躍するのはどこ？キャリアの「プロスポーツ選手理論」",
+          "guid": "92c325e9-db04-429f-be15-abdfdfc1eaa9",
+          "audio_url": "https://anchor.fm/s/118cebd14/podcast/play/127948235/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-23%2F8047261c-7ceb-5c2d-c918-73c83e5f8da1.mp3",
+          "rss_date": "2026-10-23T11:28:17+00:00",
+          "rss_order": 6,
+          "first_seen": "2026-10-30T08:15:05.839186+00:00",
+          "program_id": 13
+        },
+        {
+          "href": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/CWyyjxWtSKOtqpp8YoJV",
+          "title": "#2 元・企業法務マンが新規事業を作るときに見ていたポイント",
+          "guid": "ef3dd2ee-1228-45ed-b766-8b2f4a0af0ae",
+          "audio_url": "https://anchor.fm/s/118cebd14/podcast/play/127879341/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-22%2Fbfc3d83a-713c-4bfe-8f5c-6de0e4cac108.mp3",
+          "rss_date": "2026-10-22T07:59:56+00:00",
+          "rss_order": 7,
+          "first_seen": "2026-10-30T08:15:05.839186+00:00",
+          "program_id": 13
+        },
+        {
+          "href": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/Ctmr3iGAAMTQVA5kQzov",
+          "title": "#1 イベント出店での「4つの型」",
+          "guid": "6a2ecb12-1a42-446b-89d0-e467750e56d8",
+          "audio_url": "https://anchor.fm/s/118cebd14/podcast/play/127817102/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-21%2Ff6f9e3ca-3ea7-7165-1d53-71da859ee34b.mp3",
+          "rss_date": "2026-10-21T04:46:58+00:00",
+          "rss_order": 8,
+          "first_seen": "2026-10-30T08:15:05.839186+00:00",
+          "program_id": 13
+        }
+      ]
+    }
+  }
+}

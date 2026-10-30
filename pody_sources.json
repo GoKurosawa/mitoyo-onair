@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "sources": [
+    {
+      "program_id": 13,
+      "pody_program_id": "lfT9M8syTrRnbeinQJFW",
+      "rss": "https://anchor.fm/s/118cebd14/podcast/rss",
+      "rss_title": "わたあめ職人が語るには",
+      "manually_verified": true,
+      "verification_basis": "既存pody_program_map.jsonの手動確認済み番組・登録RSS対応。記事は毎回音声完全URLと公開DOMで別途照合。",
+      "listing_url": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW?kind=article"
+    }
+  ]
+}
