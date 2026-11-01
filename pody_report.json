@@ -1,12 +1,19 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-31T00:45:35.778756+00:00",
+  "generated_at": "2026-11-01T00:07:36.931472+00:00",
   "programs": [
     {
       "program_id": 13,
-      "status": "updated",
-      "issues": [],
-      "observed": 10,
+      "status": "held",
+      "issues": [
+        {
+          "href": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/VVDNXQVDV1VVUqN33JjZ",
+          "reasons": [
+            "audio_mismatch"
+          ]
+        }
+      ],
+      "observed": 11,
       "audio_matched": 10,
       "verified": 10,
       "matches": [
@@ -25,7 +32,7 @@
             "heading": "AI検索時代はPodcastの文字起こしが鍵になる。Googleマップ登録に並ぶ情報発信",
             "canonical": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/oftn5i5VMGRuWkYUEDYq",
             "visible": true,
-            "checked_at": "2026-10-31T00:46:10.509Z",
+            "checked_at": "2026-11-01T00:08:17.865Z",
             "status": "ok",
             "final_url": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/oftn5i5VMGRuWkYUEDYq",
             "http_status": 200
@@ -48,7 +55,7 @@
             "heading": "キャリアは「時代の波」と「時の試練」で考える。成長産業・リンディ効果・パレートの法則",
             "canonical": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/Zg7ffjdcySrlSRQ1WfME",
             "visible": true,
-            "checked_at": "2026-10-31T00:46:12.874Z",
+            "checked_at": "2026-11-01T00:08:19.301Z",
             "status": "ok",
             "final_url": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/Zg7ffjdcySrlSRQ1WfME",
             "http_status": 200
@@ -71,7 +78,7 @@
             "heading": "自分の欠点は直さずに扱う。自己中を利他につなげる『7つの習慣』の応用",
             "canonical": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/KudE8tWm3oD4CC6FiLk2",
             "visible": true,
-            "checked_at": "2026-10-31T00:46:14.930Z",
+            "checked_at": "2026-11-01T00:08:20.651Z",
             "status": "ok",
             "final_url": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/KudE8tWm3oD4CC6FiLk2",
             "http_status": 200
@@ -94,7 +101,7 @@
             "heading": "三豊のポッドキャストをまとめる「三豊オンエア」を作った理由。AIと人口減少から考える地域発信",
             "canonical": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/Dwvjr1k7ZUpKwvxuN6NP",
             "visible": true,
-            "checked_at": "2026-10-31T00:46:16.704Z",
+            "checked_at": "2026-11-01T00:08:22.318Z",
             "status": "ok",
             "final_url": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/Dwvjr1k7ZUpKwvxuN6NP",
             "http_status": 200
@@ -117,7 +124,7 @@
             "heading": "「自分のペース」の落とし穴。ゴールと期限から必要な速さを逆算する",
             "canonical": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/JjpB7FL4jcSs85cJSJcG",
             "visible": true,
-            "checked_at": "2026-10-31T00:46:18.436Z",
+            "checked_at": "2026-11-01T00:08:23.819Z",
             "status": "ok",
             "final_url": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/JjpB7FL4jcSs85cJSJcG",
             "http_status": 200
@@ -140,7 +147,7 @@
             "heading": "やりたいことと楽なことは違う。わたあめ職人が語る基礎練とゴールの関係",
             "canonical": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/q6ehhZgx5EpBnmTgfUGb",
             "visible": true,
-            "checked_at": "2026-10-31T00:46:20.067Z",
+            "checked_at": "2026-11-01T00:08:25.389Z",
             "status": "ok",
             "final_url": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/q6ehhZgx5EpBnmTgfUGb",
             "http_status": 200
@@ -163,7 +170,7 @@
             "heading": "パレートの法則で考える。大事な2割の見つけ方とわたあめ仕事での使い方",
             "canonical": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/Yo8nc3PWKje8Am0PkWro",
             "visible": true,
-            "checked_at": "2026-10-31T00:46:22.394Z",
+            "checked_at": "2026-11-01T00:08:27.160Z",
             "status": "ok",
             "final_url": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/Yo8nc3PWKje8Am0PkWro",
             "http_status": 200
@@ -186,7 +193,7 @@
             "heading": "都会と地方は上下ではない。移住したわたあめ職人のキャリア「プロスポーツ選手理論」",
             "canonical": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/w9bu99JVJFuPnqrzrxZq",
             "visible": true,
-            "checked_at": "2026-10-31T00:46:23.950Z",
+            "checked_at": "2026-11-01T00:08:29.009Z",
             "status": "ok",
             "final_url": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/w9bu99JVJFuPnqrzrxZq",
             "http_status": 200
@@ -209,7 +216,7 @@
             "heading": "企業法務の視点で新規事業のリスクを見抜く。人・物・金・情報と撤退線の考え方",
             "canonical": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/CWyyjxWtSKOtqpp8YoJV",
             "visible": true,
-            "checked_at": "2026-10-31T00:46:25.743Z",
+            "checked_at": "2026-11-01T00:08:30.005Z",
             "status": "ok",
             "final_url": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/CWyyjxWtSKOtqpp8YoJV",
             "http_status": 200
@@ -232,7 +239,7 @@
             "heading": "イベント出店の4つの型。キッチンカーとテント、物販と調理を中世の兵士にたとえる",
             "canonical": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/Ctmr3iGAAMTQVA5kQzov",
             "visible": true,
-            "checked_at": "2026-10-31T00:46:27.203Z",
+            "checked_at": "2026-11-01T00:08:31.162Z",
             "status": "ok",
             "final_url": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/Ctmr3iGAAMTQVA5kQzov",
             "http_status": 200
@@ -244,37 +251,37 @@
       "pagination": {
         "complete": true,
         "reason": "advertised_count_matched_and_stable_after_scroll_no_enabled_next",
-        "expected_count": 10,
+        "expected_count": 11,
         "pages": [
           {
             "number": 1,
             "url": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW?kind=article",
-            "dom_count": 10,
-            "unique_count": 10,
+            "dom_count": 11,
+            "unique_count": 11,
             "scroll_samples": [
               {
                 "round": 0,
-                "count": 10,
-                "unique_count": 10,
-                "height": 2772
+                "count": 11,
+                "unique_count": 11,
+                "height": 2412
               },
               {
                 "round": 1,
-                "count": 10,
-                "unique_count": 10,
-                "height": 2316
+                "count": 11,
+                "unique_count": 11,
+                "height": 2412
               },
               {
                 "round": 2,
-                "count": 10,
-                "unique_count": 10,
-                "height": 2316
+                "count": 11,
+                "unique_count": 11,
+                "height": 2412
               },
               {
                 "round": 3,
-                "count": 10,
-                "unique_count": 10,
-                "height": 2316
+                "count": 11,
+                "unique_count": 11,
+                "height": 2412
               }
             ],
             "controls": [
@@ -415,11 +422,47 @@
               },
               {
                 "tag": "A",
-                "text": "記事で読める\n10",
+                "text": "記事で読める\n11",
                 "label": null,
                 "title": null,
                 "rel": null,
                 "href": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW?kind=article",
+                "disabled": false
+              },
+              {
+                "tag": "A",
+                "text": "",
+                "label": null,
+                "title": null,
+                "rel": null,
+                "href": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/VVDNXQVDV1VVUqN33JjZ",
+                "disabled": false
+              },
+              {
+                "tag": "A",
+                "text": "#11 「リスク」は、怖さじゃなく「かけ算」で見る\n\n記事あり\n公開日 2026/10/31 16:48",
+                "label": null,
+                "title": null,
+                "rel": null,
+                "href": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/VVDNXQVDV1VVUqN33JjZ",
+                "disabled": false
+              },
+              {
+                "tag": "BUTTON",
+                "text": "",
+                "label": "再生",
+                "title": null,
+                "rel": null,
+                "href": null,
+                "disabled": false
+              },
+              {
+                "tag": "BUTTON",
+                "text": "",
+                "label": "オフライン用にダウンロード",
+                "title": null,
+                "rel": null,
+                "href": null,
                 "disabled": false
               },
               {
@@ -840,9 +883,9 @@
         }
       },
       "collector_exit_code": 0,
-      "total": 10,
+      "retained_previous": true,
       "observation_mode": "live_browser_with_body_dom",
-      "observation_at": "2026-10-31T00:45:35.922Z"
+      "observation_at": "2026-11-01T00:07:37.085Z"
     }
   ],
   "displayed": 4,
