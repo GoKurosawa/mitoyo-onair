@@ -846,6 +846,13 @@
     "rss": "https://anchor.fm/s/118cebd14/podcast/rss",
     "episodes": [
       {
+        "date": "2026-10-31T16:48:29+09:00",
+        "title": "#11 「リスク」は、怖さじゃなく「かけ算」で見る",
+        "link": "https://podcasters.spotify.com/pod/show/5mn90j92mi/episodes/11-e3rfev4",
+        "guid": "d16aa1db-a790-42b4-90e0-952a4d7b8e63",
+        "show": "わたあめ職人が語るには"
+      },
+      {
         "date": "2026-10-30T20:04:14+09:00",
         "title": "#10 AI時代は「Podcastの文字起こし」で勝負が決まる",
         "link": "https://podcasters.spotify.com/pod/show/5mn90j92mi/episodes/10-AIPodcast-e3rdetq",
@@ -920,6 +927,13 @@
   "1": {
     "rss": "https://anchor.fm/s/1082bfa80/podcast/rss",
     "episodes": [
+      {
+        "date": "2026-10-31T17:29:23+09:00",
+        "title": "#115 友情と愛情とラジオとこれから",
+        "link": "https://podcasters.spotify.com/pod/show/nami090/episodes/115-e3rfg8v",
+        "guid": "eb961764-5a47-4f8d-b082-b1350198b009",
+        "show": "なみさんの焚べるラジオ"
+      },
       {
         "date": "2026-10-24T13:05:33+09:00",
         "title": "#114 どんぐりから団欒まで",
