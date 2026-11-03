@@ -1,22 +1,61 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-02T00:41:16.027105+00:00",
+  "generated_at": "2026-11-03T02:54:47.619045+00:00",
   "programs": [
     {
       "program_id": 13,
-      "status": "held",
-      "issues": [
+      "status": "updated",
+      "issues": [],
+      "observed": 13,
+      "audio_matched": 13,
+      "verified": 13,
+      "matches": [
+        {
+          "href": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/LGrl8vcmpCBdrr1hsOQQ",
+          "rss_guid": "7a888674-26b9-4866-947d-229fac80160c",
+          "rss_enclosure": "https://anchor.fm/s/118cebd14/podcast/play/128619556/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-2%2Fea6e7626-bf6d-4ba3-8891-cce71214f38c.mp3",
+          "article_audio_urls": [
+            "https://anchor.fm/s/118cebd14/podcast/play/128619556/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-2%2Fea6e7626-bf6d-4ba3-8891-cce71214f38c.mp3"
+          ],
+          "body_dom": {
+            "selector": ".article-content",
+            "paragraph_count": 74,
+            "text_length": 5086,
+            "text_excerpt": "第13回の本編のテーマは「なんとなく苦手の壁を越えていけ」です。ごうさん自身の、収録当日の反省を込めた話だと前置きされています。\nきっかけは、近く控えている大きなイベントです。ごうさんはその出展で店に飾る大道具を作っていて、頑丈さが必要だったため、AIに作り方を相談しました。\nAIからの提案は、イレクターパイプを組み立てて作るというものでした。\nごうさんの説明では、イレクターパイプは直径約3センチの鉄パイプで、表面が黒や白の樹脂で覆われています。いわゆる単管パイプと比べると現",
+            "heading": "「なんとなく苦手」の壁を越える。イレクターパイプ切断で気づいた自己効力感",
+            "canonical": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/LGrl8vcmpCBdrr1hsOQQ",
+            "visible": true,
+            "checked_at": "2026-11-03T02:55:38.634Z",
+            "status": "ok",
+            "final_url": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/LGrl8vcmpCBdrr1hsOQQ",
+            "http_status": 200
+          },
+          "canonical": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/LGrl8vcmpCBdrr1hsOQQ",
+          "article_jsonld": true
+        },
         {
           "href": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/CpSu2OnDDwFiJCuBwg6Q",
-          "reasons": [
-            "audio_mismatch"
-          ]
-        }
-      ],
-      "observed": 12,
-      "audio_matched": 11,
-      "verified": 11,
-      "matches": [
+          "rss_guid": "8422974b-af6c-4cd6-8f8f-6a129acef09d",
+          "rss_enclosure": "https://anchor.fm/s/118cebd14/podcast/play/128559035/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-1%2F7a7195e0-a8f8-a582-d80b-3abf63a8e7a1.mp3",
+          "article_audio_urls": [
+            "https://anchor.fm/s/118cebd14/podcast/play/128559035/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-1%2F7a7195e0-a8f8-a582-d80b-3abf63a8e7a1.mp3"
+          ],
+          "body_dom": {
+            "selector": ".article-content",
+            "paragraph_count": 65,
+            "text_length": 4253,
+            "text_excerpt": "ごうさんは、イベント出店で使うセットや小道具を自分でDIYしており、その設計図をAIに相談しながら作っています。\nAIが出した設計図には寸法や構造が書かれていたものの、文字だらけで全然わかりにくいものだったといいます。\nどうしたもんかなって考えた時に、ふと思って出した指示がですね、ちょっとこれ（設計図）IKEAの説明書風にしてよって言ったんですよ。\nすると出てきたのがめちゃくちゃIKEAっぽくて、めちゃくちゃわかりやすくて。\nごうさんはこの体験を、AIへの指示の出し方の幅が1",
+            "heading": "AIへの指示は「IKEAの説明書風」で変わる。わかりやすい表現を集める方法",
+            "canonical": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/CpSu2OnDDwFiJCuBwg6Q",
+            "visible": true,
+            "checked_at": "2026-11-03T02:55:40.256Z",
+            "status": "ok",
+            "final_url": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/CpSu2OnDDwFiJCuBwg6Q",
+            "http_status": 200
+          },
+          "canonical": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/CpSu2OnDDwFiJCuBwg6Q",
+          "article_jsonld": true
+        },
         {
           "href": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/VVDNXQVDV1VVUqN33JjZ",
           "rss_guid": "d16aa1db-a790-42b4-90e0-952a4d7b8e63",
@@ -32,7 +71,7 @@
             "heading": "リスクは怖さでなく「起こりやすさ×影響」で見る。元企業法務が移住・起業で実践したこと",
             "canonical": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/VVDNXQVDV1VVUqN33JjZ",
             "visible": true,
-            "checked_at": "2026-11-02T00:41:49.597Z",
+            "checked_at": "2026-11-03T02:55:42.305Z",
             "status": "ok",
             "final_url": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/VVDNXQVDV1VVUqN33JjZ",
             "http_status": 200
@@ -55,7 +94,7 @@
             "heading": "AI検索時代はPodcastの文字起こしが鍵になる。Googleマップ登録に並ぶ情報発信",
             "canonical": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/oftn5i5VMGRuWkYUEDYq",
             "visible": true,
-            "checked_at": "2026-11-02T00:41:52.078Z",
+            "checked_at": "2026-11-03T02:55:44.252Z",
             "status": "ok",
             "final_url": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/oftn5i5VMGRuWkYUEDYq",
             "http_status": 200
@@ -78,7 +117,7 @@
             "heading": "キャリアは「時代の波」と「時の試練」で考える。成長産業・リンディ効果・パレートの法則",
             "canonical": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/Zg7ffjdcySrlSRQ1WfME",
             "visible": true,
-            "checked_at": "2026-11-02T00:41:54.424Z",
+            "checked_at": "2026-11-03T02:55:45.699Z",
             "status": "ok",
             "final_url": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/Zg7ffjdcySrlSRQ1WfME",
             "http_status": 200
@@ -101,7 +140,7 @@
             "heading": "自分の欠点は直さずに扱う。自己中を利他につなげる『7つの習慣』の応用",
             "canonical": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/KudE8tWm3oD4CC6FiLk2",
             "visible": true,
-            "checked_at": "2026-11-02T00:41:56.006Z",
+            "checked_at": "2026-11-03T02:55:47.178Z",
             "status": "ok",
             "final_url": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/KudE8tWm3oD4CC6FiLk2",
             "http_status": 200
@@ -124,7 +163,7 @@
             "heading": "三豊のポッドキャストをまとめる「三豊オンエア」を作った理由。AIと人口減少から考える地域発信",
             "canonical": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/Dwvjr1k7ZUpKwvxuN6NP",
             "visible": true,
-            "checked_at": "2026-11-02T00:41:57.501Z",
+            "checked_at": "2026-11-03T02:55:48.776Z",
             "status": "ok",
             "final_url": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/Dwvjr1k7ZUpKwvxuN6NP",
             "http_status": 200
@@ -147,7 +186,7 @@
             "heading": "「自分のペース」の落とし穴。ゴールと期限から必要な速さを逆算する",
             "canonical": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/JjpB7FL4jcSs85cJSJcG",
             "visible": true,
-            "checked_at": "2026-11-02T00:41:59.146Z",
+            "checked_at": "2026-11-03T02:55:50.333Z",
             "status": "ok",
             "final_url": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/JjpB7FL4jcSs85cJSJcG",
             "http_status": 200
@@ -170,7 +209,7 @@
             "heading": "やりたいことと楽なことは違う。わたあめ職人が語る基礎練とゴールの関係",
             "canonical": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/q6ehhZgx5EpBnmTgfUGb",
             "visible": true,
-            "checked_at": "2026-11-02T00:42:00.621Z",
+            "checked_at": "2026-11-03T02:55:52.407Z",
             "status": "ok",
             "final_url": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/q6ehhZgx5EpBnmTgfUGb",
             "http_status": 200
@@ -193,7 +232,7 @@
             "heading": "パレートの法則で考える。大事な2割の見つけ方とわたあめ仕事での使い方",
             "canonical": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/Yo8nc3PWKje8Am0PkWro",
             "visible": true,
-            "checked_at": "2026-11-02T00:42:02.073Z",
+            "checked_at": "2026-11-03T02:55:54.164Z",
             "status": "ok",
             "final_url": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/Yo8nc3PWKje8Am0PkWro",
             "http_status": 200
@@ -216,7 +255,7 @@
             "heading": "都会と地方は上下ではない。移住したわたあめ職人のキャリア「プロスポーツ選手理論」",
             "canonical": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/w9bu99JVJFuPnqrzrxZq",
             "visible": true,
-            "checked_at": "2026-11-02T00:42:03.617Z",
+            "checked_at": "2026-11-03T02:55:55.977Z",
             "status": "ok",
             "final_url": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/w9bu99JVJFuPnqrzrxZq",
             "http_status": 200
@@ -239,7 +278,7 @@
             "heading": "企業法務の視点で新規事業のリスクを見抜く。人・物・金・情報と撤退線の考え方",
             "canonical": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/CWyyjxWtSKOtqpp8YoJV",
             "visible": true,
-            "checked_at": "2026-11-02T00:42:04.567Z",
+            "checked_at": "2026-11-03T02:55:57.699Z",
             "status": "ok",
             "final_url": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/CWyyjxWtSKOtqpp8YoJV",
             "http_status": 200
@@ -262,7 +301,7 @@
             "heading": "イベント出店の4つの型。キッチンカーとテント、物販と調理を中世の兵士にたとえる",
             "canonical": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/Ctmr3iGAAMTQVA5kQzov",
             "visible": true,
-            "checked_at": "2026-11-02T00:42:05.647Z",
+            "checked_at": "2026-11-03T02:55:59.124Z",
             "status": "ok",
             "final_url": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/Ctmr3iGAAMTQVA5kQzov",
             "http_status": 200
@@ -274,37 +313,37 @@
       "pagination": {
         "complete": true,
         "reason": "advertised_count_matched_and_stable_after_scroll_no_enabled_next",
-        "expected_count": 12,
+        "expected_count": 13,
         "pages": [
           {
             "number": 1,
             "url": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW?kind=article",
-            "dom_count": 12,
-            "unique_count": 12,
+            "dom_count": 13,
+            "unique_count": 13,
             "scroll_samples": [
               {
                 "round": 0,
-                "count": 12,
-                "unique_count": 12,
+                "count": 13,
+                "unique_count": 13,
                 "height": 3142
               },
               {
                 "round": 1,
-                "count": 12,
-                "unique_count": 12,
-                "height": 2507
+                "count": 13,
+                "unique_count": 13,
+                "height": 2602
               },
               {
                 "round": 2,
-                "count": 12,
-                "unique_count": 12,
-                "height": 2507
+                "count": 13,
+                "unique_count": 13,
+                "height": 2602
               },
               {
                 "round": 3,
-                "count": 12,
-                "unique_count": 12,
-                "height": 2507
+                "count": 13,
+                "unique_count": 13,
+                "height": 2602
               }
             ],
             "controls": [
@@ -445,11 +484,47 @@
               },
               {
                 "tag": "A",
-                "text": "記事で読める\n12",
+                "text": "記事で読める\n13",
                 "label": null,
                 "title": null,
                 "rel": null,
                 "href": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW?kind=article",
+                "disabled": false
+              },
+              {
+                "tag": "A",
+                "text": "",
+                "label": null,
+                "title": null,
+                "rel": null,
+                "href": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/LGrl8vcmpCBdrr1hsOQQ",
+                "disabled": false
+              },
+              {
+                "tag": "A",
+                "text": "#13 「なんとなく苦手」の壁を超えていけ\n\n記事あり\n公開日 2026/11/02 23:13",
+                "label": null,
+                "title": null,
+                "rel": null,
+                "href": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/LGrl8vcmpCBdrr1hsOQQ",
+                "disabled": false
+              },
+              {
+                "tag": "BUTTON",
+                "text": "",
+                "label": "再生",
+                "title": null,
+                "rel": null,
+                "href": null,
+                "disabled": false
+              },
+              {
+                "tag": "BUTTON",
+                "text": "",
+                "label": "オフライン用にダウンロード",
+                "title": null,
+                "rel": null,
+                "href": null,
                 "disabled": false
               },
               {
@@ -942,9 +1017,9 @@
         }
       },
       "collector_exit_code": 0,
-      "retained_previous": true,
+      "total": 13,
       "observation_mode": "live_browser_with_body_dom",
-      "observation_at": "2026-11-02T00:41:16.202Z"
+      "observation_at": "2026-11-03T02:54:47.763Z"
     }
   ],
   "displayed": 4,
