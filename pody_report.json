@@ -1,15 +1,38 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-04T01:19:36.131367+00:00",
+  "generated_at": "2026-11-05T01:27:14.816680+00:00",
   "programs": [
     {
       "program_id": 13,
       "status": "updated",
       "issues": [],
-      "observed": 14,
-      "audio_matched": 14,
-      "verified": 14,
+      "observed": 15,
+      "audio_matched": 15,
+      "verified": 15,
       "matches": [
+        {
+          "href": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/dltJpNIdNkfLvdhNr1GS",
+          "rss_guid": "2802a89e-5eab-4851-8146-15a402bdc3a1",
+          "rss_enclosure": "https://anchor.fm/s/118cebd14/podcast/play/128725665/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-3%2F5b4ef316-89ed-2e7a-8825-a036fa805399.mp3",
+          "article_audio_urls": [
+            "https://anchor.fm/s/118cebd14/podcast/play/128725665/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-3%2F5b4ef316-89ed-2e7a-8825-a036fa805399.mp3"
+          ],
+          "body_dom": {
+            "selector": ".article-content",
+            "paragraph_count": 75,
+            "text_length": 5650,
+            "text_excerpt": "今回の本編でごうさんが取り上げたのは、「勝つこと」と「勝ち続けること」は結構違う、というテーマです。その日だけなら無理して乗り切れることでも、明日も明後日も同じやり方を続けられるかどうかは別の話になる、と語ります。\nごうさんによれば、このテーマは勝ち負けの話だけではありません。「できること」と「でき続けること」も同じ構図で、前回話した「自分のコップを満たす話」にも近いといいます。\nその瞬間、その瞬間、誰か人を助けることと、ずっとその先も人を助け続けられることっていうのは、同じ",
+            "heading": "勝つことと勝ち続けることの違い。孫子の兵法と桶狭間から考える事業の足腰",
+            "canonical": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/dltJpNIdNkfLvdhNr1GS",
+            "visible": true,
+            "checked_at": "2026-11-05T01:27:55.422Z",
+            "status": "ok",
+            "final_url": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/dltJpNIdNkfLvdhNr1GS",
+            "http_status": 200
+          },
+          "canonical": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/dltJpNIdNkfLvdhNr1GS",
+          "article_jsonld": true
+        },
         {
           "href": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/ybbRs5VptmuqvijCqLXJ",
           "rss_guid": "92a13893-c880-4abd-9be7-e758e05687ea",
@@ -25,7 +48,7 @@
             "heading": "人を助けたいなら自分のコップを満たす。わたあめ職人が語る定番商品とAI活用",
             "canonical": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/ybbRs5VptmuqvijCqLXJ",
             "visible": true,
-            "checked_at": "2026-11-04T01:20:23.058Z",
+            "checked_at": "2026-11-05T01:27:57.077Z",
             "status": "ok",
             "final_url": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/ybbRs5VptmuqvijCqLXJ",
             "http_status": 200
@@ -48,7 +71,7 @@
             "heading": "「なんとなく苦手」の壁を越える。イレクターパイプ切断で気づいた自己効力感",
             "canonical": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/LGrl8vcmpCBdrr1hsOQQ",
             "visible": true,
-            "checked_at": "2026-11-04T01:20:24.861Z",
+            "checked_at": "2026-11-05T01:27:59.224Z",
             "status": "ok",
             "final_url": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/LGrl8vcmpCBdrr1hsOQQ",
             "http_status": 200
@@ -71,7 +94,7 @@
             "heading": "AIへの指示は「IKEAの説明書風」で変わる。わかりやすい表現を集める方法",
             "canonical": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/CpSu2OnDDwFiJCuBwg6Q",
             "visible": true,
-            "checked_at": "2026-11-04T01:20:26.171Z",
+            "checked_at": "2026-11-05T01:28:01.108Z",
             "status": "ok",
             "final_url": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/CpSu2OnDDwFiJCuBwg6Q",
             "http_status": 200
@@ -94,7 +117,7 @@
             "heading": "リスクは怖さでなく「起こりやすさ×影響」で見る。元企業法務が移住・起業で実践したこと",
             "canonical": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/VVDNXQVDV1VVUqN33JjZ",
             "visible": true,
-            "checked_at": "2026-11-04T01:20:27.649Z",
+            "checked_at": "2026-11-05T01:28:02.743Z",
             "status": "ok",
             "final_url": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/VVDNXQVDV1VVUqN33JjZ",
             "http_status": 200
@@ -117,7 +140,7 @@
             "heading": "AI検索時代はPodcastの文字起こしが鍵になる。Googleマップ登録に並ぶ情報発信",
             "canonical": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/oftn5i5VMGRuWkYUEDYq",
             "visible": true,
-            "checked_at": "2026-11-04T01:20:29.310Z",
+            "checked_at": "2026-11-05T01:28:05.487Z",
             "status": "ok",
             "final_url": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/oftn5i5VMGRuWkYUEDYq",
             "http_status": 200
@@ -140,7 +163,7 @@
             "heading": "キャリアは「時代の波」と「時の試練」で考える。成長産業・リンディ効果・パレートの法則",
             "canonical": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/Zg7ffjdcySrlSRQ1WfME",
             "visible": true,
-            "checked_at": "2026-11-04T01:20:31.024Z",
+            "checked_at": "2026-11-05T01:28:07.254Z",
             "status": "ok",
             "final_url": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/Zg7ffjdcySrlSRQ1WfME",
             "http_status": 200
@@ -163,7 +186,7 @@
             "heading": "自分の欠点は直さずに扱う。自己中を利他につなげる『7つの習慣』の応用",
             "canonical": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/KudE8tWm3oD4CC6FiLk2",
             "visible": true,
-            "checked_at": "2026-11-04T01:20:32.196Z",
+            "checked_at": "2026-11-05T01:28:09.172Z",
             "status": "ok",
             "final_url": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/KudE8tWm3oD4CC6FiLk2",
             "http_status": 200
@@ -186,7 +209,7 @@
             "heading": "三豊のポッドキャストをまとめる「三豊オンエア」を作った理由。AIと人口減少から考える地域発信",
             "canonical": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/Dwvjr1k7ZUpKwvxuN6NP",
             "visible": true,
-            "checked_at": "2026-11-04T01:20:33.566Z",
+            "checked_at": "2026-11-05T01:28:10.621Z",
             "status": "ok",
             "final_url": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/Dwvjr1k7ZUpKwvxuN6NP",
             "http_status": 200
@@ -209,7 +232,7 @@
             "heading": "「自分のペース」の落とし穴。ゴールと期限から必要な速さを逆算する",
             "canonical": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/JjpB7FL4jcSs85cJSJcG",
             "visible": true,
-            "checked_at": "2026-11-04T01:20:34.709Z",
+            "checked_at": "2026-11-05T01:28:12.401Z",
             "status": "ok",
             "final_url": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/JjpB7FL4jcSs85cJSJcG",
             "http_status": 200
@@ -232,7 +255,7 @@
             "heading": "やりたいことと楽なことは違う。わたあめ職人が語る基礎練とゴールの関係",
             "canonical": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/q6ehhZgx5EpBnmTgfUGb",
             "visible": true,
-            "checked_at": "2026-11-04T01:20:36.242Z",
+            "checked_at": "2026-11-05T01:28:14.250Z",
             "status": "ok",
             "final_url": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/q6ehhZgx5EpBnmTgfUGb",
             "http_status": 200
@@ -255,7 +278,7 @@
             "heading": "パレートの法則で考える。大事な2割の見つけ方とわたあめ仕事での使い方",
             "canonical": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/Yo8nc3PWKje8Am0PkWro",
             "visible": true,
-            "checked_at": "2026-11-04T01:20:38.141Z",
+            "checked_at": "2026-11-05T01:28:15.677Z",
             "status": "ok",
             "final_url": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/Yo8nc3PWKje8Am0PkWro",
             "http_status": 200
@@ -278,7 +301,7 @@
             "heading": "都会と地方は上下ではない。移住したわたあめ職人のキャリア「プロスポーツ選手理論」",
             "canonical": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/w9bu99JVJFuPnqrzrxZq",
             "visible": true,
-            "checked_at": "2026-11-04T01:20:39.653Z",
+            "checked_at": "2026-11-05T01:28:17.549Z",
             "status": "ok",
             "final_url": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/w9bu99JVJFuPnqrzrxZq",
             "http_status": 200
@@ -301,7 +324,7 @@
             "heading": "企業法務の視点で新規事業のリスクを見抜く。人・物・金・情報と撤退線の考え方",
             "canonical": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/CWyyjxWtSKOtqpp8YoJV",
             "visible": true,
-            "checked_at": "2026-11-04T01:20:40.679Z",
+            "checked_at": "2026-11-05T01:28:19.048Z",
             "status": "ok",
             "final_url": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/CWyyjxWtSKOtqpp8YoJV",
             "http_status": 200
@@ -324,7 +347,7 @@
             "heading": "イベント出店の4つの型。キッチンカーとテント、物販と調理を中世の兵士にたとえる",
             "canonical": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/Ctmr3iGAAMTQVA5kQzov",
             "visible": true,
-            "checked_at": "2026-11-04T01:20:42.073Z",
+            "checked_at": "2026-11-05T01:28:20.977Z",
             "status": "ok",
             "final_url": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/Ctmr3iGAAMTQVA5kQzov",
             "http_status": 200
@@ -336,37 +359,37 @@
       "pagination": {
         "complete": true,
         "reason": "advertised_count_matched_and_stable_after_scroll_no_enabled_next",
-        "expected_count": 14,
+        "expected_count": 15,
         "pages": [
           {
             "number": 1,
             "url": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW?kind=article",
-            "dom_count": 14,
-            "unique_count": 14,
+            "dom_count": 15,
+            "unique_count": 15,
             "scroll_samples": [
               {
                 "round": 0,
-                "count": 14,
-                "unique_count": 14,
-                "height": 2697
+                "count": 15,
+                "unique_count": 15,
+                "height": 900
               },
               {
                 "round": 1,
-                "count": 14,
-                "unique_count": 14,
-                "height": 2697
+                "count": 15,
+                "unique_count": 15,
+                "height": 2793
               },
               {
                 "round": 2,
-                "count": 14,
-                "unique_count": 14,
-                "height": 2697
+                "count": 15,
+                "unique_count": 15,
+                "height": 2793
               },
               {
                 "round": 3,
-                "count": 14,
-                "unique_count": 14,
-                "height": 2697
+                "count": 15,
+                "unique_count": 15,
+                "height": 2793
               }
             ],
             "controls": [
@@ -507,11 +530,47 @@
               },
               {
                 "tag": "A",
-                "text": "記事で読める\n14",
+                "text": "記事で読める\n15",
                 "label": null,
                 "title": null,
                 "rel": null,
                 "href": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW?kind=article",
+                "disabled": false
+              },
+              {
+                "tag": "A",
+                "text": "",
+                "label": null,
+                "title": null,
+                "rel": null,
+                "href": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/dltJpNIdNkfLvdhNr1GS",
+                "disabled": false
+              },
+              {
+                "tag": "A",
+                "text": "#15 「勝つこと」と「勝ち続けること」は結構違うよ\n\n記事あり\n公開日 2026/11/04 08:49",
+                "label": null,
+                "title": null,
+                "rel": null,
+                "href": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/dltJpNIdNkfLvdhNr1GS",
+                "disabled": false
+              },
+              {
+                "tag": "BUTTON",
+                "text": "",
+                "label": "再生",
+                "title": null,
+                "rel": null,
+                "href": null,
+                "disabled": false
+              },
+              {
+                "tag": "BUTTON",
+                "text": "",
+                "label": "オフライン用にダウンロード",
+                "title": null,
+                "rel": null,
+                "href": null,
                 "disabled": false
               },
               {
@@ -1029,6 +1088,24 @@
               },
               {
                 "tag": "A",
+                "text": "Podyとは？（About）",
+                "label": null,
+                "title": null,
+                "rel": null,
+                "href": "https://pody.jp/about",
+                "disabled": false
+              },
+              {
+                "tag": "A",
+                "text": "番組運営者の方へ",
+                "label": null,
+                "title": null,
+                "rel": null,
+                "href": "https://pody.jp/creators",
+                "disabled": false
+              },
+              {
+                "tag": "A",
                 "text": "利用規約",
                 "label": null,
                 "title": null,
@@ -1076,9 +1153,9 @@
         }
       },
       "collector_exit_code": 0,
-      "total": 14,
+      "total": 15,
       "observation_mode": "live_browser_with_body_dom",
-      "observation_at": "2026-11-04T01:19:36.293Z"
+      "observation_at": "2026-11-05T01:27:15.102Z"
     }
   ],
   "displayed": 4,

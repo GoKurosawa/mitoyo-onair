@@ -11,9 +11,10 @@
         "verification_basis": "既存pody_program_map.jsonの手動確認済み番組・登録RSS対応。記事は毎回音声完全URLと公開DOMで別途照合。",
         "listing_url": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW?kind=article"
       },
-      "total": 14,
-      "confirmed_at": "2026-11-04T01:19:36.131367+00:00",
+      "total": 15,
+      "confirmed_at": "2026-11-05T01:27:14.816680+00:00",
       "active_hrefs": [
+        "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/dltJpNIdNkfLvdhNr1GS",
         "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/ybbRs5VptmuqvijCqLXJ",
         "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/LGrl8vcmpCBdrr1hsOQQ",
         "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/CpSu2OnDDwFiJCuBwg6Q",
@@ -168,6 +169,16 @@
           "rss_date": "2026-11-03T14:09:11+00:00",
           "rss_order": 1,
           "first_seen": "2026-11-04T01:19:36.131367+00:00",
+          "program_id": 13
+        },
+        {
+          "href": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/dltJpNIdNkfLvdhNr1GS",
+          "title": "#15 「勝つこと」と「勝ち続けること」は結構違うよ",
+          "guid": "2802a89e-5eab-4851-8146-15a402bdc3a1",
+          "audio_url": "https://anchor.fm/s/118cebd14/podcast/play/128725665/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-3%2F5b4ef316-89ed-2e7a-8825-a036fa805399.mp3",
+          "rss_date": "2026-11-03T23:49:55+00:00",
+          "rss_order": 0,
+          "first_seen": "2026-11-05T01:27:14.816680+00:00",
           "program_id": 13
         }
       ]
