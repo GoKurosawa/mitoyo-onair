@@ -680,6 +680,13 @@
     "rss": "https://anchor.fm/s/110de22fc/podcast/rss",
     "episodes": [
       {
+        "date": "2026-11-05T10:00:00+09:00",
+        "title": "#25 店を持ちたいと思って10年経ちました｜はじめる話・やる側",
+        "link": "https://podcasters.spotify.com/pod/show/fvpkbq5p1a8/episodes/25-10-e3rnnff",
+        "guid": "43ead361-767c-494c-806f-f1d246afc74b",
+        "show": "瀬戸内暮らしの大学 校内放送"
+      },
+      {
         "date": "2026-10-29T10:00:00+09:00",
         "title": "#24 三豊でできたことは、よその町で再現するのか｜能力の話③",
         "link": "https://podcasters.spotify.com/pod/show/fvpkbq5p1a8/episodes/24-e3qusqt",
@@ -852,6 +859,13 @@
   "13": {
     "rss": "https://anchor.fm/s/118cebd14/podcast/rss",
     "episodes": [
+      {
+        "date": "2026-11-05T11:42:59+09:00",
+        "title": "#16 「わたあめ職人」って何？",
+        "link": "https://podcasters.spotify.com/pod/show/5mn90j92mi/episodes/16-e3rpkct",
+        "guid": "72f48400-8086-4524-9881-b6bda1d77320",
+        "show": "わたあめ職人が語るには"
+      },
       {
         "date": "2026-11-04T08:49:55+09:00",
         "title": "#15 「勝つこと」と「勝ち続けること」は結構違うよ",
