@@ -11,9 +11,10 @@
         "verification_basis": "既存pody_program_map.jsonの手動確認済み番組・登録RSS対応。記事は毎回音声完全URLと公開DOMで別途照合。",
         "listing_url": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW?kind=article"
       },
-      "total": 17,
-      "confirmed_at": "2026-11-07T00:54:00.578522+00:00",
+      "total": 18,
+      "confirmed_at": "2026-11-08T00:33:21.099980+00:00",
       "active_hrefs": [
+        "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/Clz4ZXmWLcm6ZwFov17k",
         "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/Z3mKMqLfSplS2jPaeASA",
         "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/XTC4p0U7WoVx6rYGDh4l",
         "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/dltJpNIdNkfLvdhNr1GS",
@@ -39,7 +40,7 @@
           "guid": "49ca2c7b-bd32-4288-be9c-831a36d0d74b",
           "audio_url": "https://anchor.fm/s/118cebd14/podcast/play/128337847/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-29%2F2a21c102-f9d5-56c7-2e33-bf5a6bf9700a.mp3",
           "rss_date": "2026-10-29T06:54:07+00:00",
-          "rss_order": 8,
+          "rss_order": 9,
           "first_seen": "2026-10-30T08:15:05.839186+00:00",
           "program_id": 13
         },
@@ -49,7 +50,7 @@
           "guid": "12637c9a-dc50-453a-9c9d-dd7b052964cf",
           "audio_url": "https://anchor.fm/s/118cebd14/podcast/play/128239616/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-28%2Fc8ee9415-8df3-b7e8-7193-5eec5c3adb12.mp3",
           "rss_date": "2026-10-28T04:25:35+00:00",
-          "rss_order": 9,
+          "rss_order": 10,
           "first_seen": "2026-10-30T08:15:05.839186+00:00",
           "program_id": 13
         },
@@ -59,7 +60,7 @@
           "guid": "2d7f8995-56c7-4c94-bc9f-8b0209c29c5e",
           "audio_url": "https://anchor.fm/s/118cebd14/podcast/play/128181963/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-27%2F7ed6acd0-4a80-2dd9-6b97-13f2483bfd78.mp3",
           "rss_date": "2026-10-27T13:11:33+00:00",
-          "rss_order": 10,
+          "rss_order": 11,
           "first_seen": "2026-10-30T08:15:05.839186+00:00",
           "program_id": 13
         },
@@ -69,7 +70,7 @@
           "guid": "abf6af75-e300-499c-843f-3f980a57f059",
           "audio_url": "https://anchor.fm/s/118cebd14/podcast/play/128111782/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-26%2Fed623c6e-f4bb-fbe2-8b35-2ae2677cf14c.mp3",
           "rss_date": "2026-10-26T13:37:23+00:00",
-          "rss_order": 11,
+          "rss_order": 12,
           "first_seen": "2026-10-30T08:15:05.839186+00:00",
           "program_id": 13
         },
@@ -79,7 +80,7 @@
           "guid": "13eb5e45-1c04-4a97-8313-c0917f7eca9a",
           "audio_url": "https://anchor.fm/s/118cebd14/podcast/play/128025218/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-25%2F4cc5a580-5fc0-8722-041c-19ee99be62c4.mp3",
           "rss_date": "2026-10-25T01:45:09+00:00",
-          "rss_order": 12,
+          "rss_order": 13,
           "first_seen": "2026-10-30T08:15:05.839186+00:00",
           "program_id": 13
         },
@@ -89,7 +90,7 @@
           "guid": "35c629fe-02d8-4dca-8e4d-f02a4d274107",
           "audio_url": "https://anchor.fm/s/118cebd14/podcast/play/128003315/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-24%2F8c351be4-562d-b25c-737a-8c17dafa6d69.mp3",
           "rss_date": "2026-10-24T13:21:16+00:00",
-          "rss_order": 13,
+          "rss_order": 14,
           "first_seen": "2026-10-30T08:15:05.839186+00:00",
           "program_id": 13
         },
@@ -99,7 +100,7 @@
           "guid": "92c325e9-db04-429f-be15-abdfdfc1eaa9",
           "audio_url": "https://anchor.fm/s/118cebd14/podcast/play/127948235/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-23%2F8047261c-7ceb-5c2d-c918-73c83e5f8da1.mp3",
           "rss_date": "2026-10-23T11:28:17+00:00",
-          "rss_order": 14,
+          "rss_order": 15,
           "first_seen": "2026-10-30T08:15:05.839186+00:00",
           "program_id": 13
         },
@@ -109,7 +110,7 @@
           "guid": "ef3dd2ee-1228-45ed-b766-8b2f4a0af0ae",
           "audio_url": "https://anchor.fm/s/118cebd14/podcast/play/127879341/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-22%2Fbfc3d83a-713c-4bfe-8f5c-6de0e4cac108.mp3",
           "rss_date": "2026-10-22T07:59:56+00:00",
-          "rss_order": 15,
+          "rss_order": 16,
           "first_seen": "2026-10-30T08:15:05.839186+00:00",
           "program_id": 13
         },
@@ -119,7 +120,7 @@
           "guid": "6a2ecb12-1a42-446b-89d0-e467750e56d8",
           "audio_url": "https://anchor.fm/s/118cebd14/podcast/play/127817102/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-21%2Ff6f9e3ca-3ea7-7165-1d53-71da859ee34b.mp3",
           "rss_date": "2026-10-21T04:46:58+00:00",
-          "rss_order": 16,
+          "rss_order": 17,
           "first_seen": "2026-10-30T08:15:05.839186+00:00",
           "program_id": 13
         },
@@ -129,7 +130,7 @@
           "guid": "c2653c25-44a9-48d0-9609-c72c0df86a6e",
           "audio_url": "https://anchor.fm/s/118cebd14/podcast/play/128416122/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-30%2F0d67efff-d501-e2f3-13fd-036c479b8598.mp3",
           "rss_date": "2026-10-30T11:04:14+00:00",
-          "rss_order": 7,
+          "rss_order": 8,
           "first_seen": "2026-10-30T11:16:47.536564+00:00",
           "program_id": 13
         },
@@ -139,7 +140,7 @@
           "guid": "8422974b-af6c-4cd6-8f8f-6a129acef09d",
           "audio_url": "https://anchor.fm/s/118cebd14/podcast/play/128559035/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-1%2F7a7195e0-a8f8-a582-d80b-3abf63a8e7a1.mp3",
           "rss_date": "2026-11-01T12:53:18+00:00",
-          "rss_order": 5,
+          "rss_order": 6,
           "first_seen": "2026-11-02T00:32:18.257021+00:00",
           "program_id": 13
         },
@@ -149,7 +150,7 @@
           "guid": "d16aa1db-a790-42b4-90e0-952a4d7b8e63",
           "audio_url": "https://anchor.fm/s/118cebd14/podcast/play/128481700/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-31%2F0b802012-502c-cee5-13a8-969dda63c980.mp3",
           "rss_date": "2026-10-31T07:48:29+00:00",
-          "rss_order": 6,
+          "rss_order": 7,
           "first_seen": "2026-11-02T00:32:18.257021+00:00",
           "program_id": 13
         },
@@ -159,7 +160,7 @@
           "guid": "7a888674-26b9-4866-947d-229fac80160c",
           "audio_url": "https://anchor.fm/s/118cebd14/podcast/play/128619556/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-2%2Fea6e7626-bf6d-4ba3-8891-cce71214f38c.mp3",
           "rss_date": "2026-11-02T14:13:25+00:00",
-          "rss_order": 4,
+          "rss_order": 5,
           "first_seen": "2026-11-03T02:54:47.619045+00:00",
           "program_id": 13
         },
@@ -169,7 +170,7 @@
           "guid": "92a13893-c880-4abd-9be7-e758e05687ea",
           "audio_url": "https://anchor.fm/s/118cebd14/podcast/play/128686103/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-3%2Faba84415-1150-7cbb-d9e2-60f89e8c429a.mp3",
           "rss_date": "2026-11-03T14:09:11+00:00",
-          "rss_order": 3,
+          "rss_order": 4,
           "first_seen": "2026-11-04T01:19:36.131367+00:00",
           "program_id": 13
         },
@@ -179,7 +180,7 @@
           "guid": "2802a89e-5eab-4851-8146-15a402bdc3a1",
           "audio_url": "https://anchor.fm/s/118cebd14/podcast/play/128725665/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-3%2F5b4ef316-89ed-2e7a-8825-a036fa805399.mp3",
           "rss_date": "2026-11-03T23:49:55+00:00",
-          "rss_order": 2,
+          "rss_order": 3,
           "first_seen": "2026-11-05T01:27:14.816680+00:00",
           "program_id": 13
         },
@@ -189,7 +190,7 @@
           "guid": "72f48400-8086-4524-9881-b6bda1d77320",
           "audio_url": "https://anchor.fm/s/118cebd14/podcast/play/128814941/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-5%2Fb8fa3292-41ac-00bd-8ee0-abdc14fe2dda.mp3",
           "rss_date": "2026-11-05T02:42:59+00:00",
-          "rss_order": 1,
+          "rss_order": 2,
           "first_seen": "2026-11-06T01:32:22.398988+00:00",
           "program_id": 13
         },
@@ -199,8 +200,18 @@
           "guid": "4181dac0-7664-4c83-af77-637d16c9ecc0",
           "audio_url": "https://anchor.fm/s/118cebd14/podcast/play/128921230/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-6%2Ff8e306e5-2cce-f46e-acd7-dfc3a61ec61f.mp3",
           "rss_date": "2026-11-06T12:13:21+00:00",
-          "rss_order": 0,
+          "rss_order": 1,
           "first_seen": "2026-11-07T00:54:00.578522+00:00",
+          "program_id": 13
+        },
+        {
+          "href": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/Clz4ZXmWLcm6ZwFov17k",
+          "title": "#18 起業はビジネスモデルで考えよう",
+          "guid": "457dbd42-b24e-43d3-9639-3e696dfeebe3",
+          "audio_url": "https://anchor.fm/s/118cebd14/podcast/play/128971017/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-7%2Fe15b1a58-8e95-eb1e-ba34-1c52e98f2665.mp3",
+          "rss_date": "2026-11-07T04:19:07+00:00",
+          "rss_order": 0,
+          "first_seen": "2026-11-08T00:33:21.099980+00:00",
           "program_id": 13
         }
       ]
