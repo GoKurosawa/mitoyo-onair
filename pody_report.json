@@ -1,15 +1,38 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-08T00:33:21.099980+00:00",
+  "generated_at": "2026-11-09T00:50:57.556240+00:00",
   "programs": [
     {
       "program_id": 13,
       "status": "updated",
       "issues": [],
-      "observed": 18,
-      "audio_matched": 18,
-      "verified": 18,
+      "observed": 19,
+      "audio_matched": 19,
+      "verified": 19,
       "matches": [
+        {
+          "href": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/P7wikQ2b6HDHvqDqZyga",
+          "rss_guid": "9df47794-3caf-464e-b520-ed50c03b85f9",
+          "rss_enclosure": "https://anchor.fm/s/118cebd14/podcast/play/129061724/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-8%2Fcf7ffa5f-e1e8-2667-4add-71281127f218.mp3",
+          "article_audio_urls": [
+            "https://anchor.fm/s/118cebd14/podcast/play/129061724/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-8%2Fcf7ffa5f-e1e8-2667-4add-71281127f218.mp3"
+          ],
+          "body_dom": {
+            "selector": ".article-content",
+            "paragraph_count": 102,
+            "text_length": 7574,
+            "text_excerpt": "今回のテーマは「電気と電波の防災対策」です。ごうさんは、防災でまず優先すべきなのは食べ物や服、トイレといったもっと基本的なものだとしたうえで、今回はその次の段階として電気と電波を取り上げています。\nごうさんがこの話題を選んだ背景には、収録の前日に愛知県で震度5強の地震があったことや、ちょうど収録の時期に防災庁が発足したことがありました。\n電気の備えとして、ごうさんが手軽な候補に挙げるのがポータブル電源です。少し大きめのバッテリーのような充電器で、取り入れやすい選択肢だといいま",
+            "heading": "ポータブル電源・発電機・Starlinkで考える電気と電波の防災対策",
+            "canonical": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/P7wikQ2b6HDHvqDqZyga",
+            "visible": true,
+            "checked_at": "2026-11-09T00:52:27.515Z",
+            "status": "ok",
+            "final_url": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/P7wikQ2b6HDHvqDqZyga",
+            "http_status": 200
+          },
+          "canonical": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/P7wikQ2b6HDHvqDqZyga",
+          "article_jsonld": true
+        },
         {
           "href": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/Clz4ZXmWLcm6ZwFov17k",
           "rss_guid": "457dbd42-b24e-43d3-9639-3e696dfeebe3",
@@ -25,7 +48,7 @@
             "heading": "好きなことで起業する前に考えたい、ビジネスモデル10の観点",
             "canonical": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/Clz4ZXmWLcm6ZwFov17k",
             "visible": true,
-            "checked_at": "2026-11-08T00:34:13.812Z",
+            "checked_at": "2026-11-09T00:52:29.770Z",
             "status": "ok",
             "final_url": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/Clz4ZXmWLcm6ZwFov17k",
             "http_status": 200
@@ -48,7 +71,7 @@
             "heading": "マルシェ出店でマーケット感覚を磨く。わたあめ職人が語る起業と副業の練習法",
             "canonical": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/Z3mKMqLfSplS2jPaeASA",
             "visible": true,
-            "checked_at": "2026-11-08T00:34:15.413Z",
+            "checked_at": "2026-11-09T00:52:33.919Z",
             "status": "ok",
             "final_url": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/Z3mKMqLfSplS2jPaeASA",
             "http_status": 200
@@ -71,7 +94,7 @@
             "heading": "わたあめ職人とは何か。黄金比の形と三豊のフルーツにこだわる理由",
             "canonical": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/XTC4p0U7WoVx6rYGDh4l",
             "visible": true,
-            "checked_at": "2026-11-08T00:34:16.607Z",
+            "checked_at": "2026-11-09T00:52:35.784Z",
             "status": "ok",
             "final_url": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/XTC4p0U7WoVx6rYGDh4l",
             "http_status": 200
@@ -94,7 +117,7 @@
             "heading": "勝つことと勝ち続けることの違い。孫子の兵法と桶狭間から考える事業の足腰",
             "canonical": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/dltJpNIdNkfLvdhNr1GS",
             "visible": true,
-            "checked_at": "2026-11-08T00:34:18.799Z",
+            "checked_at": "2026-11-09T00:52:38.004Z",
             "status": "ok",
             "final_url": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/dltJpNIdNkfLvdhNr1GS",
             "http_status": 200
@@ -117,7 +140,7 @@
             "heading": "人を助けたいなら自分のコップを満たす。わたあめ職人が語る定番商品とAI活用",
             "canonical": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/ybbRs5VptmuqvijCqLXJ",
             "visible": true,
-            "checked_at": "2026-11-08T00:34:20.378Z",
+            "checked_at": "2026-11-09T00:52:40.579Z",
             "status": "ok",
             "final_url": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/ybbRs5VptmuqvijCqLXJ",
             "http_status": 200
@@ -140,7 +163,7 @@
             "heading": "「なんとなく苦手」の壁を越える。イレクターパイプ切断で気づいた自己効力感",
             "canonical": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/LGrl8vcmpCBdrr1hsOQQ",
             "visible": true,
-            "checked_at": "2026-11-08T00:34:22.330Z",
+            "checked_at": "2026-11-09T00:52:42.572Z",
             "status": "ok",
             "final_url": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/LGrl8vcmpCBdrr1hsOQQ",
             "http_status": 200
@@ -163,7 +186,7 @@
             "heading": "AIへの指示は「IKEAの説明書風」で変わる。わかりやすい表現を集める方法",
             "canonical": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/CpSu2OnDDwFiJCuBwg6Q",
             "visible": true,
-            "checked_at": "2026-11-08T00:34:24.222Z",
+            "checked_at": "2026-11-09T00:52:46.374Z",
             "status": "ok",
             "final_url": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/CpSu2OnDDwFiJCuBwg6Q",
             "http_status": 200
@@ -186,7 +209,7 @@
             "heading": "リスクは怖さでなく「起こりやすさ×影響」で見る。元企業法務が移住・起業で実践したこと",
             "canonical": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/VVDNXQVDV1VVUqN33JjZ",
             "visible": true,
-            "checked_at": "2026-11-08T00:34:25.783Z",
+            "checked_at": "2026-11-09T00:52:48.263Z",
             "status": "ok",
             "final_url": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/VVDNXQVDV1VVUqN33JjZ",
             "http_status": 200
@@ -209,7 +232,7 @@
             "heading": "AI検索時代はPodcastの文字起こしが鍵になる。Googleマップ登録に並ぶ情報発信",
             "canonical": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/oftn5i5VMGRuWkYUEDYq",
             "visible": true,
-            "checked_at": "2026-11-08T00:34:28.222Z",
+            "checked_at": "2026-11-09T00:52:52.663Z",
             "status": "ok",
             "final_url": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/oftn5i5VMGRuWkYUEDYq",
             "http_status": 200
@@ -232,7 +255,7 @@
             "heading": "キャリアは「時代の波」と「時の試練」で考える。成長産業・リンディ効果・パレートの法則",
             "canonical": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/Zg7ffjdcySrlSRQ1WfME",
             "visible": true,
-            "checked_at": "2026-11-08T00:34:29.586Z",
+            "checked_at": "2026-11-09T00:52:57.159Z",
             "status": "ok",
             "final_url": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/Zg7ffjdcySrlSRQ1WfME",
             "http_status": 200
@@ -255,7 +278,7 @@
             "heading": "自分の欠点は直さずに扱う。自己中を利他につなげる『7つの習慣』の応用",
             "canonical": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/KudE8tWm3oD4CC6FiLk2",
             "visible": true,
-            "checked_at": "2026-11-08T00:34:31.181Z",
+            "checked_at": "2026-11-09T00:52:59.545Z",
             "status": "ok",
             "final_url": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/KudE8tWm3oD4CC6FiLk2",
             "http_status": 200
@@ -278,7 +301,7 @@
             "heading": "三豊のポッドキャストをまとめる「三豊オンエア」を作った理由。AIと人口減少から考える地域発信",
             "canonical": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/Dwvjr1k7ZUpKwvxuN6NP",
             "visible": true,
-            "checked_at": "2026-11-08T00:34:33.419Z",
+            "checked_at": "2026-11-09T00:53:03.609Z",
             "status": "ok",
             "final_url": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/Dwvjr1k7ZUpKwvxuN6NP",
             "http_status": 200
@@ -301,7 +324,7 @@
             "heading": "「自分のペース」の落とし穴。ゴールと期限から必要な速さを逆算する",
             "canonical": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/JjpB7FL4jcSs85cJSJcG",
             "visible": true,
-            "checked_at": "2026-11-08T00:34:35.135Z",
+            "checked_at": "2026-11-09T00:53:06.823Z",
             "status": "ok",
             "final_url": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/JjpB7FL4jcSs85cJSJcG",
             "http_status": 200
@@ -324,7 +347,7 @@
             "heading": "やりたいことと楽なことは違う。わたあめ職人が語る基礎練とゴールの関係",
             "canonical": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/q6ehhZgx5EpBnmTgfUGb",
             "visible": true,
-            "checked_at": "2026-11-08T00:34:36.650Z",
+            "checked_at": "2026-11-09T00:53:11.525Z",
             "status": "ok",
             "final_url": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/q6ehhZgx5EpBnmTgfUGb",
             "http_status": 200
@@ -347,7 +370,7 @@
             "heading": "パレートの法則で考える。大事な2割の見つけ方とわたあめ仕事での使い方",
             "canonical": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/Yo8nc3PWKje8Am0PkWro",
             "visible": true,
-            "checked_at": "2026-11-08T00:34:38.071Z",
+            "checked_at": "2026-11-09T00:53:14.597Z",
             "status": "ok",
             "final_url": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/Yo8nc3PWKje8Am0PkWro",
             "http_status": 200
@@ -370,7 +393,7 @@
             "heading": "都会と地方は上下ではない。移住したわたあめ職人のキャリア「プロスポーツ選手理論」",
             "canonical": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/w9bu99JVJFuPnqrzrxZq",
             "visible": true,
-            "checked_at": "2026-11-08T00:34:40.615Z",
+            "checked_at": "2026-11-09T00:53:19.137Z",
             "status": "ok",
             "final_url": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/w9bu99JVJFuPnqrzrxZq",
             "http_status": 200
@@ -393,7 +416,7 @@
             "heading": "企業法務の視点で新規事業のリスクを見抜く。人・物・金・情報と撤退線の考え方",
             "canonical": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/CWyyjxWtSKOtqpp8YoJV",
             "visible": true,
-            "checked_at": "2026-11-08T00:34:41.805Z",
+            "checked_at": "2026-11-09T00:53:20.623Z",
             "status": "ok",
             "final_url": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/CWyyjxWtSKOtqpp8YoJV",
             "http_status": 200
@@ -416,7 +439,7 @@
             "heading": "イベント出店の4つの型。キッチンカーとテント、物販と調理を中世の兵士にたとえる",
             "canonical": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/Ctmr3iGAAMTQVA5kQzov",
             "visible": true,
-            "checked_at": "2026-11-08T00:34:43.198Z",
+            "checked_at": "2026-11-09T00:53:22.627Z",
             "status": "ok",
             "final_url": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/Ctmr3iGAAMTQVA5kQzov",
             "http_status": 200
@@ -428,37 +451,37 @@
       "pagination": {
         "complete": true,
         "reason": "advertised_count_matched_and_stable_after_scroll_no_enabled_next",
-        "expected_count": 18,
+        "expected_count": 19,
         "pages": [
           {
             "number": 1,
             "url": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW?kind=article",
-            "dom_count": 18,
-            "unique_count": 18,
+            "dom_count": 19,
+            "unique_count": 19,
             "scroll_samples": [
               {
                 "round": 0,
-                "count": 18,
-                "unique_count": 18,
-                "height": 3142
+                "count": 19,
+                "unique_count": 19,
+                "height": 3174
               },
               {
                 "round": 1,
-                "count": 18,
-                "unique_count": 18,
-                "height": 3079
+                "count": 19,
+                "unique_count": 19,
+                "height": 3174
               },
               {
                 "round": 2,
-                "count": 18,
-                "unique_count": 18,
-                "height": 3079
+                "count": 19,
+                "unique_count": 19,
+                "height": 3174
               },
               {
                 "round": 3,
-                "count": 18,
-                "unique_count": 18,
-                "height": 3079
+                "count": 19,
+                "unique_count": 19,
+                "height": 3174
               }
             ],
             "controls": [
@@ -599,11 +622,47 @@
               },
               {
                 "tag": "A",
-                "text": "記事で読める\n18",
+                "text": "記事で読める\n19",
                 "label": null,
                 "title": null,
                 "rel": null,
                 "href": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW?kind=article",
+                "disabled": false
+              },
+              {
+                "tag": "A",
+                "text": "",
+                "label": null,
+                "title": null,
+                "rel": null,
+                "href": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/P7wikQ2b6HDHvqDqZyga",
+                "disabled": false
+              },
+              {
+                "tag": "A",
+                "text": "#19 電気と電波の防災対策\n\n記事あり\n公開日 2026/11/09 03:49",
+                "label": null,
+                "title": null,
+                "rel": null,
+                "href": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/P7wikQ2b6HDHvqDqZyga",
+                "disabled": false
+              },
+              {
+                "tag": "BUTTON",
+                "text": "",
+                "label": "再生",
+                "title": null,
+                "rel": null,
+                "href": null,
+                "disabled": false
+              },
+              {
+                "tag": "BUTTON",
+                "text": "",
+                "label": "オフライン用にダウンロード",
+                "title": null,
+                "rel": null,
+                "href": null,
                 "disabled": false
               },
               {
@@ -1330,9 +1389,9 @@
         }
       },
       "collector_exit_code": 0,
-      "total": 18,
+      "total": 19,
       "observation_mode": "live_browser_with_body_dom",
-      "observation_at": "2026-11-08T00:33:21.437Z"
+      "observation_at": "2026-11-09T00:50:57.782Z"
     }
   ],
   "displayed": 4,
