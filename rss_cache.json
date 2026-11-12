@@ -3,6 +3,13 @@
     "rss": "https://anchor.fm/s/edbe9770/podcast/rss",
     "episodes": [
       {
+        "date": "2026-11-10T22:00:00+09:00",
+        "title": "＃2-29 「オムライスが食べたくて」ゲスト岩野 葉月さん",
+        "link": "https://podcasters.spotify.com/pod/show/a7lsk4gucf/episodes/2-29-e3rl25h",
+        "guid": "7668e5b5-7f4e-4e63-9cbd-f06fd8d2d69e",
+        "show": "おかわりラジオ🍚"
+      },
+      {
         "date": "2026-11-03T00:26:29+09:00",
         "title": "# 2-28「ケアする建築」ゲスト平宅 正人さん",
         "link": "https://podcasters.spotify.com/pod/show/a7lsk4gucf/episodes/2-28-e3rjljh",
@@ -680,6 +687,13 @@
     "rss": "https://anchor.fm/s/110de22fc/podcast/rss",
     "episodes": [
       {
+        "date": "2026-11-12T10:00:00+09:00",
+        "title": "#26 全部そろっていたのに、一度止まりました｜はじめる話・支援する側",
+        "link": "https://podcasters.spotify.com/pod/show/fvpkbq5p1a8/episodes/26-e3rno2v",
+        "guid": "b74ce70f-35cb-4d37-b124-2c4dc46fde5e",
+        "show": "瀬戸内暮らしの大学 校内放送"
+      },
+      {
         "date": "2026-11-05T10:00:00+09:00",
         "title": "#25 店を持ちたいと思って10年経ちました｜はじめる話・やる側",
         "link": "https://podcasters.spotify.com/pod/show/fvpkbq5p1a8/episodes/25-10-e3rnnff",
@@ -860,6 +874,13 @@
     "rss": "https://anchor.fm/s/118cebd14/podcast/rss",
     "episodes": [
       {
+        "date": "2026-11-12T02:09:16+09:00",
+        "title": "#22 「無意識の他責思考」に気をつけよう",
+        "link": "https://podcasters.spotify.com/pod/show/5mn90j92mi/episodes/22-e3s7h4h",
+        "guid": "7865bc6d-190e-43ca-97bb-d5bbf9d19f61",
+        "show": "わたあめ職人が語るには"
+      },
+      {
         "date": "2026-11-11T01:00:42+09:00",
         "title": "#21 「イベントに出店するかどうか」を決めるのは自分",
         "link": "https://podcasters.spotify.com/pod/show/5mn90j92mi/episodes/21-e3s5bpj",
@@ -1011,6 +1032,13 @@
   "1": {
     "rss": "https://anchor.fm/s/1082bfa80/podcast/rss",
     "episodes": [
+      {
+        "date": "2026-11-10T12:42:17+09:00",
+        "title": "#116 食に関わることの大切さとその仲間たち",
+        "link": "https://podcasters.spotify.com/pod/show/nami090/episodes/116-e3s47pr",
+        "guid": "9b71e914-33dc-4e79-b539-4e1d55592314",
+        "show": "なみさんの焚べるラジオ"
+      },
       {
         "date": "2026-10-31T17:29:23+09:00",
         "title": "#115 友情と愛情とラジオとこれから",
