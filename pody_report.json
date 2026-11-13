@@ -1,11 +1,17 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-12T02:15:13.452477+00:00",
+  "generated_at": "2026-11-13T01:48:23.321354+00:00",
   "programs": [
     {
       "program_id": 13,
       "status": "held",
       "issues": [
+        {
+          "href": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/PM9uYTEBqpbkRiByHnS0",
+          "reasons": [
+            "audio_mismatch"
+          ]
+        },
         {
           "href": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/u1s8ybnA8OBqfPbJLouX",
           "reasons": [
@@ -139,14 +145,14 @@
           ]
         }
       ],
-      "observed": 22,
+      "observed": 23,
       "audio_matched": 0,
       "verified": 0,
       "matches": [],
       "pagination": {
         "complete": true,
         "reason": "advertised_count_matched_and_stable_after_scroll_no_enabled_next",
-        "expected_count": 22,
+        "expected_count": 23,
         "pages": [
           {
             "number": 1,
@@ -156,9 +162,9 @@
             "scroll_samples": [
               {
                 "round": 0,
-                "count": 40,
+                "count": 20,
                 "unique_count": 20,
-                "height": 3329
+                "height": 3142
               },
               {
                 "round": 1,
@@ -174,12 +180,6 @@
               },
               {
                 "round": 3,
-                "count": 20,
-                "unique_count": 20,
-                "height": 3329
-              },
-              {
-                "round": 4,
                 "count": 20,
                 "unique_count": 20,
                 "height": 3329
@@ -323,11 +323,47 @@
               },
               {
                 "tag": "A",
-                "text": "記事で読める\n22",
+                "text": "記事で読める\n23",
                 "label": null,
                 "title": null,
                 "rel": null,
                 "href": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW?kind=article",
+                "disabled": false
+              },
+              {
+                "tag": "A",
+                "text": "",
+                "label": null,
+                "title": null,
+                "rel": null,
+                "href": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/PM9uYTEBqpbkRiByHnS0",
+                "disabled": false
+              },
+              {
+                "tag": "A",
+                "text": "#23 攻勢限界を見極めよう\n\n記事あり\n公開日 2026/11/12 21:53",
+                "label": null,
+                "title": null,
+                "rel": null,
+                "href": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/PM9uYTEBqpbkRiByHnS0",
+                "disabled": false
+              },
+              {
+                "tag": "BUTTON",
+                "text": "",
+                "label": "再生",
+                "title": null,
+                "rel": null,
+                "href": null,
+                "disabled": false
+              },
+              {
+                "tag": "BUTTON",
+                "text": "",
+                "label": "オフライン用にダウンロード",
+                "title": null,
+                "rel": null,
+                "href": null,
                 "disabled": false
               },
               {
@@ -1016,42 +1052,6 @@
               },
               {
                 "tag": "A",
-                "text": "",
-                "label": null,
-                "title": null,
-                "rel": null,
-                "href": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/w9bu99JVJFuPnqrzrxZq",
-                "disabled": false
-              },
-              {
-                "tag": "A",
-                "text": "#3 あなたが活躍するのはどこ？キャリアの「プロスポーツ選手理論」\n\n記事あり\n公開日 2026/10/23 20:28",
-                "label": null,
-                "title": null,
-                "rel": null,
-                "href": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/w9bu99JVJFuPnqrzrxZq",
-                "disabled": false
-              },
-              {
-                "tag": "BUTTON",
-                "text": "",
-                "label": "再生",
-                "title": null,
-                "rel": null,
-                "href": null,
-                "disabled": false
-              },
-              {
-                "tag": "BUTTON",
-                "text": "",
-                "label": "オフライン用にダウンロード",
-                "title": null,
-                "rel": null,
-                "href": null,
-                "disabled": false
-              },
-              {
-                "tag": "A",
                 "text": "2",
                 "label": "2ページ目",
                 "title": null,
@@ -1093,6 +1093,15 @@
                 "title": null,
                 "rel": null,
                 "href": "https://pody.jp/creators",
+                "disabled": false
+              },
+              {
+                "tag": "A",
+                "text": "お問い合わせ",
+                "label": null,
+                "title": null,
+                "rel": "noopener noreferrer",
+                "href": "https://alu.co.jp/inquiry",
                 "disabled": false
               },
               {
@@ -1151,32 +1160,32 @@
           {
             "number": 2,
             "url": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW?kind=article&page=2",
-            "dom_count": 2,
-            "unique_count": 22,
+            "dom_count": 3,
+            "unique_count": 23,
             "scroll_samples": [
               {
                 "round": 0,
-                "count": 2,
-                "unique_count": 22,
+                "count": 3,
+                "unique_count": 23,
                 "height": 3142
               },
               {
                 "round": 1,
-                "count": 2,
-                "unique_count": 22,
-                "height": 1614
+                "count": 3,
+                "unique_count": 23,
+                "height": 1709
               },
               {
                 "round": 2,
-                "count": 2,
-                "unique_count": 22,
-                "height": 1614
+                "count": 3,
+                "unique_count": 23,
+                "height": 1709
               },
               {
                 "round": 3,
-                "count": 2,
-                "unique_count": 22,
-                "height": 1614
+                "count": 3,
+                "unique_count": 23,
+                "height": 1709
               }
             ],
             "controls": [
@@ -1317,11 +1326,47 @@
               },
               {
                 "tag": "A",
-                "text": "記事で読める\n22",
+                "text": "記事で読める\n23",
                 "label": null,
                 "title": null,
                 "rel": null,
                 "href": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW?kind=article",
+                "disabled": false
+              },
+              {
+                "tag": "A",
+                "text": "",
+                "label": null,
+                "title": null,
+                "rel": null,
+                "href": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/w9bu99JVJFuPnqrzrxZq",
+                "disabled": false
+              },
+              {
+                "tag": "A",
+                "text": "#3 あなたが活躍するのはどこ？キャリアの「プロスポーツ選手理論」\n\n記事あり\n公開日 2026/10/23 20:28",
+                "label": null,
+                "title": null,
+                "rel": null,
+                "href": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/w9bu99JVJFuPnqrzrxZq",
+                "disabled": false
+              },
+              {
+                "tag": "BUTTON",
+                "text": "",
+                "label": "再生",
+                "title": null,
+                "rel": null,
+                "href": null,
+                "disabled": false
+              },
+              {
+                "tag": "BUTTON",
+                "text": "",
+                "label": "オフライン用にダウンロード",
+                "title": null,
+                "rel": null,
+                "href": null,
                 "disabled": false
               },
               {
@@ -1443,6 +1488,15 @@
               },
               {
                 "tag": "A",
+                "text": "お問い合わせ",
+                "label": null,
+                "title": null,
+                "rel": "noopener noreferrer",
+                "href": "https://alu.co.jp/inquiry",
+                "disabled": false
+              },
+              {
+                "tag": "A",
                 "text": "利用規約",
                 "label": null,
                 "title": null,
@@ -1494,7 +1548,7 @@
       "collector_exit_code": 0,
       "retained_previous": true,
       "observation_mode": "live_browser_with_body_dom",
-      "observation_at": "2026-11-12T02:15:13.606Z"
+      "observation_at": "2026-11-13T01:48:23.599Z"
     }
   ],
   "displayed": 4,
