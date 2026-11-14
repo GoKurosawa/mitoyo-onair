@@ -1,11 +1,17 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-13T01:48:23.321354+00:00",
+  "generated_at": "2026-11-14T01:26:14.817680+00:00",
   "programs": [
     {
       "program_id": 13,
       "status": "held",
       "issues": [
+        {
+          "href": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/vHC3SKzE0g9dgeEXJWSX",
+          "reasons": [
+            "audio_mismatch"
+          ]
+        },
         {
           "href": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/PM9uYTEBqpbkRiByHnS0",
           "reasons": [
@@ -145,14 +151,14 @@
           ]
         }
       ],
-      "observed": 23,
+      "observed": 24,
       "audio_matched": 0,
       "verified": 0,
       "matches": [],
       "pagination": {
         "complete": true,
         "reason": "advertised_count_matched_and_stable_after_scroll_no_enabled_next",
-        "expected_count": 23,
+        "expected_count": 24,
         "pages": [
           {
             "number": 1,
@@ -323,11 +329,47 @@
               },
               {
                 "tag": "A",
-                "text": "記事で読める\n23",
+                "text": "記事で読める\n24",
                 "label": null,
                 "title": null,
                 "rel": null,
                 "href": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW?kind=article",
+                "disabled": false
+              },
+              {
+                "tag": "A",
+                "text": "",
+                "label": null,
+                "title": null,
+                "rel": null,
+                "href": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/vHC3SKzE0g9dgeEXJWSX",
+                "disabled": false
+              },
+              {
+                "tag": "A",
+                "text": "#24 聴いてから見ると、歴史はもっと面白い\n\n記事あり\n公開日 2026/11/13 22:58",
+                "label": null,
+                "title": null,
+                "rel": null,
+                "href": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/vHC3SKzE0g9dgeEXJWSX",
+                "disabled": false
+              },
+              {
+                "tag": "BUTTON",
+                "text": "",
+                "label": "再生",
+                "title": null,
+                "rel": null,
+                "href": null,
+                "disabled": false
+              },
+              {
+                "tag": "BUTTON",
+                "text": "",
+                "label": "オフライン用にダウンロード",
+                "title": null,
+                "rel": null,
+                "href": null,
                 "disabled": false
               },
               {
@@ -1016,42 +1058,6 @@
               },
               {
                 "tag": "A",
-                "text": "",
-                "label": null,
-                "title": null,
-                "rel": null,
-                "href": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/Yo8nc3PWKje8Am0PkWro",
-                "disabled": false
-              },
-              {
-                "tag": "A",
-                "text": "#4 「パレートの法則」で考えよう\n\n記事あり\n公開日 2026/10/24 22:21",
-                "label": null,
-                "title": null,
-                "rel": null,
-                "href": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/Yo8nc3PWKje8Am0PkWro",
-                "disabled": false
-              },
-              {
-                "tag": "BUTTON",
-                "text": "",
-                "label": "再生",
-                "title": null,
-                "rel": null,
-                "href": null,
-                "disabled": false
-              },
-              {
-                "tag": "BUTTON",
-                "text": "",
-                "label": "オフライン用にダウンロード",
-                "title": null,
-                "rel": null,
-                "href": null,
-                "disabled": false
-              },
-              {
-                "tag": "A",
                 "text": "2",
                 "label": "2ページ目",
                 "title": null,
@@ -1160,32 +1166,32 @@
           {
             "number": 2,
             "url": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW?kind=article&page=2",
-            "dom_count": 3,
-            "unique_count": 23,
+            "dom_count": 4,
+            "unique_count": 24,
             "scroll_samples": [
               {
                 "round": 0,
-                "count": 3,
-                "unique_count": 23,
+                "count": 4,
+                "unique_count": 24,
                 "height": 3142
               },
               {
                 "round": 1,
-                "count": 3,
-                "unique_count": 23,
-                "height": 1709
+                "count": 4,
+                "unique_count": 24,
+                "height": 1805
               },
               {
                 "round": 2,
-                "count": 3,
-                "unique_count": 23,
-                "height": 1709
+                "count": 4,
+                "unique_count": 24,
+                "height": 1805
               },
               {
                 "round": 3,
-                "count": 3,
-                "unique_count": 23,
-                "height": 1709
+                "count": 4,
+                "unique_count": 24,
+                "height": 1805
               }
             ],
             "controls": [
@@ -1326,11 +1332,47 @@
               },
               {
                 "tag": "A",
-                "text": "記事で読める\n23",
+                "text": "記事で読める\n24",
                 "label": null,
                 "title": null,
                 "rel": null,
                 "href": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW?kind=article",
+                "disabled": false
+              },
+              {
+                "tag": "A",
+                "text": "",
+                "label": null,
+                "title": null,
+                "rel": null,
+                "href": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/Yo8nc3PWKje8Am0PkWro",
+                "disabled": false
+              },
+              {
+                "tag": "A",
+                "text": "#4 「パレートの法則」で考えよう\n\n記事あり\n公開日 2026/10/24 22:21",
+                "label": null,
+                "title": null,
+                "rel": null,
+                "href": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/Yo8nc3PWKje8Am0PkWro",
+                "disabled": false
+              },
+              {
+                "tag": "BUTTON",
+                "text": "",
+                "label": "再生",
+                "title": null,
+                "rel": null,
+                "href": null,
+                "disabled": false
+              },
+              {
+                "tag": "BUTTON",
+                "text": "",
+                "label": "オフライン用にダウンロード",
+                "title": null,
+                "rel": null,
+                "href": null,
                 "disabled": false
               },
               {
@@ -1548,7 +1590,7 @@
       "collector_exit_code": 0,
       "retained_previous": true,
       "observation_mode": "live_browser_with_body_dom",
-      "observation_at": "2026-11-13T01:48:23.599Z"
+      "observation_at": "2026-11-14T01:26:15.066Z"
     }
   ],
   "displayed": 4,

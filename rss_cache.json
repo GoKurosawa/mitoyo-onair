@@ -874,6 +874,13 @@
     "rss": "https://anchor.fm/s/118cebd14/podcast/rss",
     "episodes": [
       {
+        "date": "2026-11-13T22:58:20+09:00",
+        "title": "#24 聴いてから見ると、歴史はもっと面白い",
+        "link": "https://podcasters.spotify.com/pod/show/5mn90j92mi/episodes/24-e3satqr",
+        "guid": "5ce3fa05-6add-4fca-8895-0b4d91387a5b",
+        "show": "わたあめ職人が語るには"
+      },
+      {
         "date": "2026-11-12T21:53:01+09:00",
         "title": "#23 攻勢限界を見極めよう",
         "link": "https://podcasters.spotify.com/pod/show/5mn90j92mi/episodes/23-e3s91au",
@@ -1039,6 +1046,13 @@
   "1": {
     "rss": "https://anchor.fm/s/1082bfa80/podcast/rss",
     "episodes": [
+      {
+        "date": "2026-11-13T10:58:06+09:00",
+        "title": "#117 久しぶりの博多と初めましての壱岐",
+        "link": "https://podcasters.spotify.com/pod/show/nami090/episodes/117-e3sa48u",
+        "guid": "2e13c4a8-ab4a-4845-88d9-5a5c9d5fb4c7",
+        "show": "なみさんの焚べるラジオ"
+      },
       {
         "date": "2026-11-10T12:42:17+09:00",
         "title": "#116 食に関わることの大切さとその仲間たち",
