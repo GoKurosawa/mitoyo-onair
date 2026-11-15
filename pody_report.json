@@ -1,11 +1,17 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-14T01:26:14.817680+00:00",
+  "generated_at": "2026-11-15T01:00:50.851548+00:00",
   "programs": [
     {
       "program_id": 13,
       "status": "held",
       "issues": [
+        {
+          "href": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/YlBoaTg1Pf9tg7MlszEO",
+          "reasons": [
+            "audio_mismatch"
+          ]
+        },
         {
           "href": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/vHC3SKzE0g9dgeEXJWSX",
           "reasons": [
@@ -151,14 +157,14 @@
           ]
         }
       ],
-      "observed": 24,
+      "observed": 25,
       "audio_matched": 0,
       "verified": 0,
       "matches": [],
       "pagination": {
         "complete": true,
         "reason": "advertised_count_matched_and_stable_after_scroll_no_enabled_next",
-        "expected_count": 24,
+        "expected_count": 25,
         "pages": [
           {
             "number": 1,
@@ -168,9 +174,9 @@
             "scroll_samples": [
               {
                 "round": 0,
-                "count": 20,
+                "count": 40,
                 "unique_count": 20,
-                "height": 3142
+                "height": 3329
               },
               {
                 "round": 1,
@@ -186,6 +192,12 @@
               },
               {
                 "round": 3,
+                "count": 20,
+                "unique_count": 20,
+                "height": 3329
+              },
+              {
+                "round": 4,
                 "count": 20,
                 "unique_count": 20,
                 "height": 3329
@@ -329,11 +341,47 @@
               },
               {
                 "tag": "A",
-                "text": "記事で読める\n24",
+                "text": "記事で読める\n25",
                 "label": null,
                 "title": null,
                 "rel": null,
                 "href": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW?kind=article",
+                "disabled": false
+              },
+              {
+                "tag": "A",
+                "text": "",
+                "label": null,
+                "title": null,
+                "rel": null,
+                "href": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/YlBoaTg1Pf9tg7MlszEO",
+                "disabled": false
+              },
+              {
+                "tag": "A",
+                "text": "#25 マルシェ出店「見えないコスト」の落とし穴\n\n記事あり\n公開日 2026/11/14 23:58",
+                "label": null,
+                "title": null,
+                "rel": null,
+                "href": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/YlBoaTg1Pf9tg7MlszEO",
+                "disabled": false
+              },
+              {
+                "tag": "BUTTON",
+                "text": "",
+                "label": "再生",
+                "title": null,
+                "rel": null,
+                "href": null,
+                "disabled": false
+              },
+              {
+                "tag": "BUTTON",
+                "text": "",
+                "label": "オフライン用にダウンロード",
+                "title": null,
+                "rel": null,
+                "href": null,
                 "disabled": false
               },
               {
@@ -1022,42 +1070,6 @@
               },
               {
                 "tag": "A",
-                "text": "",
-                "label": null,
-                "title": null,
-                "rel": null,
-                "href": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/q6ehhZgx5EpBnmTgfUGb",
-                "disabled": false
-              },
-              {
-                "tag": "A",
-                "text": "#5 「やりたいこと」と「ラクなこと」は違うよね\n\n記事あり\n公開日 2026/10/25 10:45",
-                "label": null,
-                "title": null,
-                "rel": null,
-                "href": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/q6ehhZgx5EpBnmTgfUGb",
-                "disabled": false
-              },
-              {
-                "tag": "BUTTON",
-                "text": "",
-                "label": "再生",
-                "title": null,
-                "rel": null,
-                "href": null,
-                "disabled": false
-              },
-              {
-                "tag": "BUTTON",
-                "text": "",
-                "label": "オフライン用にダウンロード",
-                "title": null,
-                "rel": null,
-                "href": null,
-                "disabled": false
-              },
-              {
-                "tag": "A",
                 "text": "2",
                 "label": "2ページ目",
                 "title": null,
@@ -1166,32 +1178,32 @@
           {
             "number": 2,
             "url": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW?kind=article&page=2",
-            "dom_count": 4,
-            "unique_count": 24,
+            "dom_count": 5,
+            "unique_count": 25,
             "scroll_samples": [
               {
                 "round": 0,
-                "count": 4,
-                "unique_count": 24,
+                "count": 5,
+                "unique_count": 25,
                 "height": 3142
               },
               {
                 "round": 1,
-                "count": 4,
-                "unique_count": 24,
-                "height": 1805
+                "count": 5,
+                "unique_count": 25,
+                "height": 1900
               },
               {
                 "round": 2,
-                "count": 4,
-                "unique_count": 24,
-                "height": 1805
+                "count": 5,
+                "unique_count": 25,
+                "height": 1900
               },
               {
                 "round": 3,
-                "count": 4,
-                "unique_count": 24,
-                "height": 1805
+                "count": 5,
+                "unique_count": 25,
+                "height": 1900
               }
             ],
             "controls": [
@@ -1332,11 +1344,47 @@
               },
               {
                 "tag": "A",
-                "text": "記事で読める\n24",
+                "text": "記事で読める\n25",
                 "label": null,
                 "title": null,
                 "rel": null,
                 "href": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW?kind=article",
+                "disabled": false
+              },
+              {
+                "tag": "A",
+                "text": "",
+                "label": null,
+                "title": null,
+                "rel": null,
+                "href": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/q6ehhZgx5EpBnmTgfUGb",
+                "disabled": false
+              },
+              {
+                "tag": "A",
+                "text": "#5 「やりたいこと」と「ラクなこと」は違うよね\n\n記事あり\n公開日 2026/10/25 10:45",
+                "label": null,
+                "title": null,
+                "rel": null,
+                "href": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/q6ehhZgx5EpBnmTgfUGb",
+                "disabled": false
+              },
+              {
+                "tag": "BUTTON",
+                "text": "",
+                "label": "再生",
+                "title": null,
+                "rel": null,
+                "href": null,
+                "disabled": false
+              },
+              {
+                "tag": "BUTTON",
+                "text": "",
+                "label": "オフライン用にダウンロード",
+                "title": null,
+                "rel": null,
+                "href": null,
                 "disabled": false
               },
               {
@@ -1590,7 +1638,7 @@
       "collector_exit_code": 0,
       "retained_previous": true,
       "observation_mode": "live_browser_with_body_dom",
-      "observation_at": "2026-11-14T01:26:15.066Z"
+      "observation_at": "2026-11-15T01:00:51.096Z"
     }
   ],
   "displayed": 4,
