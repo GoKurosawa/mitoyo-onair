@@ -874,6 +874,13 @@
     "rss": "https://anchor.fm/s/118cebd14/podcast/rss",
     "episodes": [
       {
+        "date": "2026-11-17T09:46:53+09:00",
+        "title": "#27（番外編）27日連続でPodcastをやってみて",
+        "link": "https://podcasters.spotify.com/pod/show/5mn90j92mi/episodes/2727Podcast-e3sh4mm",
+        "guid": "2b245146-ecaf-4bb9-bf56-cf8ae2c33b15",
+        "show": "わたあめ職人が語るには"
+      },
+      {
         "date": "2026-11-16T07:46:36+09:00",
         "title": "#26 「いつものやり方」をAIでマニュアルにする",
         "link": "https://podcasters.spotify.com/pod/show/5mn90j92mi/episodes/26-AI-e3semrv",

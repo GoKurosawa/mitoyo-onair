@@ -1,11 +1,17 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-16T00:59:35.611515+00:00",
+  "generated_at": "2026-11-17T03:50:10.844306+00:00",
   "programs": [
     {
       "program_id": 13,
       "status": "held",
       "issues": [
+        {
+          "href": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/qf7l5Mpk4K4ctid1YSTy",
+          "reasons": [
+            "audio_mismatch"
+          ]
+        },
         {
           "href": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/3wUjB5K7zLwNci12CAh2",
           "reasons": [
@@ -163,14 +169,14 @@
           ]
         }
       ],
-      "observed": 26,
+      "observed": 27,
       "audio_matched": 0,
       "verified": 0,
       "matches": [],
       "pagination": {
         "complete": true,
         "reason": "advertised_count_matched_and_stable_after_scroll_no_enabled_next",
-        "expected_count": 26,
+        "expected_count": 27,
         "pages": [
           {
             "number": 1,
@@ -180,7 +186,7 @@
             "scroll_samples": [
               {
                 "round": 0,
-                "count": 20,
+                "count": 40,
                 "unique_count": 20,
                 "height": 3329
               },
@@ -198,6 +204,12 @@
               },
               {
                 "round": 3,
+                "count": 20,
+                "unique_count": 20,
+                "height": 3329
+              },
+              {
+                "round": 4,
                 "count": 20,
                 "unique_count": 20,
                 "height": 3329
@@ -341,11 +353,47 @@
               },
               {
                 "tag": "A",
-                "text": "記事で読める\n26",
+                "text": "記事で読める\n27",
                 "label": null,
                 "title": null,
                 "rel": null,
                 "href": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW?kind=article",
+                "disabled": false
+              },
+              {
+                "tag": "A",
+                "text": "",
+                "label": null,
+                "title": null,
+                "rel": null,
+                "href": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/qf7l5Mpk4K4ctid1YSTy",
+                "disabled": false
+              },
+              {
+                "tag": "A",
+                "text": "#27（番外編）27日連続でPodcastをやってみて\n\n記事あり\n公開日 2026/11/17 09:46",
+                "label": null,
+                "title": null,
+                "rel": null,
+                "href": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/qf7l5Mpk4K4ctid1YSTy",
+                "disabled": false
+              },
+              {
+                "tag": "BUTTON",
+                "text": "",
+                "label": "再生",
+                "title": null,
+                "rel": null,
+                "href": null,
+                "disabled": false
+              },
+              {
+                "tag": "BUTTON",
+                "text": "",
+                "label": "オフライン用にダウンロード",
+                "title": null,
+                "rel": null,
+                "href": null,
                 "disabled": false
               },
               {
@@ -1034,42 +1082,6 @@
               },
               {
                 "tag": "A",
-                "text": "",
-                "label": null,
-                "title": null,
-                "rel": null,
-                "href": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/Dwvjr1k7ZUpKwvxuN6NP",
-                "disabled": false
-              },
-              {
-                "tag": "A",
-                "text": "#7 僕が「三豊オンエア」を作った理由\n\n記事あり\n公開日 2026/10/27 22:11",
-                "label": null,
-                "title": null,
-                "rel": null,
-                "href": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/Dwvjr1k7ZUpKwvxuN6NP",
-                "disabled": false
-              },
-              {
-                "tag": "BUTTON",
-                "text": "",
-                "label": "再生",
-                "title": null,
-                "rel": null,
-                "href": null,
-                "disabled": false
-              },
-              {
-                "tag": "BUTTON",
-                "text": "",
-                "label": "オフライン用にダウンロード",
-                "title": null,
-                "rel": null,
-                "href": null,
-                "disabled": false
-              },
-              {
-                "tag": "A",
                 "text": "2",
                 "label": "2ページ目",
                 "title": null,
@@ -1178,32 +1190,32 @@
           {
             "number": 2,
             "url": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW?kind=article&page=2",
-            "dom_count": 6,
-            "unique_count": 26,
+            "dom_count": 7,
+            "unique_count": 27,
             "scroll_samples": [
               {
                 "round": 0,
-                "count": 6,
-                "unique_count": 26,
-                "height": 2772
+                "count": 7,
+                "unique_count": 27,
+                "height": 3142
               },
               {
                 "round": 1,
-                "count": 6,
-                "unique_count": 26,
-                "height": 1995
+                "count": 7,
+                "unique_count": 27,
+                "height": 2090
               },
               {
                 "round": 2,
-                "count": 6,
-                "unique_count": 26,
-                "height": 1995
+                "count": 7,
+                "unique_count": 27,
+                "height": 2090
               },
               {
                 "round": 3,
-                "count": 6,
-                "unique_count": 26,
-                "height": 1995
+                "count": 7,
+                "unique_count": 27,
+                "height": 2090
               }
             ],
             "controls": [
@@ -1344,11 +1356,47 @@
               },
               {
                 "tag": "A",
-                "text": "記事で読める\n26",
+                "text": "記事で読める\n27",
                 "label": null,
                 "title": null,
                 "rel": null,
                 "href": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW?kind=article",
+                "disabled": false
+              },
+              {
+                "tag": "A",
+                "text": "",
+                "label": null,
+                "title": null,
+                "rel": null,
+                "href": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/Dwvjr1k7ZUpKwvxuN6NP",
+                "disabled": false
+              },
+              {
+                "tag": "A",
+                "text": "#7 僕が「三豊オンエア」を作った理由\n\n記事あり\n公開日 2026/10/27 22:11",
+                "label": null,
+                "title": null,
+                "rel": null,
+                "href": "https://pody.jp/player/lfT9M8syTrRnbeinQJFW/Dwvjr1k7ZUpKwvxuN6NP",
+                "disabled": false
+              },
+              {
+                "tag": "BUTTON",
+                "text": "",
+                "label": "再生",
+                "title": null,
+                "rel": null,
+                "href": null,
+                "disabled": false
+              },
+              {
+                "tag": "BUTTON",
+                "text": "",
+                "label": "オフライン用にダウンロード",
+                "title": null,
+                "rel": null,
+                "href": null,
                 "disabled": false
               },
               {
@@ -1674,7 +1722,7 @@
       "collector_exit_code": 0,
       "retained_previous": true,
       "observation_mode": "live_browser_with_body_dom",
-      "observation_at": "2026-11-16T00:59:35.694Z"
+      "observation_at": "2026-11-17T03:50:10.936Z"
     }
   ],
   "displayed": 4,
