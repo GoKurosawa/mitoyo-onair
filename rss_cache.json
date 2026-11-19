@@ -3,6 +3,13 @@
     "rss": "https://anchor.fm/s/edbe9770/podcast/rss",
     "episodes": [
       {
+        "date": "2026-11-17T22:00:00+09:00",
+        "title": "#2-30 「なんでもない話をしに」ゲスト 細谷 柊太 さん",
+        "link": "https://podcasters.spotify.com/pod/show/a7lsk4gucf/episodes/2-30-e3ruge4",
+        "guid": "9de8676b-dc13-448f-92a9-e47ade34b480",
+        "show": "おかわりラジオ🍚"
+      },
+      {
         "date": "2026-11-10T22:00:00+09:00",
         "title": "＃2-29 「オムライスが食べたくて」ゲスト岩野 葉月さん",
         "link": "https://podcasters.spotify.com/pod/show/a7lsk4gucf/episodes/2-29-e3rl25h",
@@ -687,6 +694,13 @@
     "rss": "https://anchor.fm/s/110de22fc/podcast/rss",
     "episodes": [
       {
+        "date": "2026-11-19T10:00:00+09:00",
+        "title": "#27 暮らしの大学 図書室｜石はね、冬もいるんですよ",
+        "link": "https://podcasters.spotify.com/pod/show/fvpkbq5p1a8/episodes/27-e3rno3v",
+        "guid": "f65ee325-1faa-41a5-9877-24fa6bcc4ed7",
+        "show": "瀬戸内暮らしの大学 校内放送"
+      },
+      {
         "date": "2026-11-12T10:00:00+09:00",
         "title": "#26 全部そろっていたのに、一度止まりました｜はじめる話・支援する側",
         "link": "https://podcasters.spotify.com/pod/show/fvpkbq5p1a8/episodes/26-e3rno2v",
@@ -1067,6 +1081,13 @@
   "1": {
     "rss": "https://anchor.fm/s/1082bfa80/podcast/rss",
     "episodes": [
+      {
+        "date": "2026-11-18T10:55:21+09:00",
+        "title": "#118 一生続くであろうどぎつい仲間たち",
+        "link": "https://podcasters.spotify.com/pod/show/nami090/episodes/118-e3sj9u2",
+        "guid": "979847b1-39d1-4d92-8b11-200cb50aed15",
+        "show": "なみさんの焚べるラジオ"
+      },
       {
         "date": "2026-11-13T10:58:06+09:00",
         "title": "#117 久しぶりの博多と初めましての壱岐",
