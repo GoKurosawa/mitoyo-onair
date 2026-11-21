@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-20T02:18:09.904172+00:00",
+  "generated_at": "2026-11-21T02:11:24.798027+00:00",
   "programs": [
     {
       "program_id": 13,
@@ -186,9 +186,9 @@
             "scroll_samples": [
               {
                 "round": 0,
-                "count": 20,
+                "count": 40,
                 "unique_count": 20,
-                "height": 3142
+                "height": 3329
               },
               {
                 "round": 1,
@@ -204,6 +204,12 @@
               },
               {
                 "round": 3,
+                "count": 20,
+                "unique_count": 20,
+                "height": 3329
+              },
+              {
+                "round": 4,
                 "count": 20,
                 "unique_count": 20,
                 "height": 3329
@@ -1189,9 +1195,9 @@
             "scroll_samples": [
               {
                 "round": 0,
-                "count": 7,
-                "unique_count": 27,
-                "height": 2090
+                "count": 0,
+                "unique_count": 20,
+                "height": 3142
               },
               {
                 "round": 1,
@@ -1207,6 +1213,12 @@
               },
               {
                 "round": 3,
+                "count": 7,
+                "unique_count": 27,
+                "height": 2090
+              },
+              {
+                "round": 4,
                 "count": 7,
                 "unique_count": 27,
                 "height": 2090
@@ -1716,7 +1728,7 @@
       "collector_exit_code": 0,
       "retained_previous": true,
       "observation_mode": "live_browser_with_body_dom",
-      "observation_at": "2026-11-20T02:18:10.159Z"
+      "observation_at": "2026-11-21T02:11:24.880Z"
     }
   ],
   "displayed": 4,
