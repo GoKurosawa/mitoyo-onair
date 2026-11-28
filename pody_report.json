@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-27T03:38:07.000897+00:00",
+  "generated_at": "2026-11-28T03:17:24.383206+00:00",
   "programs": [
     {
       "program_id": 13,
@@ -186,9 +186,9 @@
             "scroll_samples": [
               {
                 "round": 0,
-                "count": 20,
+                "count": 40,
                 "unique_count": 20,
-                "height": 3142
+                "height": 3329
               },
               {
                 "round": 1,
@@ -204,6 +204,12 @@
               },
               {
                 "round": 3,
+                "count": 20,
+                "unique_count": 20,
+                "height": 3329
+              },
+              {
+                "round": 4,
                 "count": 20,
                 "unique_count": 20,
                 "height": 3329
@@ -1716,7 +1722,7 @@
       "collector_exit_code": 0,
       "retained_previous": true,
       "observation_mode": "live_browser_with_body_dom",
-      "observation_at": "2026-11-27T03:38:07.046Z"
+      "observation_at": "2026-11-28T03:17:24.519Z"
     }
   ],
   "displayed": 4,
